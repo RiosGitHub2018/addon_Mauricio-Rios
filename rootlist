@@ -12,7 +12,7 @@
 	<channel>
 	<name>[COLOR  orange]Tokusatsus[/COLOR]</name>
 	<genre>Sériados japoneses</genre>
-	<fanart>http://xmbcrios.esy.es/icons/fanart3-tokusatsus.png</fanart>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/088587c0_zpsnljszsfc.jpg~original</fanart>
 	<thumbnail>http://xmbcrios.esy.es/icons/tokusatsus.png</thumbnail>
 	<info>Tokusatsu é uma abreviatura da expressão japonesa "tokushu satsuei", traduzida como "filme de efeitos especiais".</info>
 	<items>
@@ -31,7 +31,7 @@
 	<thumbnail>http://xmbcrios.esy.es/icons/gaban.png</thumbnail>
 	<fanart>http://xmbcrios.esy.es/fanats/fanarttokusatus.jpg</fanart>
 	<info>Traduzido como Detetive Espacial Gavan, e lançada no Brasil sob o título de Space Cop Gaban) é a primeira série de televisão do gênero tokusatsu da franquia Metal Hero. Foi produzida pela Toei Company, e exibida originalmente entre 5 de março de 1982 e 25 de fevereiro de 1983 pela TV Asahi. A série é a primeira da trilogia dos Policiais do Espaço, continuada pelas duas séries seguintes, Sharivan e Shaider. No Brasil, foi transmitida pela Rede Globo a partir de 4 de março de 1991 na Sessão Aventura, quando foram exibidos apenas os 20 primeiros episódios. Posteriormente, foi remanejado para o extinto Xou da Xuxa, quando os 44 episódios foram milagrosamente exibidos. Também foi TV Gazeta subsequentemente no mesmo ano, no programa Gazetinha.</info>
-	<externallink>http://xmbcrios.esy.es/listas/tokusatsus/gaban.m3u</externallink>
+	<externallink>https://github.com/RiosGitHub2018/addon_Mauricio-Rios/blob/master/tk_Gavan</externallink>
 	</item>		
 	<!-- if channels_info, 2ª série tokusatus -->	
 	<item>
@@ -766,7 +766,7 @@
 	<link>http://ignorame</link>
 	<thumbnail>http://xmbcrios.esy.es/logo/tvaovivop3.png</thumbnail>
 	<fanart>http://www.armacao.com.br/blog/wp-content/uploads/2011/04/features_global.jpg</fanart>
-	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/CanaisdetvOnline</externallink>
+	<externallink>http://xmbcrios.esy.es/listas/riostv.xml</externallink>
 	</item>
 	<item>
 	<title>[B][COLOR  cornflowerblue]OPÇÃO 4[/COLOR][/B]</title>
@@ -831,3 +831,7 @@
 	<items>
 	</channel>
 	</channels>
+
+
+
+								
