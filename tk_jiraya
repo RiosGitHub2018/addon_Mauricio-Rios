@@ -1,0 +1,150 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 1-Pako, a Cápsula Miraculosa
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8elRFUVdTbWM5XzA/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 2-Barão Owl, o Imperador Ninja   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8TU1qUGRrTUh3bHc/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 3-A Esmeralda   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8QmtqSFI5cjgtcVk/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 4-A Retomada da Inscrição   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8Z2laY015NF9fRG8/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 5-O Roubo da Espada Olímpica   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8T00zdDBVUFpRSms/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 6-O Mistério dos Mistérios
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 7-O Caçador da Selva   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8TDNvU2dqekVvMm8/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 8-O Anjo da Paz   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8Yy1OLXZqVW9oQms/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 9-A Emboscada   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8dlZEZVFickxBN3c/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 10-A Vida ou a Morte   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8dFA1YzdEVEcyNDQ/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 11-A Vingança do Kung-Fu   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8WUNzbE9PYWlaUDA/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 12-A Promessa do Amor   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8aThldUlPbkhFTTA/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 13-As Sete Sombras   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8anZfUXlManNNUm8/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 14-O Franco-Atirador   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8ZDBMZEhFYUkxWEU/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 15-A Maldição Lendária   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/?authuser=0#folders/0B8J5V4egL-I8MkZYUXBQZzEwZDQ
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 16-A Cruzada dos Ninjas   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8dkw1MUhWMF9BS1U/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 17-A Estrela das Trevas   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8VXRCRnU3YktFNlE/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 18-A Vingança de Agnes   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8QVRuUDlRYjhPUWc/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 19-A Invasão   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8N09obnJRQnU3ZDA/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 20-Procura-se Jiraiya   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8UFpDaXRPQ2Fsb2M/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 21-A Ira da Lua   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8Zl9ZMWJwcTBoV2M/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 22-A Dimensão da Amizade   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8VENpVnY1TmJuUjg/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 23-O Sequestro dos Cientistas   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8bm03YUFCaFpwcUE/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 24-O Capitão Pirata   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8NHBWVkJuU1BxS0k/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 25-O Rapto dos Animais   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8dElnUXlZR0p5VW8/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 26-A Primavera de Emiha   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8ODJZQlhFaEZ3Zjg/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 27-Jiraiya, o inimigo de Toha   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8TDJzbHYzYlhFZVE/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 28-Quem sou eu?   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8NU1WeURvQTJvVzA/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 29-A Revolta do Pequeno Ninja   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8QkNNRVJRQzlkbjQ/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 30-O Ninja Solitário   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8NzU5NjNiOUlJZGc/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 31 - A espada de Shinguen
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8S0w4WW96dUkxTmc/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 32-A Percepção Extrasensorial   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8ODVCUnZ5OFRibFE/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 33-A Guitarra Cobiçada   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8aVZqU3pxZ3NvM0k/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 34-A Caveira Assassina   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8QmJkVXRhX2pnZDQ/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 35-O Desafio dos Togakure   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8Rng1eTJ0LTZvbEk/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 36-O Feitiço do Gato Preto   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8R2FGSTRyYmIzblE/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 37-O Homem de 23 Anos   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8QzFHaFVzaElMMjA/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 38-As Mil e Uma Faces   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8RDJQS3MyTkZTNjQ/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 39-A Conspiração de Morgana   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8bWJLNVVOWnVMY2s/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 40-A Traição   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8Q2pCVXhSZG9zR3M/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 41-Olímpica VS Satã   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8ZlJMc0o2bXhKbmc/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 42-Adeus, Mamãe   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8M1ExTG1RMEJVVjA/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 43-O Indomável Strowver   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8dXFiVUZRdG5uaDQ/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 44-O Poder do Amor   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8U1dKWmxjSE1Cb2s/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 45-A Ponte da Esperança   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8SUlBYWV6NURrUXM/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 46-Amizade Perdida   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8NkxCZ1hjaE1lV0U/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 47-Manabu e seu Primeiro Amor   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8TmVXVUdYeVZwZ0U/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 48-O Aparecimento de Pako   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8VUlpSmhtdFNpTDA/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 49-O Último Confronto   
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8VzkyS3BzOUJ2Uk0/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 50-Adeus, Espada Olímpica
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8b3AzNEtCMzJ2elE/edit
