@@ -816,7 +816,7 @@
 	<genre>Os melhores Canais do Youtube</genre>
 	<fanart>https://cld.pt/dl/download/cc60346d-5ff6-417b-944f-5eea5ced41a6/fanarttunel.jpg</fanart>
 	<thumbnail>https://i.imgur.com/DoiM345.jpg</thumbnail>
-	<externallink>http://xmbcrios.esy.es/listas/addons/tuneldotempo.txt</externallink>
+	<jsonrpc>plugin://plugin.video.ytchannels/?</jsonrpc>
 	<items>
 	</channel>
 	</channels>	
