@@ -13,7 +13,7 @@
 	<name>[COLOR  orange]Tokusatsus[/COLOR]</name>
 	<genre>Sériados japoneses</genre>
 	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/088587c0_zpsnljszsfc.jpg~original</fanart>
-	<thumbnail>http://xmbcrios.esy.es/icons/tokusatsus.png</thumbnail>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/tokusatsus_zpsbvzy3adp.png~original</thumbnail>
 	<info>Tokusatsu é uma abreviatura da expressão japonesa "tokushu satsuei", traduzida como "filme de efeitos especiais".</info>
 	<items>
 	<!-- if channels_info, sessão metal heros -->		
@@ -21,7 +21,7 @@
 	<title>[COLOR greenyellow]•••••••••• SESSÃO METAL HEROS ••••••••••[/COLOR]</title>
 	<link>http://ignorame</link>
 	<genre>[COLOR palegreen]Metaru Hīrō Shirīzu? [/COLOR] (Metal Hero ) foi uma franquia de séries de televisão do gênero tokusatsu da produtora japonesa Toei Company , produzidas a partir de 1982 com Uchuu Keiji Gyaban, durando até 1998, com Robotack. Ao longo dos anos o gênero foi sofrendo modificações até ser extinto em 1998.</genre>
-	<thumbnail>http://xmbcrios.esy.es/icons/metaheros.png</thumbnail>
+	<thumbnail>https://i.imgur.com/fiQ8JK5.jpg</thumbnail>
 	</item>		
 	<!-- if channels_info, 1ª série tokusatus -->		
 	<item>
@@ -265,7 +265,7 @@
 	<title>[COLOR greenyellow]•••••••••• SESSÃO KAMEN RIDER ••••••••••[/COLOR]</title>
 	<link>http://ignorame</link>
 	<genre>[COLOR palegreen]Kamen Raidā? [/COLOR] (Kamen Rider )  é o nome de uma franquia televisiva e cinematográfica do gênero tokusatsu criada no Japão pelo mangaká Shotaro Ishinomori e produzida pela Toei Company. A franquia teve início em 1971 com uma série chamada simplesmente Kamen Rider, que foi derivada do mangá de mesmo nome.</genre>
-	<thumbnail>http://xmbcrios.esy.es/icons/camenriders.png</thumbnail>
+	<thumbnail>https://i.imgur.com/qF5KOBb.jpg</thumbnail>
 	</item>		
 	<!-- if channels_info, 1ª série kamen rider-->	       	
 	<item>
@@ -358,7 +358,7 @@
 	<channel>
 	<name>[COLOR  orange]Desenhos[/COLOR]</name>
 	<genre>Desenhos Classicos</genre>
-	<fanart>http://xmbcrios.esy.es/icons/fanart_desenhos.png</fanart>
+	<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
 	<thumbnail>https://i.imgur.com/rsNH2Vb.jpg</thumbnail>
 	<info>Aqui você encontra alguns desenhos animados dos anos 80 que marcaram sua infâcia tais como He-man, Senturions e etc... </info>
 	<items>
@@ -658,7 +658,7 @@
 	<channel>
 	<name>[COLOR  orange]Séries[/COLOR]</name>
 	<genre>Séries Clássicas e atuais</genre>
-	<fanart>http://xmbcrios.esy.es/icons/fanart-series.png</fanart>
+	<fanart>https://i.imgur.com/hXlaHJK.jpg</fanart>
 	<thumbnail>https://i.imgur.com/f4wGULS.jpg</thumbnail>
 	<info>Séries de TV Online e On demand</info>
 	<items>
@@ -737,7 +737,7 @@
 	<name>[COLOR  orange] Canais de TV [/COLOR]</name>
 	<genre>Canai te tv ao vivo</genre>
 	<fanart>http://xmbcrios.esy.es/fanats/fanarttv.jpg</fanart>
-	<thumbnail>http://xmbcrios.esy.es/logo/canaistv.png</thumbnail>
+	<thumbnail>https://i.imgur.com/Gggwof8.jpg</thumbnail>
 	<items>
 	<!-- if channels_info, 1ª lista -->		
 		<item>
@@ -783,7 +783,7 @@
 	<name>[COLOR  orange] Canais de Rádio[/COLOR]</name>
 	<link>http://ignorame</link>
 	<genre>As melhores Rádios do Brasil</genre>
-	<fanart>http://xmbcrios.esy.es/fanats/fanarradios.jpg</fanart>
+	<fanart>https://i.imgur.com/Y8Eff23.jpg</fanart>
 	<externallink>http://xmbcrios.esy.es/listas/radios.xml</externallink>
 	<thumbnail>https://i.imgur.com/mia61Bf.jpg</thumbnail>
 	<items>
