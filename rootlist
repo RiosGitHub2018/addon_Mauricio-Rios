@@ -51,7 +51,7 @@
 	<thumbnail>http://xmbcrios.esy.es/icons/shaider.png</thumbnail>
 	<fanart>http://xmbcrios.esy.es/fanats/fanarttokusatus.jpg</fanart>
 	<info>É uma série de televisão do gênero tokusatsu da franquia Metal Hero, sucedendo Sharivan e antecedendo Jaspion. Produzida pela Toei Company, foi exibida originalmente entre 2 de março de 1984 e 8 de março de 1985 pela TV Asahi, totalizando 49 episódios. É a terceira e última série da trilogia dos Policiais do Espaço. No Brasil, Shaider foi exibido em 1990 pela TV Gazeta de 19/11/90 até 23/03/91. Posteriormente, exibido pela Rede Globo inicialmente aos sábados pela manhã (7h35) de 6 de abril a 22 de junho de 1991. Em 1992, foi remanejado para as madrugadas de sexta para sábado e sábado para domingo, junto com Bicrossers, no período de 14 de junho de 1992 até 10 de janeiro de 1993, sua última exibição. Posteriormente, foi adaptada para o público americano, juntamente com Spielvan e Metalder, pela produtora norte-americana Saban Entertainment como a série VR Troopers.</info>
-	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/</externallink>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/tk_Shaider</externallink>
 	</item>
 	<!-- if channels_info, 4ª série tokusatus -->
 	<item>
@@ -71,7 +71,7 @@
 	<thumbnail>http://xmbcrios.esy.es/icons/spielvan.png</thumbnail>
 	<fanart>http://xmbcrios.esy.es/fanats/fanarttokusatus.jpg</fanart>
 	<info>O planeta Clean é invadido e destruído pelas forças do Império Water(Waller) e seus ultimos habitantes decidem enviar dois garotos, Spielvan e Diana para uma jornada de doze anos em animação suspensa para combater o maligno império. Spielvan além de aceitar essa missão tem a intenção de resgatar seu pai e sua irmã Helen, sequestrados pelo Império do mal. Para isso, Spielvan e Diana contam com armaduras Metaltech e um imenso arsenal de batalha Informações Técnicas.</info>
-	<externallink>http://xmbcrios.esy.es/listas/tokusatsus/spielvan.m3u</externallink>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/tk_Spielvan</externallink>
 	</item>
 	<!-- if channels_info, 6ª série tokusatus -->
 	<item>
@@ -81,7 +81,7 @@
 	<thumbnail>http://xmbcrios.esy.es/icons/metalder.png</thumbnail>
 	<fanart>http://xmbcrios.esy.es/fanats/fanarttokusatus.jpg</fanart>
 	<info>Em meio à 2ª Guerra Mundial, o Doutor Koga, um especialista em robótica, desenvolveu o andróide Metalder, como arma secreta do exército japonês para ser usado na Guerra do Pacífico contra os EUA. Como modelo, o Doutor Koga utilizou o seu finado filho, Tatsuo Koga, segundo subtenente da Marinha Imperial. No entanto, o projeto foi abandonado. Em 1987, Koga descobre a existência do Império Neroz e, pouco antes de morrer, ativa Metalder, que desperta como o andróide Hideki Kondo (Ryuusei Tsurugi, no original). Hideki assiste à morte de seu criador pelos soldados de Neroz e se enfurece, assumindo a forma de Metalder; como tal, decide combater o Império Neroz.</info>
-	<externallink>http://xmbcrios.esy.es/listas/tokusatsus/metalder.m3u</externallink>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/tk_Metalder</externallink>
 	</item>
 	<!-- if channels_info, 7ª série tokusatus -->
 	<item>
