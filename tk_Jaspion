@@ -1,4 +1,5 @@
- #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jaspion.png" group-title=" Tokusatsus", 1-O Planeta de Edin 
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jaspion.png" group-title=" Tokusatsus", 1-O Planeta de Edin 
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B8J5V4egL-I8T1lEWFJQajVnS3c/view 
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jaspion.png" group-title=" Tokusatsus", 2-O Triste Fim de Sakurá 
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B8J5V4egL-I8T1lEWFJQajVnS3c/view
