@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/jamperson.png"group-title="Tokusatsus", Jamperson RTV_EP-01
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgc2pQc0YwXzlqSGM/view
+
+#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/jamperson.png"group-title="Tokusatsus", Jamperson RTV_EP-02
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgdlo2aUdaN25Gc1U/view
+
+#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/jamperson.png"group-title="Tokusatsus", Jamperson RTV_EP-03
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgYUg4R3N0WHdoajA/view
+
+#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/jamperson.png"group-title="Tokusatsus", Jamperson RTV_EP-04
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgUTFXVS1aWU5UeGc/view
+
+#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/jamperson.png"group-title="Tokusatsus", Jamperson RTV_EP-05
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgcnZGRHlDal91dVU/view
+
+#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/jamperson.png"group-title="Tokusatsus", Jamperson RTV_EP-06
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgSWYzbVNQZW16blU/view
+
+#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/jamperson.png"group-title="Tokusatsus", Jamperson RTV_EP-07
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgeEo2Rml4Wmk3cGc/view
+
+#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/jamperson.png"group-title="Tokusatsus", Jamperson RTV_EP-08
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgU29CLWlzUklISDg/view
+
+#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/jamperson.png"group-title="Tokusatsus", Jamperson RTV_EP-09
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgaXg5S1hneXRRVU0/view
+
+#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/jamperson.png"group-title="Tokusatsus", Jamperson RTV_EP-10
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgQlduU3h0STZ3LWs/view
+
+#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/jamperson.png"group-title="Tokusatsus", Jamperson RTV_EP-11
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgdFZDWmhDdW1oTnc/view
+
+#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/jamperson.png"group-title="Tokusatsus", Jamperson RTV_EP-12
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgcVRjQVRxOEhBcTA/view
+
+#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/jamperson.png"group-title="Tokusatsus", Jamperson RTV_EP-13
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgamtNbFhHQzhSc1U/view
+
+#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/jamperson.png"group-title="Tokusatsus", Jamperson RTV_EP-14
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgZ1NibXVDcUpXXzA/view
+
+#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/jamperson.png"group-title="Tokusatsus", Jamperson RTV_EP-15
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgLWZVVFY4TmZWQXc/view
+
+#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/jamperson.png"group-title="Tokusatsus", Jamperson RTV_EP-16
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgYXduUnl4czJFSkk/view
+
