@@ -359,7 +359,7 @@
 	<name>[COLOR  orange]Desenhos[/COLOR]</name>
 	<genre>Desenhos Classicos</genre>
 	<fanart>http://xmbcrios.esy.es/icons/fanart_desenhos.png</fanart>
-	<thumbnail>http://xmbcrios.esy.es/icons/desenhos.png</thumbnail>
+	<thumbnail>https://i.imgur.com/rsNH2Vb.jpg</thumbnail>
 	<info>Aqui você encontra alguns desenhos animados dos anos 80 que marcaram sua infâcia tais como He-man, Senturions e etc... </info>
 	<items>
 	<!----------------------------------------------1º desenho --------------------------------------------------------->	
@@ -785,7 +785,7 @@
 	<genre>As melhores Rádios do Brasil</genre>
 	<fanart>http://xmbcrios.esy.es/fanats/fanarradios.jpg</fanart>
 	<externallink>http://xmbcrios.esy.es/listas/radios.xml</externallink>
-	<thumbnail>http://xmbcrios.esy.es/logo/radios.png</thumbnail>
+	<thumbnail>https://i.imgur.com/mia61Bf.jpg</thumbnail>
 	<items>
 	</channel>
 	</channels>	
@@ -815,7 +815,7 @@
 	<link>http://ignorame</link>
 	<genre>Os melhores Canais do Youtube</genre>
 	<fanart>https://cld.pt/dl/download/cc60346d-5ff6-417b-944f-5eea5ced41a6/fanarttunel.jpg</fanart>
-	<thumbnail>http://zip.net/bytyX0</thumbnail>
+	<thumbnail>https://i.imgur.com/DoiM345.jpg</thumbnail>
 	<externallink>http://xmbcrios.esy.es/listas/addons/tuneldotempo.txt</externallink>
 	<items>
 	</channel>
