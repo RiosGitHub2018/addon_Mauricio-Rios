@@ -805,7 +805,7 @@
 	<genre>Os melhores Canais do Youtube</genre>
 	<fanart>https://raw.githubusercontent.com/xmbcrios/xmbcrios.repository/master/plugin.video.bryoutubers/fanart.jpg</fanart>
 	<thumbnail>http://zip.net/bjtyqy</thumbnail>
-	<externallink>http://xmbcrios.esy.es/listas/addons/bryoutubers.txt</externallink>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/bryoutubers.txt</externallink>
 	<items>
 	</channel>
 	</channels>
