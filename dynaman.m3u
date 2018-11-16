@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-01
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgWmN2QmFxdGhjTDQ/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-02
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgZVYxV1lsWjRSdTQ/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-03
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgc0tTQnoyeGlaTUE/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-04
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgQnNtYThnbUl3R2M/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-05
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgNER0anNGeGpjbHM/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-06
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBga19kSDNFckk4ZjA/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-07
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgTVVqaHIxVXU5X1k/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-08
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgZm9mbUxmUzZmS1U/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-09
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgSklHS0hNQnNwYkU/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-010
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgTl80Zk44Ti1KWXc/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-011
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgOEVQX01MTzlrdVE/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-012
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgSl9NN0xpMjBGMDg/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-013
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgNHRTNi05WUhQS1E/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-014
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgdXdnR0k2NS1qWnM/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-015
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgNjNFV016ejBGbVE/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-016
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgcmJWSjV0Q0FBVWc/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-017
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgOWQ4clk0bzVBdXc/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgY2ttLWFhRlBnMnc/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-019
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgcndkUGxiNG9pSDA/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-020
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgTi16cFo0S2VXd3M/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-021
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgb24yb3Z0VWZ3SUE/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-022
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBga0M3NkN2RFVQaG8/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-023
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgVnVFTDhLaEt6SGc/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-024
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgajNtTUZTcU9Sd3c/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-025
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgVjBKUGhmU205SFU/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-026
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgdjJCenRJbHZVeGc/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-027
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgOTRkVnBOb1o0dTQ/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-028
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgT01oTldkR09DQ2s/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-029
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgVmJNTnFlZ0xwajg/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/dyn.png" group-title="Tokusatsus", Dynaman - RIOSTV-030
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=

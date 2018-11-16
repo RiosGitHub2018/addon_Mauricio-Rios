@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/carrenger.png" group-title="Tokusatsus", Carrenger_EP-01     
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iNGgtSld4bHpOTVE/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/carrenger.png" group-title="Tokusatsus", Carrenger_EP-02        
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iMzdlandpeDd6RTQ/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/carrenger.png" group-title="Tokusatsus", Carrenger_EP-03        
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iRzB1dFhoMlMtVEU/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/carrenger.png" group-title="Tokusatsus", Carrenger_EP-04        
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iR2FjMlNsZDA0Z28/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/carrenger.png" group-title="Tokusatsus", Carrenger_EP-05        
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-ia21qYUdWd19uSFU/edit
+ 
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/carrenger.png" group-title="Tokusatsus", Carrenger_EP-06        
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iZlBNZlp1MEptcTQ/edit
+ 
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/carrenger.png" group-title="Tokusatsus", Carrenger_EP-07        
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iOGpSYm1xQTRSYTg/edit
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/carrenger.png" group-title="Tokusatsus", Carrenger_EP-08        
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-idXU1MG8zNVhhalE/edit
+ 
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/carrenger.png" group-title="Tokusatsus", Carrenger_EP-09        
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/carrenger.png" group-title="Tokusatsus", Carrenger_EP-10        
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/carrenger.png" group-title="Tokusatsus", Carrenger_EP-11        
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+ 
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/carrenger.png" group-title="Tokusatsus", Carrenger_EP-12        
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/carrenger.png" group-title="Tokusatsus", Carrenger_EP-13        
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/carrenger.png" group-title="Tokusatsus", Carrenger_EP-14        
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+ 
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/carrenger.png" group-title="Tokusatsus", Carrenger_EP-15        
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+ 
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/carrenger.png" group-title="Tokusatsus", Carrenger_EP-16        
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/carrenger.png" group-title="Tokusatsus", Carrenger_EP-08        
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/carrenger.png" group-title="Tokusatsus", Carrenger_EP-19        
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/carrenger.png" group-title="Tokusatsus", Carrenger_EP-20        
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/carrenger.png" group-title="Tokusatsus", Carrenger_EP-21        
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/carrenger.png" group-title="Tokusatsus", Carrenger_EP-22        
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+     
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/kmriderx.png" group-title="Tokusatsus", Black RX_EP-01
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgUHFmdTFPS3hVM1U/view
+

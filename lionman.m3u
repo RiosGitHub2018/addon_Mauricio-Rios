@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  01 - O Homen Foguete    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iZ2t3b1FVTlRIalE/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  02 - O Invencível Jaguar    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iSUo0MFdQV3pYMnM/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  03 - O Tanque Tartaruga    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iY0xYR0k2WF9zMk0/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  04 - Bomba Vulcânica    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iZ0Y1RXE5ZlE1OU0/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  05 - Precioso Liquido    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iXzZnYm01NzlnT2c/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  06 - A Missão de Jaguar    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iS1BtT1EzQW01Y0E/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  07 - A Fortaleza    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iMHRyTURpY2ctZkE/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  08 - A Misteriosa Arma    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iMzRlNTBaR01iLWc/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  09 - O Vale do Diabo    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-id2dQbFczUWxjdWs/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  10 - O Canhão Gigante    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iV0FaTHV6dnZTR2c/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  11 - A Volta de Tiger    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iNUpDQnJVbVpHWlU/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  12 - O Vingador das Trevas    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-idmZCVWx3X2M4blE/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  13 - O Intrepido Lion Man    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iMGRkQkJOR093TFk/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  14 - A vingança de Lion Man    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iVFR0N3RQRm5LYkE/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  15 - O Prisioneiro    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-idkx5UGhRcjViR00/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  16 - Sem Amanhã    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iWDh3d1VldzdLY2c/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  17 - O Reino de Mantor    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iclgwMDFld1ppTzA/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  18 - A Fortaleza Subterranea    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iZ2wtTG42bWE5alk/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  19 - Ressucite Lion Man    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iSldiSWJDOTNjb3c/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  20 - A Derrota de Shimaru    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iWFYyeERqLTZBOHc/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  21 - Irmãos Coragem    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iajdiODFrcDRPZEk/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  22 - O Segredo do Santuário    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-icTVZZHJwbjFVWm8/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  23 - Agdar vs Lion Man    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-ieGdRb2x5RHVHZ2M/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  24 - Triste Decepção    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iN2x4OFNnNVpmN0E/edit
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/lionman.png" group-title="Tokusatsus",  25 - A Queda do Império    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-idmZjTEc2bEZYWG8/edit
+
+ 
