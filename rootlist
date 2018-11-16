@@ -659,7 +659,7 @@
 	<name>[COLOR  orange]Séries[/COLOR]</name>
 	<genre>Séries Clássicas e atuais</genre>
 	<fanart>http://xmbcrios.esy.es/icons/fanart-series.png</fanart>
-	<thumbnail>http://xmbcrios.esy.es/icons/series.png</thumbnail>
+	<thumbnail>https://i.imgur.com/f4wGULS.jpg</thumbnail>
 	<info>Séries de TV Online e On demand</info>
 	<items>
 	<!-- if channels_info, 1ª série    -->		
