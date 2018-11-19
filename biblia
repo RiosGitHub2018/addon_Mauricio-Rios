@@ -1,13 +1,6 @@
-<item>
-<title>1 - GENESIS 5</title>
-<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Biblia%20Sagrada/geneses_zpsgmps3dza.png~original</thumbnail>
-<fanart>encurtador.com.br/ryBPS</fanart>
- <link>plugin://plugin.video.youtube/play/?video_id=v=jSvyN_PMmLg</link>
-</item>
+#EXTINF:-1 tvg-logo="http://i38.photobucket.com/albums/e117/doidoRios/Biblia%20Sagrada/geneses_zpsgmps3dza.png~original" group-title="Biblia", 1- GENESIS
+plugin://plugin.video.youtube/play/?video_id=4g0n5Stt7CQ
 
-<item>
-<title>2 - EXODO</title>
-<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Biblia%20Sagrada/exodo_zpsah4cehx3.png~original</thumbnail>
-<fanart>encurtador.com.br/ryBPS</fanart>
-<utube>PLFE67CB989BB9FC14</utube>
-</item>
+
+
+
