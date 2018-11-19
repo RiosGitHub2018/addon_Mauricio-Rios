@@ -766,7 +766,7 @@
 	<link>http://ignorame</link>
 	<thumbnail>http://xmbcrios.esy.es/logo/tvaovivop3.png</thumbnail>
 	<fanart>http://www.armacao.com.br/blog/wp-content/uploads/2011/04/features_global.jpg</fanart>
-	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/riostv.xml</externallink>
+	<externallink>http://xmbcrios.esy.es/listas/riostv.xml</externallink>
 	</item>
 	<item>
 	<title>[B][COLOR  cornflowerblue]OPÇÃO 4[/COLOR][/B]</title>
@@ -784,7 +784,7 @@
 	<link>http://ignorame</link>
 	<genre>As melhores Rádios do Brasil</genre>
 	<fanart>https://i.imgur.com/Y8Eff23.jpg</fanart>
-	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/radios.xml</externallink>
+	<externallink>http://xmbcrios.esy.es/listas/radios.xml</externallink>
 	<thumbnail>https://i.imgur.com/mia61Bf.jpg</thumbnail>
 	<items>
 	</channel>
@@ -799,6 +799,7 @@
 	<info>MILTON GUEDES criador do ADDON -- endereço do grupo no facebook -- https://www.facebook.com/groups/568745316624875</info>
 	</channel>		
 	<!------------------------------------------------BR Youtubers ---------------------------------------------------------->					 
+	<!-- if
 	<channel>
 	<name>[COLOR  orange]BR Youtubers[/COLOR]</name>
 	<link>http://ignorame</link>
@@ -809,7 +810,7 @@
 	<items>
 	</channel>
 	</channels>
-	<!------------------------------------------------  ---------------------------------------------------------->					 
+				 
 	<channel>
 	<name>[COLOR  orange]Túnel do Tempo[/COLOR]</name>
 	<link>http://ignorame</link>
@@ -820,6 +821,7 @@
 	<items>
 	</channel>
 	</channels>	
+	 >
 	<!------------------------------------------------  ---------------------------------------------------------->					 
 	<channel>
 	<name>[COLOR  orange]Novelas Antigas[/COLOR]</name>
