@@ -1,39 +1,4 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nFJ6218.jpg" group-title="TV ABERTA", 06:00 - Band News
-http://evp.mm.uol.com.br:1935/bandnews/bandnews/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ovY8B8g.jpg" group-title="TV ABERTA", 07:30 - Café com Jornal 
-http://evp.mm.uol.com.br:1935/band/cafecomjornal/playlistv.m3u8?iptvlivre
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/QdsNpDD.jpg" group-title="TV ABERTA", 09:10 - Dia Dia 
-http://evp.mm.uol.com.br:1935/band/diadia/playlistv.m3u8?iptvlivre
-
-#EXTINF:-1 tvg-logo="http://i38.photobucket.com/albums/e117/doidoRios/jogo_zpscm9u3bci.png~original" group-title="TV ABERTA", 11:00 - Jogo Aberto 
-http://evp.mm.uol.com.br:1935/band/jogoaberto/playlistv.m3u8?iptvlivre
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1877892719/logo.jpg" group-title="TV ABERTA", 13:00 - Os Donos da Bola 
-http://evp.mm.uol.com.br:1935/band/donosdabola/playlistv.m3u8?iptvlivre
-
-#EXTINF:-1 tvg-logo="http://noticias.band.uol.com.br/brasilurgente/imagens/social/brasilurgente.jpg" group-title="TV ABERTA", 16:15 - Brasil Urgente 
-http://evp.mm.uol.com.br:1935/band/brasilurgente/playlistv.m3u8?iptvlivre
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/L8QPv6C.jpg" group-title="TV ABERTA", 17:50 - 3º Tempo 
-http://evp.mm.uol.com.br:1935/band/terceirotempo/playlistv.m3u8?iptvlivre
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0ZJSqYZ.jpg" group-title="TV ABERTA", 9:20 - Jornal da Band 
-http://evp.mm.uol.com.br:1935/band/jornaldaband/playlistv.m3u8?iptvlivre
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pou51WN.jpg" group-title="TV ABERTA", 21:15 - Pânico (Domingo) 
-http://evp.mm.uol.com.br:1935/band/panico/playlist.m3u8?iptvlivre
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dqR72rg.jpg" group-title="TV ABERTA", 22:30 - Polícia 24H (Quinta)
-http://evp.mm.uol.com.br:1935/band/policia24h/playlist.m3u8?iptvlivre
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XZJs3Cl.jpg" group-title="TV ABERTA", 22:30 - CQC (Segunda)
-http://evp.mm.uol.com.br:1935/band/cqc/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="http://i38.photobucket.com/albums/e117/doidoRios/Biblia%20Sagrada/geneses_zpsgmps3dza.png~original" group-title="Biblia", 1- GENESIS
 plugin://plugin.video.youtube/play/?video_id=4g0n5Stt7CQ
