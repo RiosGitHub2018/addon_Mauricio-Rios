@@ -1,6 +1,3 @@
+#EXTM3U
 #EXTINF:-1 tvg-logo="http://i38.photobucket.com/albums/e117/doidoRios/Biblia%20Sagrada/geneses_zpsgmps3dza.png~original" group-title="Biblia", 1- GENESIS
 plugin://plugin.video.youtube/play/?video_id=4g0n5Stt7CQ
-
-
-
-
