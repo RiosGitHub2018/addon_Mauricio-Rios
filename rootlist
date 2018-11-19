@@ -766,7 +766,7 @@
 	<link>http://ignorame</link>
 	<thumbnail>http://xmbcrios.esy.es/logo/tvaovivop3.png</thumbnail>
 	<fanart>http://www.armacao.com.br/blog/wp-content/uploads/2011/04/features_global.jpg</fanart>
-	<externallink>http://xmbcrios.esy.es/listas/riostv.xml</externallink>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/riostv.xml</externallink>
 	</item>
 	<item>
 	<title>[B][COLOR  cornflowerblue]OPÇÃO 4[/COLOR][/B]</title>
@@ -784,7 +784,7 @@
 	<link>http://ignorame</link>
 	<genre>As melhores Rádios do Brasil</genre>
 	<fanart>https://i.imgur.com/Y8Eff23.jpg</fanart>
-	<externallink>http://xmbcrios.esy.es/listas/radios.xml</externallink>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/radios.xml</externallink>
 	<thumbnail>https://i.imgur.com/mia61Bf.jpg</thumbnail>
 	<items>
 	</channel>
