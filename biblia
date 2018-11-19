@@ -1,3 +1,6 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/logo/globrj.png" group-title="Bíblia",  Gênesis
-http://stream.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
+<item>
+<title>GÊNESIS</title>
+<thumbnail>http://xmbcrios.esy.es/logo/tvaovivmn.png</thumbnail>
+<fanart>http://www.armacao.com.br/blog/wp-content/uploads/2011/04/features_global.jpg</fanart>
+<utube>v=OPX620WsdKk</utube>
+</item>
