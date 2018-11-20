@@ -1,7 +1,7 @@
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://i38.photobucket.com/albums/e117/doidoRios/Biblia%20Sagrada/geneses_zpsgmps3dza.png~original" group-title="Biblia", 1- GENESIS
-plugin://plugin.video.youtube/play/?video_id=PLLXWR4NrK0ynMZdD5lUgfXPGL04dbkiBx
-
-#EXTINF:-1 tvg-logo="http://i38.photobucket.com/albums/e117/doidoRios/Biblia%20Sagrada/exodo_zpsah4cehx3.png~original" group-title="Biblia", 2 - EXODO
-plugin://plugin.video.youtube/play/?video_id=OPX620WsdKk
+<item>
+<title>1- GENESIS</title>
+<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Biblia%20Sagrada/geneses_zpsgmps3dza.png~original</thumbnail>
+<fanart>encurtador.com.br/ryBPS</fanart>
+<utube>PLLXWR4NrK0ynMZdD5lUgfXPGL04dbkiBx</utube>
+</item>
