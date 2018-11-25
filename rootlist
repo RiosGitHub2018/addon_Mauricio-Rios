@@ -784,7 +784,7 @@
 	<link>http://ignorame</link>
 	<genre>As melhores Rádios do Brasil</genre>
 	<fanart>https://i.imgur.com/Y8Eff23.jpg</fanart>
-	<externallink>http://xmbcrios.esy.es/listas/radios.xml</externallink>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/radios</externallink>
 	<thumbnail>https://i.imgur.com/mia61Bf.jpg</thumbnail>
 	<items>
 	</channel>
