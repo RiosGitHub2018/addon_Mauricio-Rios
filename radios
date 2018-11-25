@@ -1,78 +1,78 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/logo/globrj.png" group-title="RADIOS",  GLOBO RJ (STÚDIO)
+#EXTINF:-1 tvg-logo="https://bit.ly/2R8Zhfe" group-title="RADIOS",  GLOBO RJ (STÚDIO)
 http://stream.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
 
-#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/logo/globsp.png" group-title="RADIOS", GLOBO SP (STÚDIO)
+#EXTINF:-1 tvg-logo="https://bit.ly/2Bv7hSk" group-title="RADIOS", GLOBO SP (STÚDIO)
 http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
 
-#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/logo/tupi.png" group-title="RADIOS",  SUPER RÁDIO TUPI (STÚDIO)
+#EXTINF:-1 tvg-logo="https://bit.ly/2r39BKf" group-title="RADIOS",  SUPER RÁDIO TUPI (STÚDIO)
 http://cdn.rj.assocrj.com.br/live/_definst_/tupi-estudio-audio06/chunklist_w1334900477.m3u8?nocache=315420
 
-#EXTINF:-1 tvg-logo="http://zip.net/bbtL5V" group-title="RADIOS",  CAPITAL AM - SP
+#EXTINF:-1 tvg-logo="https://bit.ly/2P10Km8" group-title="RADIOS",  CAPITAL AM - SP
 http://audio.capital1040.com:1040/capital?1500939832988
 
-#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/logo/cbnrj.png" group-title="RADIOS",  CBN RIO (STÚDIO)
+#EXTINF:-1 tvg-logo="http://zip.net/bbtL5V" group-title="RADIOS",  CBN RIO (STÚDIO)
 http://stream.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
-#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/logo/cbnsp.png" group-title="RADIOS",  CBN SP (STÚDIO)
+#EXTINF:-1 tvg-logo="https://bit.ly/2Qg76mm" group-title="RADIOS",  CBN SP (STÚDIO)
 http://stream.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
-#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/logo/bandeirantes.png" group-title="RADIOS",  RÁDIO BANDEIRANTES
+#EXTINF:-1 tvg-logo="https://bit.ly/2Rd7BKW" group-title="RADIOS",  RÁDIO BANDEIRANTES
 http://evpp.mm.uol.com.br/band/radiobandeirantes_sp/chunklist_w1027792088.m3u8
 
  
- #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/logo/jpnews.png" group-title="RADIOS",  JOVEN PAM NEWS
+ #EXTINF:-1 tvg-logo="https://bit.ly/2Rd7HlM" group-title="RADIOS",  JOVEN PAM NEWS
 http://19293.live.streamtheworld.com/JP_NEWSAAC.aac
  
- #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/logo/bnewsfm.png" group-title="RADIOS",  BAND NEWS FM
+ #EXTINF:-1 tvg-logo="https://bit.ly/2znpobl" group-title="RADIOS",  BAND NEWS FM
 http://evpp.mm.uol.com.br/band/bandnewsfm_sp/chunklist_w1703422405.m3u8
 
  #EXTINF:-1 tvg-logo="http://zip.net/bmtHVP" group-title="RADIOS",  TURMA DO RÁDIO
 http://streaming23.hstbr.net:8076/live?1493166039536
  
-#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/logo/verdinha.png" group-title="RADIOS",  VERDES MARES (FORTALEZA-CE)
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ql3csd" group-title="RADIOS",  VERDES MARES (FORTALEZA-CE)
 rtmp://srv4.zoeweb.tv/z18-live/ playpath=stream  swfUrl=http://d3bwsr3zpy54hy.cloudfront.net/201412091421/js/lib/swf/player-AS3.swf  pageUrl=http://tunein.com/radio/Radio-Verdes-Mares-810-s97760/
 
-#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/logo/mirante.png" group-title="RADIOS",  MIRANTE AM (SÃO LUIS-MA)
+#EXTINF:-1 tvg-logo="https://bit.ly/2TJBILF" group-title="RADIOS",  MIRANTE AM (SÃO LUIS-MA)
 http://streaming14.hstbr.net:8068/live
 
-#EXTINF:-1 tvg-logo="http://zip.net/bvtDtS" group-title="RADIOS",  CIDADE VERDE (TERESINA-PI)
+#EXTINF:-1 tvg-logo="https://bit.ly/2zp7bKN" group-title="RADIOS",  CIDADE VERDE (TERESINA-PI)
 http://192.99.35.31:8074/;
 
-#EXTINF:-1 tvg-logo="http://zip.net/bwtHx6" group-title="RADIOS",  COCAIS FM (TERESINA-PI)
+#EXTINF:-1 tvg-logo="https://bit.ly/2FGeeEs" group-title="RADIOS",  COCAIS FM (TERESINA-PI)
 http://painel.amsolution.net.br:8080/cocais?type=.flv
 
-#EXTINF:-1 tvg-logo="http://zip.net/bytDt3" group-title="RADIOS",  JORNAL MEIO NORTE (TERESINA-PI)
+#EXTINF:-1 tvg-logo="https://bit.ly/2SbLggZ" group-title="RADIOS",  JORNAL MEIO NORTE (TERESINA-PI)
 http://painel.amsolution.net.br:8080/jmn?type=.mp3
 
-#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/logo/mnthe.png" group-title="RADIOS",  MEIO NORTE (TERESINA-PI)
+#EXTINF:-1 tvg-logo="https://bit.ly/2DHrMgg" group-title="RADIOS",  MEIO NORTE (TERESINA-PI)
 https//api.new.livestream.com/accounts/8521982/events/3012489/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/logo/boafm.png" group-title="RADIOS",  BOA FM (TERESINA-PI)
+#EXTINF:-1 tvg-logo="https://bit.ly/2QmsPJ6" group-title="RADIOS",  BOA FM (TERESINA-PI)
 http://api.new.livestream.com/accounts/13307826/events/5859810/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/logo/the_fm.png" group-title="RADIOS",  TERESINA FM (TERESINA-PI)
+#EXTINF:-1 tvg-logo="https://bit.ly/2P1e9un" group-title="RADIOS",  TERESINA FM (TERESINA-PI)
 http://streaming03.brlogic.com:8042/live
 
-#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/logo/clubefm.png" group-title="RADIOS",  CLUBE FM (TERESINA-PI)
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ao3iVQ" group-title="RADIOS",  CLUBE FM (TERESINA-PI)
 http://192.163.244.136:5032/;
 
-#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/logo/antares.png" group-title="RADIOS",  ANTARES AM (TERESINA-PI)
+#EXTINF:-1 tvg-logo="https://bit.ly/2FSdwUP" group-title="RADIOS",  ANTARES AM (TERESINA-PI)
 rtmp://wfs2.locamega.com.br/antaresradio playpath=antaresradio  swfUrl=http://locamega.com.br/player/antaresradio/player.swf  pageUrl=http://locamega.com.br/player/antaresradio/
 
-#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/logo/pioneira.png" group-title="RADIOS",  PIONEIRA AM (TERESINA-PI)
+#EXTINF:-1 tvg-logo="https://bit.ly/2Rb6k7h" group-title="RADIOS",  PIONEIRA AM (TERESINA-PI)
 http://servidor30.brlogic.com:8230/live
 
-#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/logo/alphafm.png" group-title="RADIOS",  ALPHA FM (SÃO PAULO-SP)
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-k5UW6WvP_qA/W_rDTWxj_SI/AAAAAAAABmI/HtQgKod2oI0ooKfvhpjbs6X7UMRZ7v5QwCLcBGAs/s1600/alphafm.png" group-title="RADIOS",  ALPHA FM (SÃO PAULO-SP)
 http://174-36-1-94.webnow.net.br/alpha.mp3
 
-#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/logo/fmodiarj.png" group-title="RADIOS",  FM O DIA (RIO DE JANEIRO-RJ)
+#EXTINF:-1 tvg-logo="https://bit.ly/2Qft0WR" group-title="RADIOS",  FM O DIA (RIO DE JANEIRO-RJ)
 http://7309.live.streamtheworld.com/FMODIAAAC?banners=728x90%2Cswf
 
-#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/logo/fmjang.png" group-title="RADIOS",  JANGADEIRO (FORTALEZA-CE)
+#EXTINF:-1 tvg-logo="https://bit.ly/2THiuq5" group-title="RADIOS",  JANGADEIRO (FORTALEZA-CE)
 rtmp://srv3.zoeweb.tv/Jangadeiro7 playpath=stream  swfUrl=https://static.radios.com.br/libs/flowplayer-flash/flowplayer-3.2.18.swf  pageUrl=https://www.radios.com.br/aovivo/radio-jangadeiro-889-fm/13520
 
-#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/logo/somzoom.png" group-title="RADIOS",  SOMZOOM SAT (FORTALEZA-CE)
+#EXTINF:-1 tvg-logo="https://bit.ly/2r2KGGO" group-title="RADIOS",  SOMZOOM SAT (FORTALEZA-CE)
 http://stream.7br.com.br:10102/stream?1517276167859
 
 
