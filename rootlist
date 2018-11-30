@@ -367,6 +367,20 @@
 	</channel>
 	</channels>
 
+	
+	
+		<channel>
+	<name>[COLOR  orange]Filmes[/COLOR]</name>
+	<link>http://ignorame</link>
+	<genre>Os melhores filmes estão aqui</genre>
+	<fanart>https://cld.pt/dl/download/e99b2c73-2acc-4944-9b67-89e7ad3f68e3/fanartfilmes.jpg</fanart>
+	<thumbnail>https://i.imgur.com/nQIa9dm.jpg</thumbnail>
+	<externallink>http://xmbcrios.esy.es/listas/filmes/manufilmes.xml</externallink>
+	<items>
+	</channel> 	
+	
+	
+	
 	<!-------------------------------------------------Menu Séries ------------------------------------------------------------->									 
 	<channel>
 	<name>[COLOR  orange]Séries[/COLOR]</name>
