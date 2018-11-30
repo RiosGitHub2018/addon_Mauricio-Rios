@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://bit.ly/2E5ri4r" group-title="Desenhos", 01 - Procurados pela justiça. 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B4KrEPU86L-iWVlFTkVoWmxqVkU/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2E5ri4r" group-title="Desenhos", 02 - Os Ferócios 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B4KrEPU86L-iN1VKa2ZzaEk2ZXc/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2E5ri4r" group-title="Desenhos", 03 - O jogo mais mortifero do mundo 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B4KrEPU86L-iTmJrcmxSWUtna1k/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2E5ri4r" group-title="Desenhos", 04 - A armadilha do tempo 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B4KrEPU86L-iT2V1SkxQSl9Rclk/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2E5ri4r" group-title="Desenhos", 05 - O julgamento dos Super Amigos 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B4KrEPU86L-iTHBYeXNraFJnNlk/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2E5ri4r" group-title="Desenhos", 07 - Gigantes da destruição 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B4KrEPU86L-iZlIyNm9wcldzMjQ/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2E5ri4r" group-title="Desenhos", 08 - A origem secreta dos Super Amigos 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B4KrEPU86L-iMnZYUjZELUQwR0U/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2E5ri4r" group-title="Desenhos", 10 - O pântano do morto-vivo 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B4KrEPU86L-iT0VIbW1LajdxZUU/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2E5ri4r" group-title="Desenhos", 11 - Conquistadores Do Futuro 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iMG5jMVpPVlltVEE/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2E5ri4r" group-title="Desenhos", 12 - O desafio final 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iMlJyTnBXNWdWckk/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2E5ri4r" group-title="Desenhos", 14 - O dia do juízo 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-icEpraklGbWh5c1k/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2E5ri4r" group-title="Desenhos", 16 - História Da Destruição 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iYWRiZko1dUQ4dkk/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2E5ri4r" group-title="Desenhos", 17 - Rokan Inimigo Do Espaço 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iVUZBaEtDOHY1c2M/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2E5ri4r" group-title="Desenhos", 18 - Os Demônios De Exxor 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iZU1hZlA5cXNqNDQ/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2E5ri4r" group-title="Desenhos", 19 - Batalha No Âmago Da Terra 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iTmd4LS1RQnFFOTg/edit
