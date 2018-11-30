@@ -534,8 +534,19 @@
 	<externallink></externallink>
 	<items>
 	</channel>
-	</channels>
 
+
+   <channel>
+	<name>[COLOR red][B]Biblia Online[/B][/COLOR]</name>
+	<thumbnail>https://i.imgur.com/rpF3fjy.jpg</thumbnail>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/biblia</externallink>
+	<fanart>https://4.bp.blogspot.com/-eFMvpRRF1Jg/W_W8tPxsD6I/AAAAAAAABkc/poROQuCUlB8OMM1LswWe2gDAbyJp_xB8wCLcBGAs/s1600/fanart.jpg</fanart>
+	<info>MILTON GUEDES criador do ADDON -- endereço do grupo no facebook -- https://www.facebook.com/groups/568745316624875</info>
+	</channel>		
+	<!------------------------------------------------BR Youtubers ---------------------------------------------------------->	
+	
+	
+	
 	 <!------------------------------------------------  ---------------------------------------------------------->					 
 	<channel>
 	<name>[COLOR  orange]Novelas Antigas[/COLOR]</name>
