@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <layouttype>thumbnail</layouttype>
 
+<list xmlns:xsi=”http://www.w3.org/2001/XMLSchema-instance”>
+
 <item>
 <link>http:/ignorame</link>
 <name>He-man & She-ra - O Segredo Da Espada Mágica xxxxx</name>
@@ -8,3 +10,4 @@
 <fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
 <url>plugin:/plugin.video.gdrive?mode=streamURL&amp;url=https:/drive.google.com/file/d/0BzUTN6qALz7neTFNYWdpYUIzUnc/view</url>
 </item>
+</list>
