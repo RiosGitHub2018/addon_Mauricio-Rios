@@ -498,41 +498,15 @@
 	<fanart>https://4.bp.blogspot.com/-eFMvpRRF1Jg/W_W8tPxsD6I/AAAAAAAABkc/poROQuCUlB8OMM1LswWe2gDAbyJp_xB8wCLcBGAs/s1600/fanart.jpg</fanart>
 	<info>MILTON GUEDES criador do ADDON -- endereço do grupo no facebook -- https://www.facebook.com/groups/568745316624875</info>
 	</channel>		
-	<!------------------------------------------------BR Youtubers ---------------------------------------------------------->					 
-	<!-- if
-	<channel>
-	<name>[COLOR  orange]BR Youtubers[/COLOR]</name>
-	<link>http://ignorame</link>
-	<genre>Os melhores Canais do Youtube</genre>
-	<fanart>https://raw.githubusercontent.com/xmbcrios/xmbcrios.repository/master/plugin.video.bryoutubers/fanart.jpg</fanart>
-	<thumbnail>http://zip.net/bjtyqy</thumbnail>
-	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/bryoutubers.txt</externallink>
-	<items>
-	</channel>
-	</channels>
-				 
-	<channel>
-	<name>[COLOR  orange]Túnel do Tempo[/COLOR]</name>
-	<link>http://ignorame</link>
-	<genre>Os melhores Canais do Youtube</genre>
-	<fanart>https://cld.pt/dl/download/cc60346d-5ff6-417b-944f-5eea5ced41a6/fanarttunel.jpg</fanart>
-	<thumbnail>https://i.imgur.com/DoiM345.jpg</thumbnail>
-	<externallink>http://xmbcrios.esy.es/listas/addons/tuneldotempo.txt</externallink>
-	<items>
-	</channel>
-	</channels>	
-	 >
 
 	<!----------------------------------------------Menu desenhos --------------------------------------------------------->		
 	<channel>
 	<name>[COLOR  orange]Desenhos[/COLOR]</name>
-	<link>http://ignorame</link>
 	<genre>Desenhos Classicos</genre>
 	<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
 	<thumbnail>https://i.imgur.com/rsNH2Vb.jpg</thumbnail>
 	<info>Aqui você encontra alguns desenhos animados dos anos 80 que marcaram sua infâcia tais como He-man, Senturions e etc... </info>
 	<externallink></externallink>
-	<items>
 	</channel>
 
 
