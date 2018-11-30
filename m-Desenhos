@@ -3,7 +3,14 @@
 
 <channels><channel>
 <name>He-Man-[COLOR orange] 1ª Temporada[/COLOR]</name>
-<thumbnail>https://bit.ly/2P7MPKY</thumbnail>
+<thumbnail>https://bit.ly/2SjwftC</thumbnail>
+<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-hemanprimtemp</externallink>
+</channel>
+
+<channels><channel>
+<name>He-Man-[COLOR orange] 2ª Temporada[/COLOR]</name>
+<thumbnail>https://bit.ly/2DRz6Gc</thumbnail>
 <fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-hemanprimtemp</externallink>
 </channel>
