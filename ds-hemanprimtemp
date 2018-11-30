@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://bit.ly/2P7MPKY" group-title="Desenhos", Cometa Cósmico
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/1L0WPmk7uZ5evMBj_N3XbpazTsSUxBjlg/edit 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B8J5V4egL-I8T1lEWFJQajVnS3c/view 
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2P7MPKY" group-title="Desenhos", 2 - O Cetro Mágico
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11SAZlWpctLFw_R8AxV40aQGn6tqAk4QC/view
