@@ -354,33 +354,6 @@
 	<externallink>http://xmbcrios.esy.es/listas/filmes/manufilmes.xml</externallink>
 	<items>
 	</channel> 	                  
-	<!----------------------------------------------Menu desenhos --------------------------------------------------------->		
-	<channel>
-	<name>[COLOR  orange]Desenhos[/COLOR]</name>
-	<link>http://ignorame</link>
-	<genre>Desenhos Classicos</genre>
-	<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-	<thumbnail>https://i.imgur.com/rsNH2Vb.jpg</thumbnail>
-	<info>Aqui você encontra alguns desenhos animados dos anos 80 que marcaram sua infâcia tais como He-man, Senturions e etc... </info>
-	<externallink></externallink>
-	<items>
-	</channel>
-	</channels>
-
-	
-	
-		<channel>
-	<name>[COLOR  orange]Filmes[/COLOR]</name>
-	<link>http://ignorame</link>
-	<genre>Os melhores filmes estão aqui</genre>
-	<fanart>https://cld.pt/dl/download/e99b2c73-2acc-4944-9b67-89e7ad3f68e3/fanartfilmes.jpg</fanart>
-	<thumbnail>https://i.imgur.com/nQIa9dm.jpg</thumbnail>
-	<externallink>http://xmbcrios.esy.es/listas/filmes/manufilmes.xml</externallink>
-	<items>
-	</channel> 	
-	
-	
-	
 	<!-------------------------------------------------Menu Séries ------------------------------------------------------------->									 
 	<channel>
 	<name>[COLOR  orange]Séries[/COLOR]</name>
@@ -549,7 +522,21 @@
 	</channel>
 	</channels>	
 	 >
-	<!------------------------------------------------  ---------------------------------------------------------->					 
+
+	<!----------------------------------------------Menu desenhos --------------------------------------------------------->		
+	<channel>
+	<name>[COLOR  orange]Desenhos[/COLOR]</name>
+	<link>http://ignorame</link>
+	<genre>Desenhos Classicos</genre>
+	<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
+	<thumbnail>https://i.imgur.com/rsNH2Vb.jpg</thumbnail>
+	<info>Aqui você encontra alguns desenhos animados dos anos 80 que marcaram sua infâcia tais como He-man, Senturions e etc... </info>
+	<externallink></externallink>
+	<items>
+	</channel>
+	</channels>
+
+	 <!------------------------------------------------  ---------------------------------------------------------->					 
 	<channel>
 	<name>[COLOR  orange]Novelas Antigas[/COLOR]</name>
 	<link>TELEFE HD: http://live-edge01.telecentro.net.ar:1935/live/tlfhd-720/playlist.m3u8</link>
