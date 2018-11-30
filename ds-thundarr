@@ -1,0 +1,52 @@
+ #EXTM3U
+#EXTINF:-1 tvg-logo="https://bit.ly/2KKxUWH" group-title="Desenhos",  O Segredo do Pérola Negra
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8N29TTUNSMUQ5cjA/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2KKxUWH" group-title="Desenhos",  2 - Colheita da desgraça 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8MUZDVi0zYUlSMkk/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2KKxUWH" group-title="Desenhos",  3 - Mindok a mente ameaça 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8ejBHUjYyZFN4Mmc/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2KKxUWH" group-title="Desenhos",  4 - Os Salteadores da abismo 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8d0R4dzcyb05MRjQ/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2KKxUWH" group-title="Desenhos",  5 - Tesouro dos Moks 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8Z21KalpMRU05czA/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2KKxUWH" group-title="Desenhos",  6 - Atack da Mulher Amazonas 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8cm5ObjFzZzBWU28/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2KKxUWH" group-title="Desenhos",  7 -Perseguidor das estrelas 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8ODdrWk9COFJscjg/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2KKxUWH" group-title="Desenhos",  8 - Desafio dos Assistentes 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8bElRUkU4b0F3TlU/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2KKxUWH" group-title="Desenhos",  9  -Assistente Guerras 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8QXVnRl96ZFFoekE/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2KKxUWH" group-title="Desenhos",  10 - Caçador das Estrelas 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8Q1dIa0NUcW5ma1U/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2KKxUWH" group-title="Desenhos",  11 - Portal do temp 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8ZTNBd1JKVDU1MjA/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2KKxUWH" group-title="Desenhos",  12 - Batalha dos Bárbaros 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8a2VsYmN6bWxPdWs/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2KKxUWH" group-title="Desenhos",  14 - Assistente Guerras 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8OUZnQnFQNFMtZjA/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2KKxUWH" group-title="Desenhos",  15 - Fortaleza do Medo 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8em5qczQzWThnZzg/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2KKxUWH" group-title="Desenhos",  17 - Thundarr  Episódio 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8TGlGRkNSZWNUNlk/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2KKxUWH" group-title="Desenhos",  18  - Thundarr  Episódio 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8X2RBSVRYMnNJanc/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2KKxUWH" group-title="Desenhos",  21  - Thundarr  Episódio 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8clVLN1JaTVptdHM/edit
+

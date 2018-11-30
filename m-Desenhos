@@ -24,15 +24,17 @@
 
 
 <channels><channel>
-<name>Rabo</name>
-<thumbnail>https://bit.ly/2TUK9UJ</thumbnail>
+<name>Tranformers -1986</name>
+<thumbnail>https://bit.ly/2Q6KnJS</thumbnail>
 <fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-rambo</externallink>
+<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-transformers</externallink>
 </channel>
 
 <channels><channel>
-<name>Super Amigos</name>
-<thumbnail>https://bit.ly/2E5ri4r</thumbnail>
+<name>Thundarr o Bárbaro - [COLOR yellow]Exclusivo!!![/COLOR]</name>
+<thumbnail>https://bit.ly/2KKxUWH</thumbnail>
 <fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-spamigos</externallink>
+<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-thundarr</externallink>
 </channel>
+
+
