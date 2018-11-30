@@ -1,0 +1,183 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 1-O Gato e a Aranha
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8NGxUU2FIUFhRcUk/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 2-O Monstro Energia
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8b0lZRzBxTVpjdDQ/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 3-O Dia das Máquinas
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8X0l3ZENwMUpfLUU/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 4-O Falso Jogador
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8VGZnNHk2YVpRazQ/edit
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 5-A Floresta de Fisto
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8alJxd0MwNHAxYVE/edit
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 6-O Melhor dos Presentes
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8eU13bEtKWU5yNGM/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 7-O Mistério dos Livros
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8MWR6b1hoSUhHLUk/edit
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 8-A Origem da Feiticeira
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8QVN3elV1OWlmU1E/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 9-Ilha do Medo
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8em11eWdWYzg3YUk/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 11-O Cometa da Idade do Gelo
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8S3l1aXpqYTlEMUk/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 12-Encrenca em Trolla
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8T283Vk5mdXBhX00/edit
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 13-A Traição de Stratos
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8VURFMlNDeUFKOWM/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 14-Os Dragões Desaparecidos
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8dm5RT0FnMkVBRjQ/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 15-A Sombra do Esqueleto
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8VUh6VTJrTUlLUU0/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 17-Ataque Vindo de Baixo
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8U2MwelhiUi1ramM/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 18-O Abismo
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8UGQ4RWotbHdJSEE/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 19-Pacato, O Medroso
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8Vk1wQS0wLU1wUTQ/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 20-A Guerreira do Arco-Íris
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8a0pqemJ0U0dXbVE/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 21-Missão em Morainia
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8blFOZURqN1hXVUk/edit
+  
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 22-Coisas que se Movem na Noite
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8VDBmMFJNUnd1OEE/edit
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 23-Desafio a Três
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8VUZsOG5vNW1iQ00/edit
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 24-Apenas uma Mentirinha
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8SldMQkRKYjBRR00/edit
+  
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 25-Um Por Todos
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8clo0Slh6LWFsR3c/edit
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 26-Jacó e os Anões
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8QkxycEVVZ0ljSTA/edit
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 28-A Pedra do Sol
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8SW9PeTlEOEtrR28/edit
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 29-Viagem à Cidade de Pedra
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8Y00zNW9RYTM5U0k/edit
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 32-A Roda do Tempo
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8dUwzWXZ4R1NCWjg/edit
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 33-Em Busca do Passado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8R25yUGQ0OFNUOWM/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 34-Caça a He-Man
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8c3Q0bTlEUXJiNDQ/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 35-O Maior Show de Etérnia
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8WW1LRDd6Q1hYT0U/edit
+  
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 36-Não Tão Cego
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8QTJZZHZ6S3BNeUk/edit
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 37-A Vingança Não Compensa
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=0B2wGe6XpTKu8Q3lzMk50Z3lBOVk&authuser=0
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 38-Que o Bom Sobreviva
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8LTJ2MVk0S3A3dTA/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 39-O Segredo de Grayskull
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8WnFESDhQekpTN1E/edit
+  
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 41-A Rosa Triste
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8MFNLTXdmNEF1T00/edit
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 42 - O Jogador
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/42.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 43 - O triunfo de Teela
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/43.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 44 - O Novo Amigo de Gorpo
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/44.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 45 - O Problema com o Poder
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/45.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 46 - Duplo Problema
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/46.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 47 - A Flôr de Eternia
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/47.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 48 - Feliz Aniversário Roboto
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/48.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 49 - Batalha dos Dragões 
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/49.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 50 - O Tempo não Voa 
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/50.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 51 - Aqui, Lá. Esqueletos em todo Lugar 
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/51.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 52 - A Bela e a Fera
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/52.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 53 - O Retorno de Gorpo
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/53.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 54 - Visitantes da Terra
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/54.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 55 - Monstro da Montanha 
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/55.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 56 - A Catarata da Mágica 
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/56.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 57 - Busca de um Filho
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/57.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 58 - Identidade Equivocada 
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/58.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 59 - O Fabricante de Brinquedos 
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/59.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 60 - Pacto Malvado
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/60.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 61 - A Captura do Protetor da Neves
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/61.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 62 - O Velho Espelho de Avathar
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/62.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 63 - Os Jogos
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/63.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 64 - Para salvar as Criaturas 
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/64.MP4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 65 - A Região Fria
+http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/65.MP4
+
+
+
+
+   
+	
