@@ -105,76 +105,76 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8MFNLTXdmNEF1T00/edit
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 42 - O Jogador
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/42.MP4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Q3RqSQolY6jVrMsBYS9fMO6gxMJoS2nS/view
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 43 - O triunfo de Teela
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/43.MP4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OOa5qY4eV7pcPty6eLEqKzMP3cFlIAyy/view
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 44 - O Novo Amigo de Gorpo
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/44.MP4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Zj3V451_1y9y2q0KAPfVNr-yZbuvhk0i/view
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 45 - O Problema com o Poder
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/45.MP4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uUz7GMChFfDW9oopsgkd9iP4VMT6_ak1/view
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 46 - Duplo Problema
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/46.MP4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1L-b7Hs6gs2irKcMYsOMPZfTGfudB3dKP/view
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 47 - A Flôr de Eternia
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/47.MP4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OVw59jUNWOZFNdXkXUEYO2Tzs9xwb3Sr/view
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 48 - Feliz Aniversário Roboto
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/48.MP4
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 48 - Feliz Aniversário Roboto "OFF"
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 49 - Batalha dos Dragões 
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/49.MP4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BvBvF980SrXltw59nwsoFwd2EeVgXUEz/view
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 50 - O Tempo não Voa 
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/50.MP4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IVq0WFXasdp2N4KBSCLX8pOq32iYzZco/view
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 51 - Aqui, Lá. Esqueletos em todo Lugar 
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/51.MP4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16WM6is-8I8hWYYYdtbrBlFXKTzNWL-P0/view
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 52 - A Bela e a Fera
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/52.MP4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16uku42XW9d7MgGzZ6T3pvIJL6tdtDPa4/view
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 53 - O Retorno de Gorpo
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/53.MP4
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 53 - O Retorno de Gorpo "OFF"
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 54 - Visitantes da Terra
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/54.MP4
+#EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 54 - Visitantes da Terra "OFF"
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 55 - Monstro da Montanha 
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/55.MP4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xz9BhtKt7Eu4Curyf_6LsB1ilA8DQZVV/view
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 56 - A Catarata da Mágica 
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/56.MP4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nnJtffRs-SqwUDfgdR-2TfdtoT3J5-MY/view
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 57 - Busca de um Filho
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/57.MP4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sRHD_cfDwYIfTY-7XvZxXFctj6ksJHsJ/view
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 58 - Identidade Equivocada 
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/58.MP4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1j_Wa6-AOqSisbbh8u8smTF_9AzweDR6C/view
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 59 - O Fabricante de Brinquedos 
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/59.MP4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12kBZZcvGzYhpF6MK0aoqTnYKTvTsrV3y/view
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 60 - Pacto Malvado
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/60.MP4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tL-TPbZEPydTm8ykfM5mEkuhiY6L9gY2/view
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 61 - A Captura do Protetor da Neves
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/61.MP4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lKwMbCB6Ck6zycyGuQkZoLmIX8AId2Ux/view
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 62 - O Velho Espelho de Avathar
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/62.MP4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_NmiYUz5_AEZrN_TynL0XRY3d0LNLs82/view
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 63 - Os Jogos
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/63.MP4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_NVOTuxH0nJOehe1XL4ETlau_Evwmaq5/view
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 64 - Para salvar as Criaturas 
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/64.MP4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ksjx_GfsG-F85cs94_Kdg-zLQAjLT_Fn/view
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 65 - A Região Fria
-http://149.56.17.153/Uploads/Desenhos/H/he-man-dublado/2-temporada/65.MP4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jljwk1oumz-BG50n4Vdl3PNTwoMR6DXn/view
 
 
 
