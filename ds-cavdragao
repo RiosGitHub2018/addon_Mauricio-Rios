@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/2Q6bB3t" group-title="Desenhos", Cav. Dragão-TP01_EP_01
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10EekctpxCKleHVT19Tk64XaUJ9mPXKa2/view
 #EXTINF:-1 tvg-logo="https://bit.ly/2Q6bB3t" group-title="Desenhos", Cav. Dragão-TP01_EP_02
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/10EekctpxCKleHVT19Tk64XaUJ9mPXKa2/edit 
 #EXTINF:-1 tvg-logo="https://bit.ly/2Q6bB3t" group-title="Desenhos", Cav. Dragão-TP01_EP_03
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 #EXTINF:-1 tvg-logo="https://bit.ly/2Q6bB3t" group-title="Desenhos", Cav. Dragão-TP01_EP_04
