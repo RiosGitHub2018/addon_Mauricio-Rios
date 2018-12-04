@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://bit.ly/2rjySA6" group-title="Desenhos", 01 - Shazam-riostv-001    
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBga1A1VEdfX0VaUjA/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2rjySA6" group-title="Desenhos", 02 - Shazam-riostv-002      
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgQ3pHamZDVUFPVEU/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2rjySA6" group-title="Desenhos", 03 - Shazam-riostv-003      
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgcENDb2gtSzJTMEk/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2rjySA6" group-title="Desenhos", 04 - Shazam-riostv-004      
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgZ1lSZG95anhTN0k/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2rjySA6" group-title="Desenhos", 05 - Shazam-riostv-005      
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgSTdGQjNHazl2ZDA/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2rjySA6" group-title="Desenhos", 06 - Shazam-riostv-006      
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgTVJGSWlqYmUtWE0/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2rjySA6" group-title="Desenhos", 07 - Shazam-riostv-007      
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgLVNmeTBMaTlibFk/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2rjySA6" group-title="Desenhos", 08- Shazam-riostv-008      
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgVDQ3ZFRmRnpXbHc/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2rjySA6" group-title="Desenhos", 09 - Shazam-riostv-009      
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgaURqQ1FGYkg1MXM/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2rjySA6" group-title="Desenhos", 10 - Shazam-riostv-010      
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgM0dncEhzc3loR1E/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2rjySA6" group-title="Desenhos", 11 - Shazam-riostv-011      
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2rjySA6" group-title="Desenhos", 12 - Shazam-riostv-012      
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2rjySA6" group-title="Desenhos", 13 - Shazam-riostv-013      
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgV3QtOEZCaFIwRDg/view
