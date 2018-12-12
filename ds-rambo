@@ -89,6 +89,14 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file
 #EXTINF:-1 tvg-logo="https://bit.ly/2TUK9UJ" group-title="Desenhos", 30- Assalto Subterrâneo   
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8NzVRRlBTaDhHVHc/edit
 
+#EXTINF:-1 tvg-logo="https://bit.ly/2TUK9UJ" group-title="Desenhos", Teste qualidade
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rOHZeellttfQz9-cbm5GhplHPpI954DM/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TUK9UJ" group-title="Desenhos", Teste Macgyver
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XBxtcZiRXsBeE9h3WKcE9YK_zZfDV130/view
+
+
+
 
 
 
