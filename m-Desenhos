@@ -2,14 +2,14 @@
 <layouttype>thumbnail</layouttype>
 
 <channels><channel>
-<name>He-Man-[COLOR orange] 1Âª Temporada[/COLOR]</name>
+<name>He-Man-[COLOR orange] 1ª Temporada[/COLOR]</name>
 <thumbnail>https://bit.ly/2SjwftC</thumbnail>
 <fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-hemanprimtemp</externallink>
 </channel>
 
 <channels><channel>
-<name>He-Man-[COLOR orange] 2Âª Temporada[/COLOR]</name>
+<name>He-Man-[COLOR orange] 2ª Temporada[/COLOR]</name>
 <thumbnail>https://bit.ly/2DRz6Gc</thumbnail>
 <fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-hemansegutemp</externallink>
@@ -44,7 +44,7 @@
 </channel>
 
 <channels><channel>
-<name>Thundarr o BÃ¡rbaro - [COLOR yellow]Exclusivo!!![/COLOR]</name>
+<name>Thundarr o Bárbaro - [COLOR yellow]Exclusivo!!![/COLOR]</name>
 <thumbnail>https://bit.ly/2KKxUWH</thumbnail>
 <fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-thundarr</externallink>
@@ -65,7 +65,7 @@
 </channel>
 
 <channels><channel>
-<name>Caverna do DragÃ£o</name>
+<name>Caverna do Dragão</name>
 <thumbnail>https://bit.ly/2Q6bB3t</thumbnail>
 <fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-cavdragao</externallink>
@@ -120,7 +120,12 @@
 <externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-jquest</externallink>
 </channel>
 
-
+<channels><channel>
+<name>A aventuras de Mickey e Donald</name>
+<thumbnail>https://bit.ly/2Ci1Wya</thumbnail>
+<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-mcdndisney</externallink>
+</channel>
 
 
 

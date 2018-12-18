@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ci1Wya" group-title="Desenhos", SEQUENCIA - 01
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dOYgpZjHIYWt4ncffvEO6dtOK5-Isf14/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ci1Wya" group-title="Desenhos", SEQUENCIA - 02
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1d4AsQfuj8BuIQ2I-cg0T9691CsvsV-rN/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ci1Wya" group-title="Desenhos", SEQUENCIA - 03
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/168wQodRl6KrxthjD_bDLfaLtpvjUk9F9/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ci1Wya" group-title="Desenhos", SEQUENCIA - 04
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MiK7yzuK_dlTYVpLdIb2eNViPfUXJNPp/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ci1Wya" group-title="Desenhos", SEQUENCIA - 05
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AHIbJcvxlQ8qmSxOGQvyRwkHPHYzvhxr/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ci1Wya" group-title="Desenhos", SEQUENCIA - 06
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ci1Wya" group-title="Desenhos", SEQUENCIA - 07
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ci1Wya" group-title="Desenhos", SEQUENCIA - 08
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ci1Wya" group-title="Desenhos", SEQUENCIA - 09
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ci1Wya" group-title="Desenhos", SEQUENCIA - 10
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ci1Wya" group-title="Desenhos", SEQUENCIA - 11
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ci1Wya" group-title="Desenhos", SEQUENCIA - 12
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ci1Wya" group-title="Desenhos", SEQUENCIA - 13
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ci1Wya" group-title="Desenhos", SEQUENCIA - 14
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ci1Wya" group-title="Desenhos", SEQUENCIA - 15
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ci1Wya" group-title="Desenhos", SEQUENCIA - 16
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2Ci1Wya" group-title="Desenhos", SEQUENCIA - 17
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
+
