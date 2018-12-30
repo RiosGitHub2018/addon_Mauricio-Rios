@@ -57,9 +57,15 @@
 <externallink>http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8</externallink>
 </channel>
 
-<channels> DIARIO<channel>
+<channels>DIARIO<channel>
 <name> </name>
 <thumbnail>https://bit.ly/2QdEAgQ</thumbnail>
 <fanart> https://bit.ly/2TiljwC </fanart>
 <externallink>http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8</externallink>
 </channel>
+
+
+
+
+
+
