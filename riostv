@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layouttype>thumbnail</layouttype>
+
+<channels><channel>
+<name> GLOBO </name>
+<thumbnail>https://bit.ly/2LEOgAy</thumbnail>
+<fanart> https://bit.ly/2TiljwC </fanart>
+<externallink></externallink>
+</channel>
+
+<channels><channel>
+<name> RECORD </name>
+<thumbnail>https://bit.ly/2EVhXff</thumbnail>
+<fanart> https://bit.ly/2TiljwC </fanart>
+<externallink>http://painel.fastiptv.cf:25461/live/uendelldids/L1KIVM7bPs/3932.ts</externallink>
+</channel>
+
+<channels><channel>
+<name> SBT</name>
+<thumbnail>https://bit.ly/2QX2QJn</thumbnail>
+<fanart> https://bit.ly/2TiljwC </fanart>
+<externallink>http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2021975963_b216000_sleng.m3u8</externallink>
+</channel>
+
+<channels><channel>
+<name> BAND</name>
+<thumbnail>https://bit.ly/2RtF3QG</thumbnail>
+<fanart> https://bit.ly/2TiljwC </fanart>
+<externallink>http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?wowzasessionid=2070394176</externallink>
+</channel>
+
+<channels><channel>
+<name> REDETV </name>
+<thumbnail>https://bit.ly/2LK18pa</thumbnail>
+<fanart> https://bit.ly/2TiljwC </fanart>
+<externallink>http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1389953822.m3u8</externallink>
+</channel>
+
+<channels> <channel>
+<name> GAZETA </name>
+<thumbnail>https://bit.ly/2R0RG6D</thumbnail>
+<fanart> https://bit.ly/2TiljwC </fanart>
+<externallink>http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8</externallink>
+</channel>
+
+<channels><channel>
+<name> TV BRASIL </name>
+<thumbnail>https://bit.ly/2BN4Hq0</thumbnail>
+<fanart> https://bit.ly/2TiljwC </fanart>
+<externallink></externallink>
+</channel>
+
+<channels><channel>
+<name> MEIO NORTE</name>
+<thumbnail>https://bit.ly/2s0ywPp</thumbnail>
+<fanart> https://bit.ly/2TiljwC </fanart>
+<externallink>http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8</externallink>
+</channel>
+
+<channels> DIARIO<channel>
+<name> </name>
+<thumbnail>https://bit.ly/2QdEAgQ</thumbnail>
+<fanart> https://bit.ly/2TiljwC </fanart>
+<externallink>http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8</externallink>
+</channel>
