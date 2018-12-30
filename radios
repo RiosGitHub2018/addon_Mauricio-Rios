@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bit.ly/2R8Zhfe" group-title="RADIOS",  GLOBO RJ (ST√öDIO)
+#EXTINF:-1 tvg-logo="https://bit.ly/2R8Zhfe" group-title="RADIOS",  GLOBO RJ (ST⁄DIO)
 http://stream.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2Bv7hSk" group-title="RADIOS", GLOBO SP (ST√öDIO)
+#EXTINF:-1 tvg-logo="https://bit.ly/2Bv7hSk" group-title="RADIOS", GLOBO SP (ST⁄DIO)
 http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2r39BKf" group-title="RADIOS",  SUPER R√ÅDIO TUPI (ST√öDIO)
+#EXTINF:-1 tvg-logo="https://bit.ly/2r39BKf" group-title="RADIOS",  SUPER R¡DIO TUPI (ST⁄DIO)
 http://cdn.rj.assocrj.com.br/live/_definst_/tupi-estudio-audio06/chunklist_w1334900477.m3u8?nocache=315420
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2P10Km8" group-title="RADIOS",  CAPITAL AM - SP
 http://audio.capital1040.com:1040/capital?1500939832988
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2Bw25hf" group-title="RADIOS",  CBN RIO (ST√öDIO)
+#EXTINF:-1 tvg-logo="https://bit.ly/2Bw25hf" group-title="RADIOS",  CBN RIO (ST⁄DIO)
 http://stream.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2Qg76mm" group-title="RADIOS",  CBN SP (ST√öDIO)
+#EXTINF:-1 tvg-logo="https://bit.ly/2Qg76mm" group-title="RADIOS",  CBN SP (ST⁄DIO)
 http://stream.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2Rd7BKW" group-title="RADIOS",  R√ÅDIO BANDEIRANTES
+#EXTINF:-1 tvg-logo="https://bit.ly/2Rd7BKW" group-title="RADIOS",  R¡DIO BANDEIRANTES
 http://evpp.mm.uol.com.br/band/radiobandeirantes_sp/chunklist_w1027792088.m3u8
 
  
@@ -27,13 +27,13 @@ http://19293.live.streamtheworld.com/JP_NEWSAAC.aac
  #EXTINF:-1 tvg-logo="https://bit.ly/2znpobl" group-title="RADIOS",  BAND NEWS FM
 http://evpp.mm.uol.com.br/band/bandnewsfm_sp/chunklist_w1703422405.m3u8
 
- #EXTINF:-1 tvg-logo="https://bit.ly/2AjK4Rx" group-title="RADIOS",  TURMA DO R√ÅDIO
+ #EXTINF:-1 tvg-logo="https://bit.ly/2AjK4Rx" group-title="RADIOS",  TURMA DO R¡DIO
 http://streaming23.hstbr.net:8076/live?1493166039536
  
 #EXTINF:-1 tvg-logo="https://bit.ly/2Ql3csd" group-title="RADIOS",  VERDES MARES (FORTALEZA-CE)
 rtmp://srv4.zoeweb.tv/z18-live/ playpath=stream  swfUrl=http://d3bwsr3zpy54hy.cloudfront.net/201412091421/js/lib/swf/player-AS3.swf  pageUrl=http://tunein.com/radio/Radio-Verdes-Mares-810-s97760/
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2TJBILF" group-title="RADIOS",  MIRANTE AM (S√ÉO LUIS-MA)
+#EXTINF:-1 tvg-logo="https://bit.ly/2TJBILF" group-title="RADIOS",  MIRANTE AM (S√O LUIS-MA)
 http://streaming14.hstbr.net:8068/live
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2zp7bKN" group-title="RADIOS",  CIDADE VERDE (TERESINA-PI)
@@ -63,7 +63,7 @@ rtmp://wfs2.locamega.com.br/antaresradio playpath=antaresradio  swfUrl=http://lo
 #EXTINF:-1 tvg-logo="https://bit.ly/2Rb6k7h" group-title="RADIOS",  PIONEIRA AM (TERESINA-PI)
 http://servidor30.brlogic.com:8230/live
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-k5UW6WvP_qA/W_rDTWxj_SI/AAAAAAAABmI/HtQgKod2oI0ooKfvhpjbs6X7UMRZ7v5QwCLcBGAs/s1600/alphafm.png" group-title="RADIOS",  ALPHA FM (S√ÉO PAULO-SP)
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-k5UW6WvP_qA/W_rDTWxj_SI/AAAAAAAABmI/HtQgKod2oI0ooKfvhpjbs6X7UMRZ7v5QwCLcBGAs/s1600/alphafm.png" group-title="RADIOS",  ALPHA FM (S√O PAULO-SP)
 http://174-36-1-94.webnow.net.br/alpha.mp3
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2Qft0WR" group-title="RADIOS",  FM O DIA (RIO DE JANEIRO-RJ)
@@ -75,6 +75,8 @@ rtmp://srv3.zoeweb.tv/Jangadeiro7 playpath=stream  swfUrl=https://static.radios.
 #EXTINF:-1 tvg-logo="https://bit.ly/2r2KGGO" group-title="RADIOS",  SOMZOOM SAT (FORTALEZA-CE)
 http://stream.7br.com.br:10102/stream?1517276167859
 
+#EXTINF:-1 tvg-logo="https://bit.ly/2r2KGGO" group-title="RADIOS",  SHOWTIME (S.BERNARDO DO CAMPO-SP)
+http://208.115.213.242:8390/;
 
 
 
