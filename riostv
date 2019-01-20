@@ -10,7 +10,7 @@
  
   <item>
  <title>  RECORD </title>
- <link>http://painel.fastiptv.cf:25461/live/uendelldids/L1KIVM7bPs/3932.ts</link>
+ <link>https://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b475136.m3u8</link>
  <thumbnail>https://bit.ly/2EVhXff</thumbnail>
  <fanart>https://bit.ly/2TiljwC</fanart>
  </item>
@@ -48,6 +48,20 @@
  <link>http://ebctvbrasil-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvbrasil/manifest.m3u8</link>
  <thumbnail>https://bit.ly/2BN4Hq0</thumbnail>
  <fanart> https://bit.ly/2TiljwC </fanart>
+ </item>
+
+ <item>
+ <title>TV CULTURA</title>
+ <link>http://srv3.zoeweb.tv:1935/z99-live/stream/livestream.m3u8</link>
+ <thumbnail>https://bit.ly/2Hngv8r</thumbnail>
+ <fanart>https://bit.ly/2TiljwC</fanart>
+ </item>
+
+  <item>
+ <title>REDE NEW</title>
+ <link> http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8</link>
+ <thumbnail>https://bit.ly/2FE0qto</thumbnail>
+ <fanart>https://bit.ly/2TiljwC</fanart>
  </item>
  
   <item>
