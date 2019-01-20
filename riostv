@@ -17,7 +17,7 @@
  
   <item>
  <title>SBT</title>
- <link>http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2021975963_b216000_sleng.m3u8</link>
+ <link>http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8</link>
  <thumbnail>https://bit.ly/2QX2QJn</thumbnail>
  <fanart>https://bit.ly/2TiljwC</fanart>
  </item>
@@ -45,7 +45,7 @@
  
   <item>
  <title>TV BRASIL</title>
- <link>http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live/stream1.m3u8</link>
+ <link>http://ebctvbrasil-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvbrasil/manifest.m3u8</link>
  <thumbnail>https://bit.ly/2BN4Hq0</thumbnail>
  <fanart> https://bit.ly/2TiljwC </fanart>
  </item>
@@ -63,6 +63,12 @@
  <thumbnail>https://bit.ly/2QdEAgQ</thumbnail>
  <fanart>https://bit.ly/2TiljwC</fanart>
  </item>
+ 
+ cultura
+ http://srv3.zoeweb.tv:1935/z99-live/stream/livestream.m3u8
+ 
+ Rede new
+ http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 
 
   
