@@ -36,18 +36,34 @@
  <fanart>https://bit.ly/2TiljwC</fanart>
  </item>
  
+ 
   <item>
+ <title>RECOR NEWS</title>
+ <link>http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?wowzasessionid=736423283</link>
+ <thumbnail>https://bit.ly/2FNlZqD</thumbnail>
+ <fanart>https://bit.ly/2TiljwC</fanart>
+ </item>
+ 
+ 
+ <item>
  <title>GAZETA</title>
  <link>http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8</link>
  <thumbnail>https://bit.ly/2R0RG6D</thumbnail>
- <fanart> https://bit.ly/2TiljwC </fanart>
+ <fanart>https://bit.ly/2TiljwC</fanart>
+ </item>
+ 
+  <item>
+ <title>REDE BRASIL</title>
+ <link>http://173.236.10.10:1935/rbtv/rbtv/chunklist_w712068166.m3u8</link>
+ <thumbnail>https://bit.ly/2S1WUhW</thumbnail>
+ <fanart>https://bit.ly/2TiljwC</fanart>
  </item>
  
   <item>
  <title>TV BRASIL</title>
  <link>http://ebctvbrasil-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvbrasil/manifest.m3u8</link>
  <thumbnail>https://bit.ly/2BN4Hq0</thumbnail>
- <fanart> https://bit.ly/2TiljwC </fanart>
+ <fanart>https://bit.ly/2TiljwC</fanart>
  </item>
 
  <item>
@@ -78,5 +94,25 @@
  <fanart>https://bit.ly/2TiljwC</fanart>
  </item>
  
+ <item>
+ <title>CANAL 26 - AR</title>
+ <link>http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1814866738_b1264000_sleng.m3u8</link>
+ <thumbnail>https://bit.ly/2RIIHaE</thumbnail>
+ <fanart>https://bit.ly/2TiljwC</fanart>
+ </item>
+ 
+  <item>
+ <title>MULTIVIONS TV - AR </title>
+ <link>http://panel.dattalive.com:1935/8250/8250/chunklist_w1343831968.m3u8</link>
+ <thumbnail>https://bit.ly/2FEDBWm</thumbnail>
+ <fanart>https://bit.ly/2TiljwC</fanart>
+ </item>
+ 
+ <item>
+ <title>CBS NEWS - US</title>
+ <link>http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_1200_av-b.m3u8?sd=10&rebase=on</link>
+ <thumbnail>https://bit.ly/2R07pOs</thumbnail>
+ <fanart>https://bit.ly/2TiljwC</fanart>
+ </item>
 
   
