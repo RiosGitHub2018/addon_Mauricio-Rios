@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://bit.ly/2s0ywPp" group-title="CANAIS DE TV",  TV Meio Norte
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+
