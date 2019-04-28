@@ -2,3 +2,6 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/2s0ywPp" group-title="CANAIS DE TV",  TV Meio Norte
 http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://bit.ly/2YFSo9k" group-title="CANAIS DE TV",  TV Assembléia
+https://59e4b6c1beddc.streamlock.net:443/ronaldoalepi/ronaldoalepi/playlist.m3u8
+
