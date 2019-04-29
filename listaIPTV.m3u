@@ -5,3 +5,6 @@ http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2YFSo9k" group-title="CANAIS DE TV",  TV Assembléia
 https://59e4b6c1beddc.streamlock.net:443/ronaldoalepi/ronaldoalepi/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1oslmbKUskFJRAfTrCfmC2nScv-FR0l4rdA?alt=media&key=AIzaSyCi-f2OhBKfdzNM8AWZQzMWomg5vVPr4FI" group-title="CANAIS DE TV",  teste API
+https://www.googleapis.com/drive/v3/files/1cROcpDOCH0zmcIVSE_g0C4L8_1heoCKAYA?alt=media&key=AIzaSyCi-f2OhBKfdzNM8AWZQzMWomg5vVPr4FI
+
