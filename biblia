@@ -2,16 +2,16 @@
 #EXTINF:-1 tvg-logo="https://bit.ly/2TKJBk4" group-title="BIBLIA", 06:00 - GENESIS
 https://www.googleapis.com/drive/v3/files/1_lU1cIZTcmCLjG9VfcYbO8Azpw2EDqdC?alt=media&key=AIzaSyDH2FlvmKLFJyJih9LNXGErJSvru4I9Khs
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2TKJBk4" group-title="BIBLIA", 06:00 - O ÊXODO
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-dpxgcvJoXRk/W_W7CzNLA5I/AAAAAAAABj8/FzjxZx7wkjgmDt_d9K_FYPc_nVZ1m_iuACLcBGAs/s1600/oexodo.png" group-title="BIBLIA", 06:00 - O ÊXODO
 https://www.googleapis.com/drive/v3/files/1_lU1cIZTcmCLjG9VfcYbO8Azpw2EDqdC?alt=media&key=AIzaSyDH2FlvmKLFJyJih9LNXGErJSvru4I9Khs
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2KAdnUH" group-title="BIBLIA", 06:00 - LEVITICO
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-zatZLcub_hI/W_XhUa51adI/AAAAAAAABlA/mTYPQxCu7kMU5gOPbEIxr4EtUUi4cunXgCLcBGAs/s1600/levitico.png" group-title="BIBLIA", 06:00 - LEVITICO
 https://www.googleapis.com/drive/v3/files/1_lU1cIZTcmCLjG9VfcYbO8Azpw2EDqdC?alt=media&key=AIzaSyDH2FlvmKLFJyJih9LNXGErJSvru4I9Khs
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2P5Yytm" group-title="BIBLIA", 06:00 - NÚMEROS
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-x38Fe1LEpLE/W_XhUu2uTYI/AAAAAAAABlI/p9MZl1zJXEk8ESM3b0haztrTBOju3yGbQCLcBGAs/s1600/numeros.png" group-title="BIBLIA", 06:00 - NÚMEROS
 https://www.googleapis.com/drive/v3/files/1_lU1cIZTcmCLjG9VfcYbO8Azpw2EDqdC?alt=media&key=AIzaSyDH2FlvmKLFJyJih9LNXGErJSvru4I9Khs
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2P5Yytm" group-title="BIBLIA", 06:00 - DEUTERONOMIO
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-GqL-mjOJhMA/W_XhUi3AkgI/AAAAAAAABlE/_vBoDW72BychKznT0GsID1m0PcbVbEn0wCLcBGAs/s1600/Deuteronomio.png" group-title="BIBLIA", 06:00 - DEUTERONOMIO
 https://www.googleapis.com/drive/v3/files/1_lU1cIZTcmCLjG9VfcYbO8Azpw2EDqdC?alt=media&key=AIzaSyDH2FlvmKLFJyJih9LNXGErJSvru4I9Khs
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2BpSJDN" group-title="BIBLIA", 06:00 - JOSUÉ
@@ -28,4 +28,3 @@ https://www.googleapis.com/drive/v3/files/1_lU1cIZTcmCLjG9VfcYbO8Azpw2EDqdC?alt=
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2QpgzaO" group-title="BIBLIA", 06:00 - REIS
 https://www.googleapis.com/drive/v3/files/1_lU1cIZTcmCLjG9VfcYbO8Azpw2EDqdC?alt=media&key=AIzaSyDH2FlvmKLFJyJih9LNXGErJSvru4I9Khs
-
