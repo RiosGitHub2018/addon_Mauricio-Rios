@@ -87,7 +87,14 @@
  <fanart>https://bit.ly/2TiljwC</fanart>
  </item>
  
-   <item>
+  <item>
+ <title>O DIATV - PI</title>
+ <link>https://5ca42828c3a79.streamlock.net:443/tvodia/tvodia/playlist.m3u8</link>
+ <thumbnail>https://bit.ly/2HA1Zac</thumbnail>
+ <fanart>https://bit.ly/2TiljwC</fanart>
+ </item>
+ 
+  <item>
  <title>TV ASSEMBLÉIA - PI</title>
  <link>https://59e4b6c1beddc.streamlock.net:443/ronaldoalepi/ronaldoalepi/playlist.m3u8</link>
  <thumbnail>https://bit.ly/2YFSo9k</thumbnail>
