@@ -82,11 +82,11 @@
  
   <item>
  <title>MEIO NORTE</title>
- <link>http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8</link>
+ <link>http://api.new.livestream.com/accounts/3332377/events/2958396/live..m3u8?</link>
  <thumbnail>https://bit.ly/2s0ywPp</thumbnail>
  <fanart>https://bit.ly/2TiljwC</fanart>
  </item>
- 
+     
   <item>
  <title>O DIATV - PI</title>
  <link>https://5ca42828c3a79.streamlock.net:443/tvodia/tvodia/playlist.m3u8</link>
