@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho", Scooby-Doo_ESP_01
-
+https://www.googleapis.com/drive/v3/files/1rdRPs5XThKRX40edJ8SqYdwhpaK9oxy9?alt=media&key=AIzaSyBNHuetZKmmNS3NliXyly-LvrtCtFtv0aU
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho", Scooby-Doo_ESP_02
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1a0mKLiXgzw-Vuf4RXdC7oPKXNXui6rlJ/view
