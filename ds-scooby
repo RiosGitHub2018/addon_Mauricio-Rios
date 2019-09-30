@@ -1,5 +1,74 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",SCOOB-DOO /PRIMEIRA TEMPORA:
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",SCOOB-DOO /PRIMEIRA TEMPORADA:
 https://xmbcriosxx
-#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 1:
-http://gdriver-api.epizy.com/s.php?id=1rdRPs5XThKRX40edJ8SqYdwhpaK9oxy9
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 01:
+https://www.googleapis.com/drive/v3/files/1rdRPs5XThKRX40edJ8SqYdwhpaK9oxy9?alt=media&key=AIzaSyDpZH46s6kPhCptom5XSKan_QILQBbIGbo
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 02:
+https://www.googleapis.com/drive/v3/files/1Cl5Mbsy4KFO1oyZ2LMH19X9LzSHfGBTs?alt=media&key=AIzaSyDpZH46s6kPhCptom5XSKan_QILQBbIGbo
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 03:
+https://www.googleapis.com/drive/v3/files/1FK3EBfhFm8rBrRftqR2uyKjxcqzi6nzk?alt=media&key=AIzaSyDpZH46s6kPhCptom5XSKan_QILQBbIGbo
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 04:
+https://www.googleapis.com/drive/v3/files/1dNUtduQhzp5nolIMqTfTGDYr2kCa2gAN?alt=media&key=AIzaSyDpZH46s6kPhCptom5XSKan_QILQBbIGbo
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 05:
+https://www.googleapis.com/drive/v3/files/19knUkDA-WW7Za7zhiclIkrTUh34H_k5b?alt=media&key=AIzaSyDpZH46s6kPhCptom5XSKan_QILQBbIGbo
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 06:
+https://www.googleapis.com/drive/v3/files/1ddb9xG9xqMe8nGLXtuMytjgl4BdMX3-_?alt=media&key=AIzaSyDpZH46s6kPhCptom5XSKan_QILQBbIGbo
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 07:
+https://www.googleapis.com/drive/v3/files/13qy6UGwKgG0Mzus8dMrsq6ij-Bk9kXDx?alt=media&key=AIzaSyDpZH46s6kPhCptom5XSKan_QILQBbIGbo
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 08:
+https://www.googleapis.com/drive/v3/files/1tZyJZE3sEYq6UQChrBRS_9tmOhkN9-qj?alt=media&key=AIzaSyDpZH46s6kPhCptom5XSKan_QILQBbIGbo
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 09
+https://www.googleapis.com/drive/v3/files/17HBpiScd4wBckio1CGV_MwqRGqb7qrac?alt=media&key=AIzaSyDpZH46s6kPhCptom5XSKan_QILQBbIGbo
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 10:
+https://www.googleapis.com/drive/v3/files/1oIBEu1r1yLNmdZe5dNce0U22uyWSZ3n-?alt=media&key=AIzaSyDpZH46s6kPhCptom5XSKan_QILQBbIGbo
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 11:
+https://www.googleapis.com/drive/v3/files/1hesUVPSC40Mr4dGtJ2am7IgHeymAOVoL?alt=media&key=AIzaSyDpZH46s6kPhCptom5XSKan_QILQBbIGbo
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 12:
+https://www.googleapis.com/drive/v3/files/1ktzWPgDRtlCnoPg_N3xPtIRenMngbA3C?alt=media&key=AIzaSyDpZH46s6kPhCptom5XSKan_QILQBbIGbo
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 13:
+https://www.googleapis.com/drive/v3/files/1Gfsqos-VGlfu3HxeCDxXR8UHl60Sfzf0?alt=media&key=AIzaSyDpZH46s6kPhCptom5XSKan_QILQBbIGbo
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 14:
+https://www.googleapis.com/drive/v3/files/1Olxl6HJQ5WJzQ98lF3ywwP3ztqoc88zK?alt=media&key=AIzaSyDpZH46s6kPhCptom5XSKan_QILQBbIGbo
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 15:
+https://www.googleapis.com/drive/v3/files/19lk8BaujUl_WK_tZuBMG_Y-SiZ04nosb?alt=media&key=AIzaSyDpZH46s6kPhCptom5XSKan_QILQBbIGbo
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 16:
+https://www.googleapis.com/drive/v3/files/1LLMEIYH39eSp5szSKIiE2i6IZt0mZLu_?alt=media&key=AIzaSyDpZH46s6kPhCptom5XSKan_QILQBbIGbo
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 17:
+https://www.googleapis.com/drive/v3/files/1vQQiTgUO6bWIF-NJgKs_0OdZC3bnVN1W?alt=media&key=AIzaSyDpZH46s6kPhCptom5XSKan_QILQBbIGbo
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",SCOOB-DOO /SEGUNDA TEMPORADA:
+https://xmbcriosxx
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 17:
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 19:
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 20:
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 21:
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 22:
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 23:
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 24:
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2BU9Gq9" group-title="Desenho",EPISODIO 25:
+
+
