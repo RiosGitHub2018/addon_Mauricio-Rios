@@ -3,7 +3,7 @@
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8elRFUVdTbWM5XzA/edit
 
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 2-Barão Owl, o Imperador Ninja   
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8TU1qUGRrTUh3bHc/edit
+https://www.googleapis.com/drive/v3/files/0B8J5V4egL-I8TU1qUGRrTUh3bHc?alt=media&key=AIzaSyD0Mixkp3shwpT4eqQ4jrvpIxA_q1ynTBs
 
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/jiraya.png" group-title="Tokusatsus", 3-A Esmeralda   
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8J5V4egL-I8QmtqSFI5cjgtcVk/edit
