@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 	<layoutype>thumbnail</layoutype>
 
-	<channel>
-	<name>[COLOR  orange]Tokusatsus[/COLOR]</name>
-	<genre>Sériados japoneses</genre>
-	<fanart>https://3.bp.blogspot.com/-WE1uRwBRZh4/XZ_TtAMFQ-I/AAAAAAAACAY/0XfiqIOXRtAxywzvMTGC4HubltOFIhdewCLcBGAsYHQ/s1600/fanarttokus.jpg</fanart>
-	<thumbnail>https://4.bp.blogspot.com/-cqnQkKG_N30/XZ_TuSZtBWI/AAAAAAAACAo/j0VV9z8PIOMgvaX-pUdBIHKafo2OXaGUgCLcBGAsYHQ/s1600/menutokus.jpg</thumbnail>
-	<info>Tokusatsu é uma abreviatura da expressão japonesa "tokushu satsuei", traduzida como "filme de efeitos especiais".</info>
-	<items>
-	<!-- if channels_info, metal heros -->		
-    <item>
-	<title>[COLOR greenyellow]•••••••••• SESSÃO METAL HEROS ••••••••••[/COLOR]</title>
-	<link>http://ignorame</link>
-	<thumbnail>https://1.bp.blogspot.com/-72SMfbGM4W0/XZ_XHgOSyqI/AAAAAAAACCQ/CWzji8NTF4Ao5cdJANTyPRc3ARWEZVk8wCLcBGAsYHQ/s1600/thubsmerah.jpg</thumbnail>
-	<fanart>https://3.bp.blogspot.com/-WE1uRwBRZh4/XZ_TtAMFQ-I/AAAAAAAACAY/0XfiqIOXRtAxywzvMTGC4HubltOFIhdewCLcBGAsYHQ/s1600/fanarttokus.jpg</fanart>
-	<externallink></externallink>
-	</item>
-	</channel> 	 
 
 	
 	
