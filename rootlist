@@ -11,13 +11,13 @@
 	</channels_info>
 	
 	<!-----------------------------------------MenuTokusatsus ---------------------------------------------------------->	
-	 <channel>
+	<channel>
 	<name>[COLOR  orange]Tokusatsus[/COLOR]</name>
 	<genre>Sériados japoneses</genre>
 	<fanart>https://3.bp.blogspot.com/-WE1uRwBRZh4/XZ_TtAMFQ-I/AAAAAAAACAY/0XfiqIOXRtAxywzvMTGC4HubltOFIhdewCLcBGAsYHQ/s1600/fanarttokus.jpg</fanart>
 	<thumbnail>https://4.bp.blogspot.com/-cqnQkKG_N30/XZ_TuSZtBWI/AAAAAAAACAo/j0VV9z8PIOMgvaX-pUdBIHKafo2OXaGUgCLcBGAsYHQ/s1600/menutokus.jpg</thumbnail>
 	<info>Tokusatsu é uma abreviatura da expressão japonesa "tokushu satsuei", traduzida como "filme de efeitos especiais"</info>
-	<externallink>http://xmbcrios.esy.es/listas/filmes/manufilmes.xml</externallink>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/m_tokusatsus</externallink>
 	</channel>
 	
 	<!------------------------------------------------Menu filmes ---------------------------------------------------------->					 
