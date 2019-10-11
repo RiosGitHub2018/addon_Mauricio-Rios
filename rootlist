@@ -26,6 +26,27 @@
 	<externallink></externallink>
 	</item>
 	</channel> 	
+	
+	
+	
+   <channel>
+	<name>[COLOR  orange] Canais de TV [/COLOR]</name>
+	<genre>Canai te tv ao vivo</genre>
+	<fanart>http://xmbcrios.esy.es/fanats/fanarttv.jpg</fanart>
+	<thumbnail>https://i.imgur.com/Gggwof8.jpg</thumbnail>
+	<items>
+	<!-- if channels_info, 1ª lista -->		
+    <item>
+	<title>[B][COLOR  mediumseagreen]OPÇÃO A[/COLOR][/B]</title>
+	<link>http://ignorame</link>
+	<thumbnail>http://xmbcrios.esy.es/logo/tvaovivoplus.png</thumbnail>
+	<fanart>http://www.armacao.com.br/blog/wp-content/uploads/2011/04/features_global.jpg</fanart>
+	<externallink>http://bit.ly/CanaisIPTVbreserva</externallink>
+	</item>
+	
+	
+	
+	
 
 	<!------------------------------------------------Menu filmes ---------------------------------------------------------->					 
 	<channel>
