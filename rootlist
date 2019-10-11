@@ -9,7 +9,341 @@
 	<thumbnail>https://copy.com/XWW7pfDUu9sEzuSC</thumbnail>
 	<credits/>
 	</channels_info>
+	<channel>
+	<name>[COLOR  orange]Tokusatsus[/COLOR]</name>
+	<genre>Sériados japoneses</genre>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/088587c0_zpsnljszsfc.jpg~original</fanart>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/tokusatsus_zpsbvzy3adp.png~original</thumbnail>
+	<info>Tokusatsu é uma abreviatura da expressão japonesa "tokushu satsuei", traduzida como "filme de efeitos especiais".</info>
+	<items>
+	<!-- if channels_info, sessão metal heros -->		
+	<item>
+	<title>[COLOR greenyellow]•••••••••• SESSÃO METAL HEROS ••••••••••[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>[COLOR palegreen]Metaru Hīrō Shirīzu? [/COLOR] (Metal Hero ) foi uma franquia de séries de televisão do gênero tokusatsu da produtora japonesa Toei Company , produzidas a partir de 1982 com Uchuu Keiji Gyaban, durando até 1998, com Robotack. Ao longo dos anos o gênero foi sofrendo modificações até ser extinto em 1998.</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/metaheros_zpssitqau5g.png~original</thumbnail>
+	</item>		
+	<!-- if channels_info, 1ª série tokusatus -->		
+	<item>
+	<title>Space Cop Gaban  [COLOR orange](Dublado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>Metal Heros</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/gaban_zps8y9rhmol.png~original</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Traduzido como Detetive Espacial Gavan, e lançada no Brasil sob o título de Space Cop Gaban) é a primeira série de televisão do gênero tokusatsu da franquia Metal Hero. Foi produzida pela Toei Company, e exibida originalmente entre 5 de março de 1982 e 25 de fevereiro de 1983 pela TV Asahi. A série é a primeira da trilogia dos Policiais do Espaço, continuada pelas duas séries seguintes, Sharivan e Shaider. No Brasil, foi transmitida pela Rede Globo a partir de 4 de março de 1991 na Sessão Aventura, quando foram exibidos apenas os 20 primeiros episódios. Posteriormente, foi remanejado para o extinto Xou da Xuxa, quando os 44 episódios foram milagrosamente exibidos. Também foi TV Gazeta subsequentemente no mesmo ano, no programa Gazetinha.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/tk_Gavan</externallink>
+	</item>		
+	<!-- if channels_info, 2ª série tokusatus -->	
+	<item>
+	<title>Detetive Espacial Sharivan  [COLOR orange](Dublado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>Metal Heros</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/Charivan_zpsdgrttcs5.png~original</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>É uma série de televisão do gênero tokusatsu da franquia Metal Hero. É a segunda série da trilogia dos Policiais do Espaço, sucedendo Gavan. Produzida pela Toei Company, a série foi exibida originalmente entre 4 de março de 1983 e 24 de fevereiro de 1984 pela TV Asahi, totalizando 51 episódios. No Brasil, foi transmitida nas tardes da Rede Bandeirantes a partir do dia 8 de outubro de 1990 a 21 de dezembro do mesmo ano, sendo parte integrante do programa TV Criança. Posteriormente foi exibida na Rede Record em 1993 (a partir de 13 de maio, pelas manhãs) e na TV Guaíba, de 13 de setembro de 1993 a 15 de janeiro de 1994, na Sessão Série, às 11h e 14h. Voltou a ser exibido em 1996 pela Rede Record no programa Tarde Criança junto com os outros heróis japoneses. Em 1998, teve uma exibição regional para o RJ durante o meio-dia, também na Rede Record.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/tk_Sharivan</externallink>
+	</item>
+	<!-- if channels_info, 3ª série tokusatus -->
+	<item>
+	<title>Detetive Espacial Shaider [COLOR orange](Dublado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>Metal Heros</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/shaider_zpsf8dhmwhd.png~original</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>É uma série de televisão do gênero tokusatsu da franquia Metal Hero, sucedendo Sharivan e antecedendo Jaspion. Produzida pela Toei Company, foi exibida originalmente entre 2 de março de 1984 e 8 de março de 1985 pela TV Asahi, totalizando 49 episódios. É a terceira e última série da trilogia dos Policiais do Espaço. No Brasil, Shaider foi exibido em 1990 pela TV Gazeta de 19/11/90 até 23/03/91. Posteriormente, exibido pela Rede Globo inicialmente aos sábados pela manhã (7h35) de 6 de abril a 22 de junho de 1991. Em 1992, foi remanejado para as madrugadas de sexta para sábado e sábado para domingo, junto com Bicrossers, no período de 14 de junho de 1992 até 10 de janeiro de 1993, sua última exibição. Posteriormente, foi adaptada para o público americano, juntamente com Spielvan e Metalder, pela produtora norte-americana Saban Entertainment como a série VR Troopers.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/tk_Shaider</externallink>
+	</item>
+	<!-- if channels_info, 4ª série tokusatus -->
+	<item>
+	<title>O Fantastico Jaspion [COLOR orange](Dublado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>Metal Heros</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/jaspion_zpskybr089a.png~original</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>No planeta Edin, uma estrela a muitos anos-luz da Terra, o profeta Edin encontra um garoto humano que sobreviveu à queda de uma nave espacial no planeta, acidente no qual seus pais morreram. Crente nas profecia da Bíblia Galáctica, a qual preceituava que um guerreiro celestial salvaria a galáxia e o universo das forças do mal, Edin crê ser este o garoto predestinado a se tornar o lendário guerreiro. Ele adota o menino e o cria sozinho, dando-lhe o nome de Jaspion, na esperança de que, algum dia, o garoto venha a combater as ameaças do temível Satan Goss, do Império dos Monstros.Anos mais tarde, já adolescente, Jaspion aprende sobre seu destino, e aceita de seu “pai” os equipamentos que seu mentor construiu para auxiliá-lo. Entre os artefatos, estão a armadura Metaltex, feita do metal mais resistente do universo; a andróide Anri, que passa a ser sua companheira na jornada, e a nave espacial Daileon, que tem o poder de transformar-se em um poderoso robô gigante. Sua missão é encontrar os pedaços da Bíblia Galáctica (que havia se espalhado pelo Universo após o planeta ancestral de Edin ter sido destruído por um cometa) e destruir o império de Satan Goss. Após algumas aventuras em planetas desconhecidos (num deles tendo resgatado a alienígena Miya, que é adotada e passa a acompanhar ambos), Jaspion e Anri chegam à Terra, alvo do maligno Satan Goss e seu filho MacGaren, que torna-se o rival do herói. Aqui, ganham novos aliados, como Boomerman (Boomerang, no original), o professor Nambara, e seus filhos, Kanoko e Kenta.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/tk_Jaspion</externallink>
+	</item>
+	<!-- if channels_info, 5ª série tokusatus -->
+	<item>
+	<title>Guerreiro Dimensional Spielvan [COLOR orange](Dublado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>Metal Heros</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/spielvan_zpsnkfxrgqq.png~original</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>O planeta Clean é invadido e destruído pelas forças do Império Water(Waller) e seus ultimos habitantes decidem enviar dois garotos, Spielvan e Diana para uma jornada de doze anos em animação suspensa para combater o maligno império. Spielvan além de aceitar essa missão tem a intenção de resgatar seu pai e sua irmã Helen, sequestrados pelo Império do mal. Para isso, Spielvan e Diana contam com armaduras Metaltech e um imenso arsenal de batalha Informações Técnicas.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/tk_Spielvan</externallink>
+	</item>
+	<!-- if channels_info, 6ª série tokusatus -->
+	<item>
+	<title>Metalder O Homem-Maquina  [COLOR orange](Dublado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>[COLOR darkseagreen]Metalder O Homem-Maquina![/COLOR] Em meio à 2ª Guerra Mundial, o Doutor Koga, um especialista em robótica, desenvolveu o andróide Metalder, como arma secreta do exército japonês para ser usado na Guerra do Pacífico contra os EUA. Como modelo, o Doutor Koga utilizou o seu finado filho, Tatsuo Koga, segundo subtenente da Marinha Imperial. No entanto, o projeto foi abandonado. Em 1987, Koga descobre a existência do Império Neroz e, pouco antes de morrer, ativa Metalder, que desperta como o andróide Hideki Kondo (Ryuusei Tsurugi, no original). Hideki assiste à morte de seu criador pelos soldados de Neroz e se enfurece, assumindo a forma de Metalder; como tal, decide combater o Império Neroz.</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/Metalder_zpsecwu1rm3.png~original</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Em meio à 2ª Guerra Mundial, o Doutor Koga, um especialista em robótica, desenvolveu o andróide Metalder, como arma secreta do exército japonês para ser usado na Guerra do Pacífico contra os EUA. Como modelo, o Doutor Koga utilizou o seu finado filho, Tatsuo Koga, segundo subtenente da Marinha Imperial. No entanto, o projeto foi abandonado. Em 1987, Koga descobre a existência do Império Neroz e, pouco antes de morrer, ativa Metalder, que desperta como o andróide Hideki Kondo (Ryuusei Tsurugi, no original). Hideki assiste à morte de seu criador pelos soldados de Neroz e se enfurece, assumindo a forma de Metalder; como tal, decide combater o Império Neroz.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/tk_Metalder</externallink>
+	</item>
+	<!-- if channels_info, 7ª série tokusatus -->
+	<item>
+	<title>Jiraya O Incrível Ninja [COLOR orange](Dublado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>Metal Heros</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/jiraya_zpsxlkgfxqg.png~original</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Sekai Ninja Sen Jiraiya, traduzido como Guerra Mundial dos Ninjas Jiraiya. É uma série de televisão japonesa do gênero tokusatsu, pertencente à franquia dos Metal Heroes.1 Produzida pela Toei Company, foi exibida originalmente entre 24 de janeiro de 1988 a 24 de janeiro de 1989 pela TV Asahi, totalizando 50 episódios.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/tk_jiraya</externallink>
+	</item>
+	<!-- if channels_info, 8ª série tokusatus -->
+	<item>
+	<title>Policaial de Aço Jiban [COLOR orange](Dublado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>Metal Heros</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/jiban_zpsigitbtvo.png~original</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Policial de Aço Jiban é uma série tokusatsu da franquia Metal Hero, produzida pela Toei Company entre 1989 e 1990. Foi quase que inteiramente inspirada no personagem norte-americano Robocop. Trazida ao Brasil pela extinta distribuidora Top Tape, foi exibida a partir de 1990 pela Rede Manchete. Ao todo tem 52 episódios, onde apenas 50 foram exibidos pela emissora carioca na época. Atualmente é exibida de forma não autorizada pela Ulbra TV de Porto Alegre e Rede Brasil de Televisão. que atualmente é exibido todas as terças na Rede Brasil de Televisão, Também está saindo em DVD pela Distribuidora Focus Filmes.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/tk_jiban</externallink>
+	</item>
+	<!-- if channels_info, 9ª série tokusatus -->
+	<item>
+	<title>Equipe de Resgate Solbrain [COLOR orange](Dublado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>Metal Heros</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/solbrain_zps2swxbnwz.png~original</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Solbrain (traduzido literalmente como Ordem de Resgate Especial Solbrain) é uma série de televisão japonesa do gênero tokusatsu. Produzida pela Toei Company, faz parte da franquia dos Metal Hero e foi exibida originalmente no Japão entre 20 de janeiro de 1991 e 26 de janeiro de 1992, totalizando 53 episódios. No Brasil, a série foi exibida pela Rede Manchete a partir de 1995, sendo um dos últimos tokusatsus a estrear na TV brasileira. Sinopse: Após a partida do Esquadrão Especial Winspector para a Europa, o Japão não poderia ficar desprotegido. Foi pensando nisso que, sem perda de tempo, o Chefe Massaki organizou um novo grupo de heróis tão ou mais poderosos que o Winspector. Nascia então a Super Equipe de Resgate Solbrain, um super grupo de heróis equipados com a mais alta tecnologia</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/tk_Solbrain</externallink>
+	</item>
+	<!-- if channels_info, 10 série tokusatus -->
+	<item>
+	<title>Robô Janperson [COLOR orange](Legendado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>[COLOR darkseagreen]Tokusou Robo Janperson[/COLOR] é uma série de televisão do gênero tokusatsu pertencente à franquia dos Metal Heroes. Produzida pela Toei Company, foi exibida originalmente entre 31 de janeiro de 1993 e 23 de janeiro de 1994 pela TV Asahi</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/jamperson_zps9fbrq351.png~original</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Tokusou Robo Janperson é uma série de televisão do gênero tokusatsu pertencente à franquia dos Metal Heroes. Produzida pela Toei Company, foi exibida originalmente entre 31 de janeiro de 1993 e 23 de janeiro de 1994 pela TV Asahi</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/tk_Janperson</externallink>
+	</item>
+	<!-- if channels_info, 10 série tokusatus -->
+	<item>
+	<title>Estrela Fascinante Patrine [COLOR orange](Dublado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>[COLOR darkseagreen]Estrela Fascinante Patrine:[/COLOR] A jovem colegial Sayuri Nakami, interpretada por Yuko Hanajima recebe de um estranho velhinho o poder de se transformar na Estrela Fascinante Patrine, a fim de proteger a paz na cidade. Na verdade, esse velhinho é o deus da cidade e dita a ela a seguinte condição: ela não deve revelar sua identidade secreta a ninguém, sob pena de ser transformada num sapo. Tudo piora com o aparecimento do terrível Diabo do Inferno (Diablo, no original), mas ela conta com a ajuda da Estrela Fascinante Pequena Patrine, na verdade sua irmã mais nova, Tomoko (interpreta por Rie Maeda), que também sofre as mesmas condições. Longe das aventuras, elas ainda vivem confusões graças ao seu irmão, Hideki e sua turma.</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/patrine_zpsvajj8aof.png</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>A jovem colegial Sayuri Nakami, interpretada por Yuko Hanajima recebe de um estranho velhinho o poder de se transformar na Estrela Fascinante Patrine, a fim de proteger a paz na cidade. Na verdade, esse velhinho é o deus da cidade e dita a ela a seguinte condição: ela não deve revelar sua identidade secreta a ninguém, sob pena de ser transformada num sapo. Tudo piora com o aparecimento do terrível Diabo do Inferno (Diablo, no original), mas ela conta com a ajuda da Estrela Fascinante Pequena Patrine, na verdade sua irmã mais nova, Tomoko (interpreta por Rie Maeda), que também sofre as mesmas condições. Longe das aventuras, elas ainda vivem confusões graças ao seu irmão, Hideki e sua turma.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/tk_Patrine</externallink>
+	</item>
+	<item>
+	<title>[COLOR greenyellow]•••••••••• SESSÃO SUPER SENTAIS ••••••••••[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>[COLOR palegreen]Sūpā Sentai Shirizu? [/COLOR] (Série Super Sentais) é uma franquia japonesa de séries de televisão voltadas para o público adulto e infanto-juvenil produzida pela Toei Company, no ar desde 1975, normalmente com uma série por ano. A premissa básica das séries é a de um grupo de geralmente cinco heróis que ganham poderes especiais, usam roupas cada um de uma determinada cor, e possuem um arsenal incluindo mechas, robôs gigantes para combater ameaças alienígenas ou vindas da própria Terra. O termo japonês sentai, de origem militar, significa "esquadrão" e, em japonês, sua escrita é composta por dois ideogramas:</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/ssentais_zpsrcvpxhu5.png~original</thumbnail>
+	</item>		
+	<!-- if channels_info, 1ª série Super Sentais -->	       	
+	<item>
+	<title>Denjiman [COLOR orange](Audio Joponês)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>• Ano 1980 / Denshi Sentai Denjiman/ Tema: Tecnologia Espacial</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/dzman_zpskypoj10h.png</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Denjiman é a quarta série do gênero Super Sentai produzida pela Toei Company. Foi a segunda série da Toei Company com copyright da Marvel, mas sem envolvimento desta na produção. Também foi o primeiro sentai que teve o conhecido design padronizado design da Bandai para os capacetes e uniformes dos heróis, usado até hoje. A série foi exibida entre 2 de fevereiro de 1980 a 31 de janeiro de 1981 pela TV Asahi no horário entre 18h00 às 18h30. Tem ao todo 51 episódios mais o filme Denshi Sentai Denjiman (exibido em 12 de junho de 1980).</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/tk_denjiman</externallink>
+	 </item>
+	<!-- if channels_info, 2ª série Super Sentais -->	       	
+	<item>
+	<title>Sun Vulcan [COLOR orange](Legendado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>• Ano 1981 / Taiyou Sentai Sun Vulcan/ Tema: Exército</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/sunvucan_zpsm7311jtb.png~original</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Sun Vulcan é a quinta série do gênero Super Sentai produzida pela Toei Company. Foi exibido pela TV Asahi entre 1981 e 1982 e é o único sentai que serve como uma sequência direta de um anterior, Denshi Sentai Denziman. Foi a última série que teve copyright da Marvel, porém sem esta se envolver na produção. Na ordem de produção, Sun Vulcan representa a 5ª série sentai. Essa série é considerada por muitos a seqüência de Denziman. É a última série em que a Marvel Comics detém os direitos autorais (embora continue sem se envolver na produção)e foi a primeira a ter um robô dividido em veìculos. Também é o único sentai que teve uma alteração de líder. Sabe-se que por pouco essa série não sofreu uma adaptação americana vindo a ser exibida nos Estados Unidos com o estilo dos Power Rangers. Sun Vulcan quase passou no Brasil.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/sunvucan.m3u</externallink>
+	</item>
+	<!-- if channels_info, 3ª série Super Sentais -->	       	
+	<item>
+	<title>Google Five [COLOR orange](Dublado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>• Ano 1982 / Dai Sentai Goggle V / Tema: Ginástica Rítmica, Antigas Civilizações</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/googlev_zps8h2l9e1v.png~original</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Grande Esquadrão Goggle Five e lançado no Brasil como Gigantes Guerreiros Goggle Five) foi um seriado Super Sentai produzido entre 6 de fevereiro de 1982 e 29 de janeiro de 1983 pela Toei Company no Japão e exibido no Brasil inicialmente pela Rede Bandeirantes a partir de 1990, trazido pela Oro Filmes. Depois de um tempo passou para a Rede Record. No total, a série tem 50 episódios. Nos últimos 20 anos o professor Hongo investigou secretamente e descobriu que no Castelo Wolf (Wolfgang, no original), situado na Alemanha, reuniam-se grupos misteriosos de cientistas de diversas partes do mundo. Tais cientistas, considerados perversos, se concentram no Império da Ciência Maligna Desdark (originalmente Deathdark), liderado pelo chefe Taboo, que é um exército que semeia a destruição e a discórdia no universo através de sua Ciência Maligna.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/googlefive.m3u</externallink>
+	</item>
+	<!-- if channels_info, 4ª série Super Sentais -->	       	
+	<item>
+	<title>Dynaman [COLOR orange](Audio Joponês)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>• Ano 1983 / Kagaku Sentai Dynaman / Tema: Ciência</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/dynaman_zpsxgdei3l8.png~original</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Dynaman é a sétima série da franquia Super Sentai, sendo a primeira a usar um tecido mais brilhoso e sem as capas ou lenços, presentes nos uniformes das outras séries. Foi a primeira série Sentai a apresentar os efeitos explosivos visto em outros Tokusatsus. Dynaman foi produzido pela Toei Company e exibido pela TV Asahi no horário das 18h30 entre 1983 a 1984, sucedendo Goggle V e antecedendo Bioman. Esta série, como a grande maioria das séries da franquia, é inédita no Brasil. Tem ao todo 51 episódios.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/dynaman.m3u</externallink>
+	</item>
+	<!-- if channels_info, 5ª série Super Sentais -->	       	
+	<item>
+	<title>Bioman [COLOR orange](Legendado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>• Ano 1984 / Choudenshi Bioman / Tema: Vida</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/bioman_zpsn6hwuqyd.png~original</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Chodenshi Baioman?, traduzido como Super Elétron Bioman) é a oitava série da franquia Super Sentai, produzida pela Toei Company entre 4 de fevereiro de 1984 a 26 de janeiro de 1985, sucedendo Dynaman e antecedendo Changeman. Bioman é famosa por ser a primeira série do gênero que não se vale do expediente de agigantar um monstro derrotado para jogá-lo de novo contra os justiceiros: aqui, todos os "monstros da semana" são robôs originalmente gigantes, vários deles pilotados pelos vilões regulares. Também foi pioneira em dar importância ao robô gigante dos heróis, tornando-o peça-chave de muitas tramas—em contraste com a pouca atenção dada a seus similares nas séries anteriores (e na maioria das posteriores). Outra inovação notável: Bioman foi a primeira série a apresentar uma dupla feminina. Inédita em português, a série fez grande sucesso na França e nas Filipinas, onde foi dublada em inglês. Ao todo tem 51 episódios (mais um filme).</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/bioman.m3u</externallink>
+	</item>
+	<!-- if channels_info, 6ª série Super Sentais -->	       	
+	<item>
+	<title>Changeman [COLOR orange](Dublado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>• Ano 1985 / Dengeki Sentai Changeman / Tema: Seres Mitológicos, Exército</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/d6f065bc-5cbd-4271-bc0e-40cfc8ff0d95_zpstv7wc8bs.png~original</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Esquadrão Relâmpago Changeman) é uma série de televisão japonesa do gênero tokusatsu, parte da franquia dos Super Sentais. Produzida pela Toei Company, foi originalmente exibida pela TV Asahi entre 2 de fevereiro de 1985 e 22 de fevereiro de 1986, sucedendo Bioman e antecedendo Flashman.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/changeman.m3u</externallink>
+	</item>
+	<!-- if channels_info, 7ª série Super Sentais -->	       	
+	<item>
+	<title>Flashiman [COLOR orange](Dublado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>• Ano 1986 / Choushinsei Flashman / Tema: Planetas</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/flashiman_zpsem2ushuq.png~original</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Resumo:Chou Shinsei Flashman (Choshinsei Furasshuman?, traduzido como “Supernova Flashman” e renomeado no Brasil como “Comando Estelar Flashman”) é um seriado televisivo japonês do gênero tokusatsu, pertencente à franquia dos Super Sentais.Sinopse:“Um dia, cinco crianças foram raptadas da Terra e levadas aos confins do Universo. E após 20 anos… Comando Estelar Flashman!” (Aru hi, Chikyū kara gonin no kodomo ga uchū no hate ni sarawareta. Soshite Nijūnengo… Choushinsei Furasshuman!?)Cinco jovens foram raptados quando crianças por caçadores espaciais, mas acabaram sendo salvos pelo povo do Planeta Flash. Durante vinte anos os jovens viveram e treinaram no Planeta Flash e seus satélites, voltando para a Terra ao saberem que o cruzador Imperial Mess, liderado pelo Monarca La Deus e o cientista Doutor Keflen, está prestes a invadir o planeta.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/flashiman.m3u</externallink>
+	</item>
+	<!-- if channels_info, 8ª série Super Sentais -->	       	
+	<item>
+	<title>Maskman  [COLOR orange](Dublado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>• Ano 1987 / Hikari Sentai Maskman / Tema: Energia Espiritual, Artes Marciais</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/maskman_zpsrs6aiepx.png~original</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Esquadrão da Luz Maskman  lançado no Brasil como (Defensores da Luz Maskman) é uma série televisiva japonesa do gênero tokusatsu, pertencente à franquia dos Super Sentais. Produzida pela Toei Company, foi exibida originalmente entre 28 de fevereiro de 1987 e 20 de fevereiro de 1988 no horário das 18h, totalizando 51 episódios. Foi trazida ao Brasil pela Top Tape e exibida no Brasil na extinta Rede Manchete a partir de 1991. Depois disso, houve uma segunda reprise em 1999, também pela Rede Manchete, e pela RedeTV! quando ainda estava em fase experimental, que exibiu a série até o 36.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/maskman.m3u</externallink>
+	</item>
+	<!-- if channels_info, 9ª série Super Sentais -->	       	
+	<item>
+	<title>Turboranger [COLOR orange](Legendado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>• Ano 1989 / Kousoku Sentai Turboranger / Tema: Carros de Alta Velocidade</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/turboranger_zpsxkznolz8.png~original</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>A 20 mil anos atrás, corajosos guerreiros lutaram contra o maligno Império Bohma, que foi derrotado e aprisionado. Porém devido a corrupção dos tempos atuais o Império Bohma consegue escapar de seu aprisionamento. Junto com o Doutor Dazai, Selon, a última das Fadas reuniu cinco estudantes do ginásio para se tornaram os Turborangers e lutar contra Bohma.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/turboranger.m3u</externallink>
+	</item>
+	<!-- if channels_info, 10ª série Super Sentais -->	       	
+	<item>
+	<title>Jetman [COLOR orange](Legendado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>• Ano 1991 / Choujin Sentai Jetman / Tema: Pássaros</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/000001_zps0epnzm4r.png~original</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Esquadrão Homens-Pássaros Jetman é a 15ª série da franquia Super Sentai , produzida pela Toei Company exibida originalmente pela TV Asahi entre 15 de Fevereiro de 1991 e 14 de Fevereiro de 1992. Ao todo tem 51 episódios. A série foi transmitida parcialmente (legendada com vozes na versão japonesa) em Portugal em 1993 pela RTP1. Diferentimente da série anterior - Fiveman - , Jetman possui um contexto mais sério e tem um final trágico, apesar dos heróis vencerem no final. A série é tida por muitos fãs do gênero como um dos melhores Sentai já produzido.Os cientistas da Sky Force, um departamento militar de defesa, descobrem uma energia chamada Birdonic. Eles procuram uma forma de transplantar tal energia nos humanos. A comandante Aya Odagiri escolhe 5 pessoas para fazerem parte de tal projeto, dentre eles o casal Ryu Tendo e Rie Aoi. Logo depois de Ryu ter recebido a energia Birdonic, a base da Sky Force (numa estação espacial) é atacada pelas forças de Vyram, e Rie é sequestrada. Os padrões de energia restante espalham aleatoriamente pelo Japão e atingem quatro civis. Aya e Ryu partem na busca das pessoas atingidas. Com alguma relutância inicial dos quatro membros restantes é formado o Esquadrão Homens-Pássaros Jetman, que luta contra a invasão de Vyram, comandada por Radiguet. </info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/jetman.m3u</externallink>
+	</item>
+	
+	<!-- if channels_info, 11ª série Super Sentais -->	       	
+	<item>
+	<title>gokaiger [COLOR orange](Legendado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>• Ano 1991 / Choujin Sentai Jetman / Tema: Pássaros</genre>
+	<thumbnail>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/gokaiger_zpslkpvwomz.png</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Esquadrão Pirata Gokaiger) é a 35º série da franquia Super Sentai que ficou no ar entre 13 de fevereiro de 2011 e 19 de fevereiro de 2012, totalizando 51 episódios. Foi produzida pela Toei Company, e exibida pela TV Asahi no bloco Super Hero Time junto com Kamen Rider OOO e, posteriormente, com Kamen Rider Fourze. Em 2013 e 2014, foi adaptada ao público norte-americano pela produtora Saban Brands como a 20ª e 21ª temporadas da franquia dos Power Rangers, como Power Rangers: Megaforce e Power Rangers Super Megaforce.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/Gokaiger.m3u</externallink>
+	</item>
+	
+	<!-- if channels_info, 12ª série Super Sentais -->	       	
+	<item>
+	<title>Carranger [COLOR orange](Legendado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>• Ano 1996 / Gekisou Sentai Carranger / Tema: Carros</genre>
+	<thumbnail>http://xmbcrios.esy.es/icons/carrenger.png</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Esquadrão Acelerado Carranger é a 20ª série da franquia Super Sentai, sucedendo Ohranger e antecedendo Megaranger. Foi produzido em 1996 pela Toei Company e utilizado na 5ª temporada de Power Rangers, conhecida como Power Rangers: Turbo. Foi exibido entre 1 de março de 1996 e 7 de fevereiro de 1997 pela TV Asahi. Tem ao todo 48 episódios mais os especiais Ohranger versus Carranger e Carranger versus Megaranger.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/carrenger.m3u</externallink>
+	</item>								
+	<item>
+	<title>[COLOR greenyellow]•••••••••• SESSÃO KAMEN RIDER ••••••••••[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>[COLOR palegreen]Kamen Raidā? [/COLOR] (Kamen Rider )  é o nome de uma franquia televisiva e cinematográfica do gênero tokusatsu criada no Japão pelo mangaká Shotaro Ishinomori e produzida pela Toei Company. A franquia teve início em 1971 com uma série chamada simplesmente Kamen Rider, que foi derivada do mangá de mesmo nome.</genre>
+	<thumbnail>https://i.imgur.com/qF5KOBb.jpg</thumbnail>
+	</item>		
+	<!-- if channels_info, 1ª série kamen rider-->	       	
+	<item>
+	<title>Kamen Rider Amazon [COLOR orange](Legendado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>• 1974 / Kamen Raidā Amazon?</genre>
+	<thumbnail>http://xmbcrios.esy.es/icons/kramazon.png</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Kamen Rider Amazon é uma série de televisão japonesa do gênero tokusatsu, sendo a quarta produção da franquia Kamen Rider.[1] Produzida pela Ishimori Productions e pela Toei Company, Kamen Rider Amazon foi exibido pela Mainichi Broadcasting System (MBS) entre 19 de outubro de 1974 e 29 de março de 1975. É o seriado mais curto da franquia, tendo no total 24 episódios.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/kramazon.m3u</externallink>
+	</item>
+	<!-- if channels_info, 3ª série kamen rider-->	       	
+	<item>
+	<title>Kamen Rider Black [COLOR orange](Dublado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>• 1988 / Kamen Raidā Burakku Aaru Ekkusu?</genre>
+	<thumbnail>http://xmbcrios.esy.es/icons/kamerideblak.png</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Kamen Rider Black RX é uma série tokusatsu produzida pela Toei Company pertencente à franquia Kamen Rider, sendo a continuação direta de Kamen Rider Black. Foi a ultima serie da Era Showa. Foi exibida na televisão brasileira pela Rede Manchete a partir de 24 de julho de 1995. Investigando o misterioso aparecimento de três estacas enquanto pilotava um helicóptero, Kotaro Minami (Issamu Minami na dublagem) encontra três monstros chamados Kaima, cujo aspecto lembrava aos sacerdotes da série anterior, que conseguem impedir sua transformação em Kamen Rider Black. Issamu é levado à base do Império Crisis, que propõe uma aliança em troca de dobrar seus poderes como Kamen Rider Black. Ao recusar a oferta, Issamu é jogado à deriva no espaço. No entanto, a radiação do sol que entra em contato com o Kingstone existente em seu corpo provoca uma inesperada mutação e Issamu é lançado na Terra renascido como Kamen Rider Black RX, o Filho do Sol (Taiyō no Kō Kamen Raidā Burakku Aaru Ekkusu). Ao longo da série, RX ganhará ainda outras duas formas alternativas: RoboRider e BioRider.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/kamerideblak.m3u</externallink>
+	</item>
+	<!-- if channels_info, 3ª série kamen rider-->	       	
+	<item>
+	<title>Kamen Rider Black RX [COLOR orange](Dublado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>• 1988 / Kamen Raidā Burakku Aaru Ekkusu?</genre>
+	<thumbnail>http://xmbcrios.esy.es/icons/kmriderx.png</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Kamen Rider Black RX é uma série tokusatsu produzida pela Toei Company pertencente à franquia Kamen Rider, sendo a continuação direta de Kamen Rider Black. Foi a ultima serie da Era Showa. Foi exibida na televisão brasileira pela Rede Manchete a partir de 24 de julho de 1995. Investigando o misterioso aparecimento de três estacas enquanto pilotava um helicóptero, Kotaro Minami (Issamu Minami na dublagem) encontra três monstros chamados Kaima, cujo aspecto lembrava aos sacerdotes da série anterior, que conseguem impedir sua transformação em Kamen Rider Black. Issamu é levado à base do Império Crisis, que propõe uma aliança em troca de dobrar seus poderes como Kamen Rider Black. Ao recusar a oferta, Issamu é jogado à deriva no espaço. No entanto, a radiação do sol que entra em contato com o Kingstone existente em seu corpo provoca uma inesperada mutação e Issamu é lançado na Terra renascido como Kamen Rider Black RX, o Filho do Sol (Taiyō no Kō Kamen Raidā Burakku Aaru Ekkusu). Ao longo da série, RX ganhará ainda outras duas formas alternativas: RoboRider e BioRider.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/kameriderx.m3u</externallink>
+	</item>
+	<item>
+	<title>[COLOR greenyellow]••••••••• SESSÃO HENSHIN HERO ••••••••••[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>[COLOR palegreen]Kamen Raidā? [/COLOR] (Kamen Rider )  é o nome de uma franquia televisiva e cinematográfica do gênero tokusatsu criada no Japão pelo mangaká Shotaro Ishinomori e produzida pela Toei Company. A franquia teve início em 1971 com uma série chamada simplesmente Kamen Rider, que foi derivada do mangá de mesmo nome.</genre>
+	<thumbnail>http://xmbcrios.esy.es/icons/hheros.png</thumbnail>
+	</item>		
+	<!-- if channels_info, 1ª série Henshin Hero-->	       	
+	<item>
+	<title>Poderoso Lion Man [COLOR orange](Dublado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>• Ano 1973 / Kaiketsu Lion-Maru</genre>
+	<thumbnail>http://xmbcrios.esy.es/icons/lionman.png</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Poderoso LION MAN (como é conhecido no Brasil), é um Tokusatsu (seriado japonês), do gênero Henshin Hero, que estreou no Japão em 14 de abril de 1973, onde foi exibido semanalmente às 19:30hs. O seriado teve sua estreia no Brasil pela TV Manchete a partir de 1989. Além de ter sido lançado em VHS.O seriado tem seu contexto na época do Japão feudal, onde para qualquer guerreiro, mais importante que a propria vida era manter sua honra. Ele conta a história de Dan Shimaru, um samurai de 21 anos que, após ter o irmão Dan Cage Noshin morto por Nezuma, um monstro humano aliado da inescrupulosa família Mantor do Diabo , parte para a batalha movido por um desejo misto de vingança e justiça. Esta série conta com 25 episódios recheados de muita ação e lutas épicas.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/lionman.m3u</externallink>
+	</item>
+	<!-- if channels_info, 2ª série Henshin Hero-->
+	<item>
+	<title>Machineman [COLOR orange](Dublado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>• Ano 1984  / Seiun Kamen Mashinman?</genre>
+	<thumbnail>http://xmbcrios.esy.es/icons/machineman.png</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Seiun Kamen Mashinman?, traduzido como Máscara Nebulosa Machineman é uma série do gênero tokusatsu  produzida pela Toei Company e exibida no Japão entre 03 de janeiro e 28 de setembro de 1984 pela NTV(Nippon TV). Contava as aventuras de Nikku, estudante universitário vindo do planeta Ivy, do aglomerado estelar das Plêiades para estudar o comportamento dos seres humanos habitantes da Terra. Criada por Shotaro Ishinomori (que se inspirou no super-herói norte-americano Super-Homem, embora nem Shotaro nem a Toei tenham confirmado essa informação), possui 36 episódios ao todo e foi exibida no Brasil pela Bandeirantes , Record e NGT.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/machineman.m3u</externallink>
+	</item>
+	<!-- if channels_info, 3ª série Henshin Hero-->
+	<item>
+	<title>Cybercops,[COLOR orange](Dublado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>• Ano 1988  / Os Policiais do Futuro</genre>
+	<thumbnail>http://xmbcrios.esy.es/icons/cybercops.png</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Cybercops, é uma série japonesa de tokusatsu que foi produzida pelos estúdios Toho, sendo exibida originalmente no Japão pela NTV entre 1988 e 1989. Trazida ao Brasil pela Sato Company (cujo dono era Nelson Sato) e exibida pela extinta Rede Manchete no início dos anos 90 ficando no ar até a metade da mesma década conquistando ótimos índices de audiência. Mais tarde, já em 2000, foi reprisada pela CNT. Atualmente é exibida pela Ulbra TV de Porto Alegre. No auge dos seriados Tokusatsu no Brasil na primeira metade da década de 90 foi criado também o Circo Show dos Cybercops em 1994 com atores brasileiros porém com as armaduras e roupas originais usadas nas gravações no Japão.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/cybercops.m3u</externallink>
+	</item>
 
+	<!-- if channels_info, 4ª série Henshin Hero-->
+	<item>
+	<title>Tomica Hero Fire,[COLOR orange](Legendado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>• Ano 2009  /Bombeiros</genre>
+	<thumbnail>http://oi67.tinypic.com/30ruus3.jpg</thumbnail>
+	<fanart>http://i38.photobucket.com/albums/e117/doidoRios/Tokusatsus/fanart3-tokusatsus_zpsptkkeozw.png~original</fanart>
+	<info>Tomica Hero Foi uma série de curta duração de japoneses tokusatsu infantis dramas de televisão . Baseado em Takara Tomy 's Tomica carro de brinquedo linha, o ar da série na TV Aichi e TV Tokyo antes de ser distribuído ao redor do Japão. Takara Tomy produziu anteriormente Madan Senki Ryukendo , [1] mas Ryukendo não foi baseada em um conjunto pré-existente de brinquedos para a empresa. No entanto, é feita referência à Federação da Terra que o USFA é um ramo da, o seu elenco principal fazendo uma participação especial no Rescue Force filme. Embora a ser exibida em dias diferentes, a Série herói Tomica serviu como competição para TV Asahi e Toei Company 's Super Sentai e Kamen Rider e Tsuburaya Productions ' Ultra Series . Apenas duas séries foram feitas com a história Tomica Hero, que terminou com um show no palco com membros da Força de Resgate elenco.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/tomica_hero.xml</externallink>
+	</item>
 	<!------------------------------------------------Menu filmes ---------------------------------------------------------->					 
 	<channel>
 	<name>[COLOR  orange]Filmes[/COLOR]</name>
@@ -37,7 +371,7 @@
 	<thumbnail>https://i.imgur.com/Gggwof8.jpg</thumbnail>
 	<items>
 	<!-- if channels_info, 1ª lista -->		
-    <item>
+		<item>
 	<title>[B][COLOR  mediumseagreen]OPÇÃO A[/COLOR][/B]</title>
 	<link>http://ignorame</link>
 	<thumbnail>http://xmbcrios.esy.es/logo/tvaovivoplus.png</thumbnail>
