@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 	<layoutype>thumbnail</layoutype>
-
-
-	
 	<channels>
+	<channels_info>
+	<!-- this is opitonal -->
+	<title>Padron-List</title>
+	<!-- if channels_info, a title is required, other elements are optional -->
+	<genre>News</genre>
+	<thumbnail>https://copy.com/XWW7pfDUu9sEzuSC</thumbnail>
+	<credits/>
+	</channels_info>
+
 	<!------------------------------------------------Menu filmes ---------------------------------------------------------->					 
 	<channel>
 	<name>[COLOR  orange]Filmes[/COLOR]</name>
