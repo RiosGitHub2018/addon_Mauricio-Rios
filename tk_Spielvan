@@ -1,132 +1,131 @@
 #EXTM3U
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",01-OInício
-https://cld.pt/dl/download/6dff92bd-76e8-4c67-af5a-5a74cb86bf12/Spielvan%2001.mp4
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",01-OInício
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",02-ADuplaInvencível
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B8IO9pNl80G4X2YyTklzZk5Wb1E/view
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",03-AdãoeEvanoPacíficoPromessa
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4WFJpTV9IOW9UY00/edit
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",02-ADuplaInvencível
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",04-AnjoouDemônio?
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4OFNzdW5WTm9Fc28/edit
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",05-ODestinodeHelen
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4OFNzdW5WTm9Fc28/edit
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",03-AdãoeEvanoPacíficoPromessa
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",06-OEstranhoGuerreiro
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4YllfTTBsSGZZOGs/edit
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",07-AIlhadasSereias
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4YllfTTBsSGZZOGs/edit
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",04-AnjoouDemônio?
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",08-AIradeDiana
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",09-AFúriadeSpielvan
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B8IO9pNl80G4T0ZPNk9adjJ4NU0/view
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",05-ODestinodeHelen
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",10-AIndústriadeRobôs
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4UG1BbEU2eXlybWs/edit
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",11-OMecanóideGunMan
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4S1l0N1JjeVIxV3M/edit
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",06-OEstranhoGuerreiro
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",12-ACasadosSonhos
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4eVBlNnRCMjNPWUU/edit
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",13-OSequestrodoCientista
-http://www.blogger.com/video-play.mp4?contentId=6b5aa4bf9c4590bf
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",07-AIlhadasSereias
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",14-ORoubodoMetalCicle
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4SG9XUFBiQWV0OFk/edit
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",15-OperaçãoÁgua-Viva
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4VUtlbGowNkNPazQ/edit
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",08-AIradeDiana
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",16-ALagoaSecreta
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4aGxldll5S3EzWEk/edit
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",17-OLabirintoInfernal
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4Q05DMnE4Y0o1WU0/edit
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",09-AFúriadeSpielvan
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",18-AFlorAquática
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4NGQ4THJRWEkzU3c/edit
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",19-A Rebelião dos Robôs
-http://www.blogger.com/video-play.mp4?contentId=d88a91d43498386d
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",10-AIndústriadeRobôs
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",20-Andróide!
-http://www.blogger.com/video-play.mp4?contentId=c7fdc9d487dc258d
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",21-O Plano Traiçoeiro de Pandora
-http://www.blogger.com/video-play.mp4?contentId=bf33301f669d6a4
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",11-OMecanóideGunMan
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",22-A Missa Negra
-http://www.blogger.com/video-play.mp4?contentId=1e9a784283a3d1e1
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",23-A Montanha do Diabo
-http://www.blogger.com/video-play.mp4?contentId=f27414b0c99b374c
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",12-ACasadosSonhos
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",24-A Chegada de Guiotine
-http://www.blogger.com/video-play.mp4?contentId=9c9becd66b86f215
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",25-O Novo Mecanóide
-http://www.blogger.com/video-play.mp4?contentId=adfcf59b80cb70b0
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",13-OSequestrodoCientista
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",26-Andróide Helen
-http://www.blogger.com/video-play.mp4?contentId=19bae6cb95a115ed
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",27-O Casal do Planeta Focus
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B8IO9pNl80G4SEtlQnRTLUY3TGs/view
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",14-ORoubodoMetalCicle
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",28-Operação Bebê
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B8IO9pNl80G4c01SMnZTeEVKM00/view
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",29-Massacre a Diana
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B8IO9pNl80G4QUFoSV9uY29yZVU/view
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",15-OperaçãoÁgua-Viva
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",30-O Reencontro
-http://www.blogger.com/video-play.mp4?contentId=9c09bf1fa59efcd1
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",31-A Conversão da Lady Helen
-http://www.blogger.com/video-play.mp4?contentId=f7ff5c50fa0addb6
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",16-ALagoaSecreta
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",32-A Flor Misteriosa
-http://www.blogger.com/video-play.mp4?contentId=c6db5efa8d9d47f
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",33-Os Motoqueiros
-http://www.blogger.com/video-play.mp4?contentId=e6e297616de50ff2
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",17-OLabirintoInfernal
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",34-O Estranho Balão
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B8IO9pNl80G4OTI3QjhJd1NDMW8/view
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",35-O Espelho Mágico
-http://www.blogger.com/video-play.mp4?contentId=25ec11508de9d18a
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",18-AFlorAquática
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",36-O nascimento de Fantasman
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B8IO9pNl80G4T205VEJwaUlTLW8/view
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",37-O Ataque à Vila
-http://www.blogger.com/video-play.mp4?contentId=66786a9435d12d39
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",19-A Rebelião dos Robôs
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",38-O Sequestro
-http://www.blogger.com/video-play.mp4?contentId=6610ea8bc781de6e
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",39-A Ira de Pandora
-http://www.blogger.com/video-play.mp4?contentId=2155171df4202ba7
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",20-Andróide!
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",40-Espada do Bem X Espada do Mal
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B8IO9pNl80G4NkRxb0JGZzlnY28/view
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",41-Quem é o ator principal! Caos no estúdio cinematográfico
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",21-O Plano Traiçoeiro de Pandora
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",42-O ataque do general! A potência de 1.000 de watts
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B8IO9pNl80G4UFNZNkdpX0Y1V0E/view
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",43-Desafio final! Invasão ao castelo watter 
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B8IO9pNl80G4XzBCakpQeU80Y1U/view
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",22-A Missa Negra
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/spielvan.png"group-title="Tokusatsus",44-Você saberá! O segredo do planeta clean
-http://www.blogger.com/video-play.mp4?contentId=1d9163eb89db4e2a
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",23-A Montanha do Diabo
+
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",24-A Chegada de Guiotine
+
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",25-O Novo Mecanóide
+
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",26-Andróide Helen
+
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",27-O Casal do Planeta Focus
+
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",28-Operação Bebê
+
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",29-Massacre a Diana
+
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",30-O Reencontro
+
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",31-A Conversão da Lady Helen
+
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",32-A Flor Misteriosa
+
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",33-Os Motoqueiros
+
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",34-O Estranho Balão
+
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",35-O Espelho Mágico
+
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",36-O nascimento de Fantasman
+
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",37-O Ataque à Vila
+
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",38-O Sequestro
+
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",39-A Ira de Pandora
+
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",40-Espada do Bem X Espada do Mal
+
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",41-Quem é o ator principal! Caos no estúdio cinematográfico
+
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",42-O ataque do general! A potência de 1.000 de watts
+
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",43-Desafio final! Invasão ao castelo watter 
+
+
+#EXTINF:-1tvg-logo="https://4.bp.blogspot.com/-0EfvCp1ZOQo/XZ_Tu3jkXII/AAAAAAAACA4/0ViF701guyoCOVnXwmjnzkQkqoTjhlH4wCLcBGAsYHQ/s1600/spilvan.jpg"group-title="Tokusatsus",44-Você saberá! O segredo do planeta clean
