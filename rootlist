@@ -3,7 +3,7 @@
 
 
 	
-	
+	<channels>
 	<!------------------------------------------------Menu filmes ---------------------------------------------------------->					 
 	<channel>
 	<name>[COLOR  orange]Filmes[/COLOR]</name>
@@ -112,6 +112,6 @@
 	<fanart>https://cld.pt/dl/download/938a6544-3913-443b-aebb-75e8a37b06f3/fanart.jpg</fanart>
 	<thumbnail>https://i.imgur.com/HR5q377.jpg</thumbnail>
 	<externallink>http://xmbcrios.esy.es/listas/novelas.xml</externallink>
-	<!-------<items>--------->
+	<items>
 	</channel>
 	</channels>
