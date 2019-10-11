@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<layoutype>thumbnail</layoutype>
+	<channels>
+	<channels_info>
+	<!-- this is opitonal -->
+	<title>Padron-List</title>
+	<!-- if channels_info, a title is required, other elements are optional -->
+	<genre>News</genre>
+	<thumbnail>https://copy.com/XWW7pfDUu9sEzuSC</thumbnail>
+	<credits/>
+	</channels_info>
+	
+	<!-----------------------------------------MenuTokusatsus ---------------------------------------------------------->	
+	<channel>
+	<name>[COLOR greenyellow]•••••••••• SESSÃO METAL HEROS ••••••••••[/COLOR]</name>
+	<fanart>https://3.bp.blogspot.com/-WE1uRwBRZh4/XZ_TtAMFQ-I/AAAAAAAACAY/0XfiqIOXRtAxywzvMTGC4HubltOFIhdewCLcBGAsYHQ/s1600/fanarttokus.jpg</fanart>
+	<thumbnail>https://4.bp.blogspot.com/-cqnQkKG_N30/XZ_TuSZtBWI/AAAAAAAACAo/j0VV9z8PIOMgvaX-pUdBIHKafo2OXaGUgCLcBGAsYHQ/s1600/menutokus.jpg</thumbnail>
+	<info>Tokusatsu é uma abreviatura da expressão japonesa "tokushu satsuei", traduzida como "filme de efeitos especiais"</info>
+	<externallink>http://xmbcrios.esy.es/listas/filmes/manufilmes.xml</externallink>
+	</channel>
