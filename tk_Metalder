@@ -1,115 +1,114 @@
 #EXTM3U
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus",  01 - O portal de Neroz     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4REpwUFo1bGZFX0U/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 02 - Eu sou o Universo     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4V2EwZHBDdi1EeFU/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 03 - O homem-máquina     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4ZTVQcHd2Q0gtQWc/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 04 - Metalder versus Torpedo     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4MTdocTNUdHNNSFU/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 05 - O assassino profissional     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4eUFEZnRnODMxWU0/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 06 - Pugilista em ação     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4Uk1CLU55YV9rSHc/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus",  07 - As chamas do desafio     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4RWFpM1dJdFUzTkk/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 08 - A despedida de Barlock     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4cFN1a2FvcHFEOUk/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 09 - O sonho e a esperança     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4dF9VaXlORDVsZzg/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 10 - O robô filarmônica
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4bEJXRWIzUzZ6SXc/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 11 - Caça ao ex-alfa     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4X0taSzJMTlNQcTg/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 12 - O cerco dos ninjas     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4QlR0aUoyTDZSWEE/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 13 - O fugitivo Momento crítico!     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4dFk1dkFwRGFidkU/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 14 - A guerreira Madonna     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4bWw0OTRlZUVHcTg/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 16 - O motoqueiro rival     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4ZHh3YkhXSFhKOFU/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 17- O desertor     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4MWluZzJrQ0FRQjQ/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 18 - Informações secretas     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4cU1mcUVWVDQ2Mms/edit
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus",  01 - O portal de Neroz     
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 19 - A volta triunfal de Top Gunder
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=
  
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 20 - A tropa Mecanol em combate	     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4TnZ0b2dtMU5DelU/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 21 - O mistério do vaga-lume     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4MFVybHVRLTJMUU0/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 22 - A guerra sobre patins     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 23 - As olimpíadas do colosso     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4TXd5bU9wUDAtalU/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 24 - O confronto dos bruxos     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4cTczVVRFZWNUNXM/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 25 - Reencontro inesperado     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4NzJwcXM2ZzFGR1U/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 26 - Jovens imbatíveis     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4aUxDdFpyQkdHZ0U/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 27 - O diário de um fugitivo     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4dThBbHIxNUJSZVk/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 28 - A pantera vermelha     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4b2VydVBYbzdwb3c/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 29 - A triste história de um cão     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4Vnp1N0pXN1R1ZEk/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 30 - Silvercaps em perigo     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4b1pfMWpWbjc0NlE/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 31 - Instante fatal     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4QkdCR0NManQxTlE/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 32 - Flor amaldiçoada     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4Si1YNkR1Y0VpMnc/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 33 - Amizade em risco     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4bUxyVjVnTUtJMXc/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 34 - As mil e uma faces de Neroz     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4UGtxV3A1Y2E0Qm8/edit
- 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 35 - O império do mal     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4Rm5GbFBTaVozMmM/edit
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 02 - Eu sou o Universo     
 
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 36 - A missão da Unidade Cibernética     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4XzRZN2xMSEQ2aUE/edit
  
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 37 - A ruína do Colosso     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4SmE2WTlkVWEyY2c/edit
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 03 - O homem-máquina     
+
  
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 38 - Contra-ataque sangrento     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4NlBIb25OTG5LSDA/edit
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 04 - Metalder versus Torpedo     
+
  
-#EXTINF:-1tvg-logo="http://xmbcrios.esy.es/icons/metalder.png"group-title="Tokusatsus", 39 - Eternamente Metalder     
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8IO9pNl80G4bmlZQkU2bjhKTm8/edit
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 05 - O assassino profissional     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 06 - Pugilista em ação     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus",  07 - As chamas do desafio     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 08 - A despedida de Barlock     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 09 - O sonho e a esperança     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 10 - O robô filarmônica
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 11 - Caça ao ex-alfa     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 12 - O cerco dos ninjas     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 13 - O fugitivo Momento crítico!     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 14 - A guerreira Madonna     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 16 - O motoqueiro rival     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 17- O desertor     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 18 - Informações secretas     
+
+
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 19 - A volta triunfal de Top Gunder
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 20 - A tropa Mecanol em combate	     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 21 - O mistério do vaga-lume     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 22 - A guerra sobre patins     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 23 - As olimpíadas do colosso     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 24 - O confronto dos bruxos     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 25 - Reencontro inesperado     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 26 - Jovens imbatíveis     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 27 - O diário de um fugitivo     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 28 - A pantera vermelha     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 29 - A triste história de um cão     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 30 - Silvercaps em perigo     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 31 - Instante fatal     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 32 - Flor amaldiçoada     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 33 - Amizade em risco     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 34 - As mil e uma faces de Neroz     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 35 - O império do mal     
+
+
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 36 - A missão da Unidade Cibernética     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 37 - A ruína do Colosso     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 38 - Contra-ataque sangrento     
+
+ 
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-Fq7yJCFS2u8/XZ__2hphIpI/AAAAAAAACD8/FZKarYZkOdAVrE0iZOMq7cVCF4X4qM7mACLcBGAsYHQ/s1600/metalder.png"group-title="Tokusatsus", 39 - Eternamente Metalder     
 
