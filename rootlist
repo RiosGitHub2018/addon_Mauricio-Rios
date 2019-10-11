@@ -1,135 +1,123 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<layouttype>thumbnail</layouttype>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<layoutype>thumbnail</layoutype>
+	<channels>
+	<channels_info>
+	<!-- this is opitonal -->
+	<title>Padron-List</title>
+	<!-- if channels_info, a title is required, other elements are optional -->
+	<genre>News</genre>
+	<thumbnail>https://copy.com/XWW7pfDUu9sEzuSC</thumbnail>
+	<credits/>
+	</channels_info>
 
-<channels><channel>
-<name>He-Man-[COLOR orange] 1ª Temporada[/COLOR]</name>
-<thumbnail>https://bit.ly/2SjwftC</thumbnail>
-<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-hemanprimtemp</externallink>
-</channel>
+	<!------------------------------------------------Menu filmes ---------------------------------------------------------->					 
+	<channel>
+	<name>[COLOR  orange]Filmes[/COLOR]</name>
+	<link>http://ignorame</link>
+	<genre>Os melhores filmes estão aqui</genre>
+	<fanart>https://cld.pt/dl/download/e99b2c73-2acc-4944-9b67-89e7ad3f68e3/fanartfilmes.jpg</fanart>
+	<thumbnail>https://i.imgur.com/nQIa9dm.jpg</thumbnail>
+	<externallink>http://xmbcrios.esy.es/listas/filmes/manufilmes.xml</externallink>
+	<items>
+	</channel> 	                  
+	<!-------------------------------------------------Menu Séries ------------------------------------------------------------->									 
+	<channel>
+	<name>[COLOR  orange]Séries[/COLOR]</name>
+	<genre>Séries Clássicas e atuais</genre>
+	<fanart>https://i.imgur.com/hXlaHJK.jpg</fanart>
+	<thumbnail>https://i.imgur.com/f4wGULS.jpg</thumbnail>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/m-Series</externallink>
+    </channel> 	
 
-<channels><channel>
-<name>He-Man-[COLOR orange] 2ª Temporada[/COLOR]</name>
-<thumbnail>https://bit.ly/2DRz6Gc</thumbnail>
-<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-hemansegutemp</externallink>
-</channel>
+	<!------------------------------------------------Menu tv ao vivo ---------------------------------------------------------->					 
+	<channel>
+	<name>[COLOR  orange] Canais de TV [/COLOR]</name>
+	<genre>Canai te tv ao vivo</genre>
+	<fanart>http://xmbcrios.esy.es/fanats/fanarttv.jpg</fanart>
+	<thumbnail>https://i.imgur.com/Gggwof8.jpg</thumbnail>
+	<items>
+	<!-- if channels_info, 1ª lista -->		
+    <item>
+	<title>[B][COLOR  mediumseagreen]OPÇÃO A[/COLOR][/B]</title>
+	<link>http://ignorame</link>
+	<thumbnail>http://xmbcrios.esy.es/logo/tvaovivoplus.png</thumbnail>
+	<fanart>http://www.armacao.com.br/blog/wp-content/uploads/2011/04/features_global.jpg</fanart>
+	<externallink>http://bit.ly/CanaisIPTVbreserva</externallink>
+	</item>
+	<item>
+	<title>[B][COLOR  indianred]OPÇÃO 1[/COLOR][/B]</title>
+	<link>http://ignorame</link>
+	<thumbnail>http://xmbcrios.esy.es/logo/tvaovivop1.png</thumbnail>
+	<fanart>http://www.armacao.com.br/blog/wp-content/uploads/2011/04/features_global.jpg</fanart>
+	<externallink>https://pastebin.com/raw/PQFTLbuz?fbclid=IwAR3f5JNBzoB3pe4plOUGDMFXy0D3QYfxoENBrNexoDEeFviIZxdCqGHZmi4</externallink>
+	</item>
+	<item>
+	<title>[B][COLOR  cornflowerblue]OPÇÃO 2[/COLOR][/B]</title>
+	<link>http://ignorame</link>
+	<thumbnail>http://xmbcrios.esy.es/logo/tvaovivop2.png</thumbnail>
+	<fanart>http://www.armacao.com.br/blog/wp-content/uploads/2011/04/features_global.jpg</fanart>
+	<externallink>http://q.gs/8978201/lista-pjt</externallink>
+	</item>
+	<item>
+	<title>[B][COLOR  mediumseagreen]OPÇÃO 3[/COLOR][/B]</title>
+	<link>http://ignorame</link>
+	<thumbnail>http://xmbcrios.esy.es/logo/tvaovivop3.png</thumbnail>
+	<fanart>http://www.armacao.com.br/blog/wp-content/uploads/2011/04/features_global.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/riostv</externallink>
+	</item>
+	<item>
+	<title>[B][COLOR  cornflowerblue]OPÇÃO 4[/COLOR][/B]</title>
+	<link>http://ignorame</link>
+	<thumbnail>http://xmbcrios.esy.es/logo/tvaovivmn.png</thumbnail>
+	<fanart>http://www.armacao.com.br/blog/wp-content/uploads/2011/04/features_global.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/listaIPTV.m3u</externallink>
+	</item>
+	</items>	
+	</channel>
+	</channels>	
+	<!------------------------------------------------Menu Radio ---------------------------------------------------------->					 
+	<channel>
+	<name>[COLOR  orange] Canais de Rádio[/COLOR]</name>
+	<link>http://ignorame</link>
+	<genre>As melhores Rádios do Brasil</genre>
+	<fanart>https://i.imgur.com/Y8Eff23.jpg</fanart>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/radios</externallink>
+	<thumbnail>https://i.imgur.com/mia61Bf.jpg</thumbnail>
+	<items>
+	</channel>
+	</channels>	
+    
+	<!------------------------------------------------Bíblia ---------------------------------------------------------->	
+	<channel>
+	<name>[COLOR red][B]Biblia Online[/B][/COLOR]</name>
+	<thumbnail>https://i.imgur.com/rpF3fjy.jpg</thumbnail>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/biblia</externallink>
+	<fanart>https://4.bp.blogspot.com/-eFMvpRRF1Jg/W_W8tPxsD6I/AAAAAAAABkc/poROQuCUlB8OMM1LswWe2gDAbyJp_xB8wCLcBGAs/s1600/fanart.jpg</fanart>
+	<info>MILTON GUEDES criador do ADDON -- endereço do grupo no facebook -- https://www.facebook.com/groups/568745316624875</info>
+	</channel>		
 
-<channels><channel>
-<name>She-Ra</name>
-<thumbnail>https://bit.ly/2PbCUUO</thumbnail>
-<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-shera</externallink>
-</channel>
+	<!----------------------------------------------Menu desenhos --------------------------------------------------------->		
+	<channel>
+	<name>[COLOR  orange]Desenhos[/COLOR]</name>
+	<genre>Desenhos Classicos</genre>
+	<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
+	<thumbnail>https://i.imgur.com/rsNH2Vb.jpg</thumbnail>
+	<info>Aqui você encontra alguns desenhos animados dos anos 80 que marcaram sua infâcia tais como He-man, Senturions e etc... </info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/m-Desenhos</externallink>
+	</channel>
 
-<channels><channel>
-<name>Rambo</name>
-<thumbnail>https://bit.ly/2TUK9UJ</thumbnail>
-<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-rambo</externallink>
-</channel>
-
-<channels><channel>
-<name>Super Amigos</name>
-<thumbnail>https://bit.ly/2E5ri4r</thumbnail>
-<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-spamigos</externallink>
-</channel>
-
-<channels><channel>
-<name>Tranformers -1986</name>
-<thumbnail>https://bit.ly/2Q6KnJS</thumbnail>
-<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-transformers</externallink>
-</channel>
-
-<channels><channel>
-<name>Thundarr o Bárbaro - [COLOR yellow]Exclusivo!!![/COLOR]</name>
-<thumbnail>https://bit.ly/2KKxUWH</thumbnail>
-<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-thundarr</externallink>
-</channel>
-
-<channels><channel>
-<name>Thundecats</name>
-<thumbnail>https://bit.ly/2FRUZYy</thumbnail>
-<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-thundercats</externallink>
-</channel>
-
-<channels><channel>
-<name>Os Smurfs</name>
-<thumbnail>https://bit.ly/2DToV3Q</thumbnail>
-<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-smurfs</externallink>
-</channel>
-
-<channels><channel>
-<name>Caverna do Dragão</name>
-<thumbnail>https://bit.ly/2Q6bB3t</thumbnail>
-<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-cavdragao</externallink>
-</channel>
-
-<channels><channel>
-<name>Popeye</name>
-<thumbnail>https://bit.ly/2QrMAiL</thumbnail>
-<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-popeye</externallink>
-</channel>
-
-<channels><channel>
-<name>Cavalo de Fogo</name>
-<thumbnail>https://bit.ly/2SpHq3W</thumbnail>
-<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-cavdefogo</externallink>
-</channel>
-
-<channels><channel>
-<name>Centurions</name>
-<thumbnail>https://bit.ly/2FWJqiT</thumbnail>
-<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-centurions</externallink>
-</channel>
-
-<channels><channel>
-<name>Os Ursinhos Gummis</name>
-<thumbnail>https://bit.ly/2DZNrQY</thumbnail>
-<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-ursinhosgummi</externallink>
-</channel>
-
-<channels><channel>
-<name>Scooby-Doo </name>
-<thumbnail>https://bit.ly/2BU9Gq9</thumbnail>
-<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-scooby</externallink>
-</channel>
-
-<channels><channel>
-<name>Shazan</name>
-<thumbnail>https://bit.ly/2rjySA6</thumbnail>
-<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-shazan</externallink>
-</channel>
-
-<channels><channel>
-<name>Jonny Quest</name>
-<thumbnail>https://bit.ly/2En7EkF</thumbnail>
-<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-jquest</externallink>
-</channel>
-
-<channels><channel>
-<name>A aventuras de Mickey e Donald</name>
-<thumbnail>https://bit.ly/2Ci1Wya</thumbnail>
-<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-mcdndisney</externallink>
-</channel>
-  
-<channels><channel>
-<name>Os Caça-Fantasmas</name>
-<thumbnail>https://bit.ly/2oOfEo6</thumbnail>
-<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-cFantasmas</externallink>
-</channel>
+	<!------------------------------------------------BR Youtubers ---------------------------------------------------------->	
+	
+	
+	
+	 <!------------------------------------------------  ---------------------------------------------------------->					 
+	<channel>
+	<name>[COLOR  orange]Novelas Antigas[/COLOR]</name>
+	<link>TELEFE HD: http://live-edge01.telecentro.net.ar:1935/live/tlfhd-720/playlist.m3u8</link>
+	<genre>Os melhores Canais do Youtube</genre>
+	<fanart>https://cld.pt/dl/download/938a6544-3913-443b-aebb-75e8a37b06f3/fanart.jpg</fanart>
+	<thumbnail>https://i.imgur.com/HR5q377.jpg</thumbnail>
+	<externallink>http://xmbcrios.esy.es/listas/novelas.xml</externallink>
+	<items>
+	</channel>
+	</channels>
