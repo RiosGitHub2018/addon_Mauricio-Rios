@@ -1,298 +1,9 @@
 <NotepadPlus>
-    <Project name="Addom MR">
-        <Folder name=".git">
-            <Folder name="hooks">
-                <File name=".git\hooks\applypatch-msg.sample" />
-                <File name=".git\hooks\commit-msg.sample" />
-                <File name=".git\hooks\post-checkout" />
-                <File name=".git\hooks\post-commit" />
-                <File name=".git\hooks\post-merge" />
-                <File name=".git\hooks\post-update.sample" />
-                <File name=".git\hooks\pre-applypatch.sample" />
-                <File name=".git\hooks\pre-commit.sample" />
-                <File name=".git\hooks\pre-push" />
-                <File name=".git\hooks\pre-push.sample" />
-                <File name=".git\hooks\pre-rebase.sample" />
-                <File name=".git\hooks\pre-receive.sample" />
-                <File name=".git\hooks\prepare-commit-msg.sample" />
-                <File name=".git\hooks\update.sample" />
-            </Folder>
-            <Folder name="info">
-                <File name=".git\info\exclude" />
-            </Folder>
-            <Folder name="lfs">
-                <Folder name="objects">
-                    <Folder name="logs" />
-                </Folder>
-                <Folder name="tmp">
-                    <Folder name="objects" />
-                </Folder>
-            </Folder>
-            <Folder name="logs">
-                <Folder name="refs">
-                    <Folder name="heads">
-                        <File name=".git\logs\refs\heads\master" />
-                    </Folder>
-                    <Folder name="remotes">
-                        <Folder name="origin">
-                            <File name=".git\logs\refs\remotes\origin\HEAD" />
-                            <File name=".git\logs\refs\remotes\origin\master" />
-                        </Folder>
-                    </Folder>
-                </Folder>
-                <File name=".git\logs\HEAD" />
-            </Folder>
-            <Folder name="objects">
-                <Folder name="02">
-                    <File name=".git\objects\02\36ec54cf2bf5b62abc8fb167cc6a84a74efa13" />
-                </Folder>
-                <Folder name="06">
-                    <File name=".git\objects\06\4f943542da20331d39025352c47c0b8481a5d8" />
-                </Folder>
-                <Folder name="08">
-                    <File name=".git\objects\08\f86e0cb84f7ccab9b3ae76e61305361ab0eef8" />
-                </Folder>
-                <Folder name="0f">
-                    <File name=".git\objects\0f\65b867a8e999f4fde421905352262a813b9802" />
-                </Folder>
-                <Folder name="12">
-                    <File name=".git\objects\12\ce69e4a5e90bf85fdf66f70449c3c3fd49516c" />
-                </Folder>
-                <Folder name="1b">
-                    <File name=".git\objects\1b\6a37cda91f424a15f4a74515163aba47ee43cb" />
-                </Folder>
-                <Folder name="1d">
-                    <File name=".git\objects\1d\291418b784aba0d80b2c13d2b5a134384dd9bc" />
-                </Folder>
-                <Folder name="1f">
-                    <File name=".git\objects\1f\43687fc99a9363fce8dec63df56008d6905acb" />
-                </Folder>
-                <Folder name="21">
-                    <File name=".git\objects\21\4faedda63f120eb3dbba629460753b8a093ba9" />
-                </Folder>
-                <Folder name="23">
-                    <File name=".git\objects\23\5c721d119a277d42225d32f88b8e717f73efe4" />
-                </Folder>
-                <Folder name="26">
-                    <File name=".git\objects\26\0b95644226f9c804fe2acddd533fc7ab007dd8" />
-                </Folder>
-                <Folder name="27">
-                    <File name=".git\objects\27\152caaf1e490c7d637538349f4f9b18e2166be" />
-                </Folder>
-                <Folder name="29">
-                    <File name=".git\objects\29\6941ce83708eddda3dd700d08e3c7d9a3766d2" />
-                </Folder>
-                <Folder name="2c">
-                    <File name=".git\objects\2c\6b5cc9f037dc1a60d9c2af90d77388d7e6cce6" />
-                </Folder>
-                <Folder name="2d">
-                    <File name=".git\objects\2d\d6e8996b846f5196342c51fb58004ad906b0cb" />
-                </Folder>
-                <Folder name="32">
-                    <File name=".git\objects\32\58a3416e51d73f678814257069927fe439cde7" />
-                </Folder>
-                <Folder name="34">
-                    <File name=".git\objects\34\833fc2691a626ad4c1c549176c100afd7798f8" />
-                    <File name=".git\objects\34\f57f30c23734c57cf052ad5d679e92aad8f431" />
-                </Folder>
-                <Folder name="40">
-                    <File name=".git\objects\40\1995218f62fe5ffc9ea03e056019fd4902e7a3" />
-                    <File name=".git\objects\40\1e7bc04309deff3f0ee6577768de2688af3eb3" />
-                </Folder>
-                <Folder name="4a">
-                    <File name=".git\objects\4a\15f53bd657f4f294ab3fb1c97981cba66f37d6" />
-                </Folder>
-                <Folder name="4b">
-                    <File name=".git\objects\4b\941f70bafd36587cb095db5752c69613529001" />
-                </Folder>
-                <Folder name="4c">
-                    <File name=".git\objects\4c\7e3c203c8edabc8d91143893db45c7d74d48da" />
-                </Folder>
-                <Folder name="51">
-                    <File name=".git\objects\51\d2c92da9e4a0c7bc2fd1ca7cb57e917427a30f" />
-                </Folder>
-                <Folder name="55">
-                    <File name=".git\objects\55\4986f336838c5631feb44310723bf645079175" />
-                    <File name=".git\objects\55\7f9327f8b46e3cd15c4f59b764fdb4f1e9fed0" />
-                </Folder>
-                <Folder name="59">
-                    <File name=".git\objects\59\d943109b7acc147fb469e7d4794400a5abb2a9" />
-                </Folder>
-                <Folder name="5d">
-                    <File name=".git\objects\5d\9bee07758dccd0a3021095663ca8f024efd789" />
-                </Folder>
-                <Folder name="5e">
-                    <File name=".git\objects\5e\9eafd479023c04bbe63fb1651ca588c9da21f9" />
-                </Folder>
-                <Folder name="61">
-                    <File name=".git\objects\61\478307f0089e50827104af56633659195103ec" />
-                </Folder>
-                <Folder name="62">
-                    <File name=".git\objects\62\b6240536fca4382f796371173080210d68ab16" />
-                </Folder>
-                <Folder name="68">
-                    <File name=".git\objects\68\4b79e75275ac435db94ddf602a5d78746a8c8a" />
-                </Folder>
-                <Folder name="6e">
-                    <File name=".git\objects\6e\aa0a6df695f61f7429610723fa70a89cf290a0" />
-                </Folder>
-                <Folder name="75">
-                    <File name=".git\objects\75\d62e5010b104ce37c280f33a53ff6abaa89dc4" />
-                </Folder>
-                <Folder name="7a">
-                    <File name=".git\objects\7a\57feacfb15a6deb52fedce454c1e07c3c6b1a8" />
-                    <File name=".git\objects\7a\7fcf7830412f860441e725c634d52bfb274f6b" />
-                </Folder>
-                <Folder name="7c">
-                    <File name=".git\objects\7c\6e9b498567c25e2b28aba85f777195e24e0398" />
-                </Folder>
-                <Folder name="7d">
-                    <File name=".git\objects\7d\39de93b0c146afaa50ed499375d510b1b6c20e" />
-                    <File name=".git\objects\7d\85e04e00bd78d69e80f2e79e6aee7bd2bbf308" />
-                    <File name=".git\objects\7d\b857b47a7488512515ce3a3fe87c0446ef3ea3" />
-                </Folder>
-                <Folder name="80">
-                    <File name=".git\objects\80\cfe5c9db6b080d137dc6a40815c3f5f17aa638" />
-                </Folder>
-                <Folder name="82">
-                    <File name=".git\objects\82\2ebf5b35c3c55ad6c46826550a08f85f55f1e6" />
-                </Folder>
-                <Folder name="83">
-                    <File name=".git\objects\83\fedd3b0598fae57b3e3c9dbadf26af77074fce" />
-                </Folder>
-                <Folder name="88">
-                    <File name=".git\objects\88\783f3ae5b45cca7e8ad46c1873d17aafbfc8b4" />
-                </Folder>
-                <Folder name="8a">
-                    <File name=".git\objects\8a\056c00eb16238045ffb6c9e96ff1935f9fc9cd" />
-                </Folder>
-                <Folder name="8d">
-                    <File name=".git\objects\8d\2e34f7057097663c79b11de9b9ed3f781e537f" />
-                </Folder>
-                <Folder name="8e">
-                    <File name=".git\objects\8e\26a03eb73a1874164eb0d3587bdd9d2474aa58" />
-                </Folder>
-                <Folder name="90">
-                    <File name=".git\objects\90\39e8b2b46404d3170e8d5a3b0b3f4a934df7bf" />
-                </Folder>
-                <Folder name="93">
-                    <File name=".git\objects\93\fb74bac9ebce32129b3e8c683ecba1391e66b8" />
-                </Folder>
-                <Folder name="95">
-                    <File name=".git\objects\95\7e3b43e6812089e6929e2013a0df0db9abba0b" />
-                </Folder>
-                <Folder name="97">
-                    <File name=".git\objects\97\83fd593c31bd168a1574f07a7f19dc1c45ecde" />
-                </Folder>
-                <Folder name="9b">
-                    <File name=".git\objects\9b\4ba16176e4d818d098c2402e2a3daba4283b0a" />
-                </Folder>
-                <Folder name="9f">
-                    <File name=".git\objects\9f\05019422f937f7c61325084493228d73cc90e2" />
-                    <File name=".git\objects\9f\3d2d1b9cc2a3c243021a353821f60a16a1e8a7" />
-                </Folder>
-                <Folder name="a5">
-                    <File name=".git\objects\a5\7a808d40168ef70c02d2629605bfd042231d10" />
-                </Folder>
-                <Folder name="a7">
-                    <File name=".git\objects\a7\c95b0d3e63370284ed083e557d90cbf7027a98" />
-                </Folder>
-                <Folder name="ab">
-                    <File name=".git\objects\ab\f121e4d7385c448d7db2ed95d51498c160c135" />
-                </Folder>
-                <Folder name="b3">
-                    <File name=".git\objects\b3\68c2757d249824a5b7630c4392478f892a46a5" />
-                </Folder>
-                <Folder name="b5">
-                    <File name=".git\objects\b5\0162719ecbb7baec44a2d37b405f4e807c26ae" />
-                    <File name=".git\objects\b5\1aeed53cbd0eef36dc56221d4efd7b19dbcec5" />
-                </Folder>
-                <Folder name="b6">
-                    <File name=".git\objects\b6\545913e6e99ac16850f33e9b3b7a59f5bb0fcd" />
-                </Folder>
-                <Folder name="ba">
-                    <File name=".git\objects\ba\73d44e26dd0dafd905f1ece8c1ea709cf2f530" />
-                </Folder>
-                <Folder name="c2">
-                    <File name=".git\objects\c2\77de5031c8c50bdb7e19006fcdcceeff5edbe1" />
-                </Folder>
-                <Folder name="c3">
-                    <File name=".git\objects\c3\93176432b5ae2ed59e36007513c726715f4ccb" />
-                </Folder>
-                <Folder name="c5">
-                    <File name=".git\objects\c5\fc5522f179be7748dc96641641da028457e204" />
-                </Folder>
-                <Folder name="c6">
-                    <File name=".git\objects\c6\d395a2070b2cdaa55d160c703f4c43ed059978" />
-                </Folder>
-                <Folder name="c8">
-                    <File name=".git\objects\c8\fe9256350c479aba2e9b9c5356b41ec7fb22f3" />
-                </Folder>
-                <Folder name="cd">
-                    <File name=".git\objects\cd\64d2604b142fe2bdd89decb8b3952553357b60" />
-                </Folder>
-                <Folder name="d6">
-                    <File name=".git\objects\d6\31520078f728bae3f24c1690a2d1187880585c" />
-                </Folder>
-                <Folder name="da">
-                    <File name=".git\objects\da\3309e71021a71a997dd32d997b2095cc4f95f2" />
-                </Folder>
-                <Folder name="db">
-                    <File name=".git\objects\db\43254ffeaa271f6f981eb9aeeda1dd9fea719c" />
-                </Folder>
-                <Folder name="e1">
-                    <File name=".git\objects\e1\e61018814eec44322350e0dacbf87ea1b1e973" />
-                </Folder>
-                <Folder name="e6">
-                    <File name=".git\objects\e6\734c1b41974a3b343e297fe184336d01e87999" />
-                </Folder>
-                <Folder name="f1">
-                    <File name=".git\objects\f1\572cd13527056a6076efa416ec773f9aa019d4" />
-                    <File name=".git\objects\f1\f862e4431e521ace207485d6bc9a4136baba60" />
-                </Folder>
-                <Folder name="f3">
-                    <File name=".git\objects\f3\224e3c7eed5abb165f7403de05ea8c2d53cf37" />
-                </Folder>
-                <Folder name="f6">
-                    <File name=".git\objects\f6\27f8c0640739d442e467d9cbbd05c0641ba642" />
-                    <File name=".git\objects\f6\cf7308c1a44e5ce9f9d22816a4db5fcecd8770" />
-                </Folder>
-                <Folder name="fa">
-                    <File name=".git\objects\fa\d5a258fc2f855d6f58f7df96e6a1e96b5eeffe" />
-                </Folder>
-                <Folder name="fd">
-                    <File name=".git\objects\fd\b143cb26a3343bd2f526111187eb4ffb183347" />
-                </Folder>
-                <Folder name="info" />
-                <Folder name="pack">
-                    <File name=".git\objects\pack\pack-c597449208a5c9a475c2964a3301a455b6c04f20.idx" />
-                    <File name=".git\objects\pack\pack-c597449208a5c9a475c2964a3301a455b6c04f20.pack" />
-                </Folder>
-            </Folder>
-            <Folder name="refs">
-                <Folder name="heads">
-                    <File name=".git\refs\heads\master" />
-                </Folder>
-                <Folder name="remotes">
-                    <Folder name="origin">
-                        <File name=".git\refs\remotes\origin\HEAD" />
-                        <File name=".git\refs\remotes\origin\master" />
-                    </Folder>
-                </Folder>
-                <Folder name="tags" />
-            </Folder>
-            <File name=".git\COMMIT_EDITMSG" />
-            <File name=".git\config" />
-            <File name=".git\description" />
-            <File name=".git\FETCH_HEAD" />
-            <File name=".git\HEAD" />
-            <File name=".git\index" />
-            <File name=".git\ORIG_HEAD" />
-            <File name=".git\packed-refs" />
-        </Folder>
+    <Project name="Nome do projeto">
         <Folder name="apiGdrive">
             <File name="apiGdrive\chaves" />
         </Folder>
+        <File name="01.txt" />
         <File name="B-deuteronomio" />
         <File name="B-Exodo" />
         <File name="B-Genesis" />
@@ -371,5 +82,31 @@
         <File name="tk_Spielvan" />
         <File name="tomica_hero.xml" />
         <File name="turboranger.m3u" />
+    </Project>
+    <Project name="Teste">
+        <Folder name="css">
+            <File name="C:\Users\Windows\Google Drive (psfxriossync@gmail.com)\Projetos HTML\Adicionar lista personalisadas\Projeto Final\css\font-awesome.css" />
+            <File name="C:\Users\Windows\Google Drive (psfxriossync@gmail.com)\Projetos HTML\Adicionar lista personalisadas\Projeto Final\css\style.css" />
+        </Folder>
+        <Folder name="fonts">
+            <File name="C:\Users\Windows\Google Drive (psfxriossync@gmail.com)\Projetos HTML\Adicionar lista personalisadas\Projeto Final\fonts\fontawesome-webfont.eot" />
+            <File name="C:\Users\Windows\Google Drive (psfxriossync@gmail.com)\Projetos HTML\Adicionar lista personalisadas\Projeto Final\fonts\fontawesome-webfont.svg" />
+            <File name="C:\Users\Windows\Google Drive (psfxriossync@gmail.com)\Projetos HTML\Adicionar lista personalisadas\Projeto Final\fonts\fontawesome-webfont.ttf" />
+            <File name="C:\Users\Windows\Google Drive (psfxriossync@gmail.com)\Projetos HTML\Adicionar lista personalisadas\Projeto Final\fonts\fontawesome-webfont.woff" />
+            <File name="C:\Users\Windows\Google Drive (psfxriossync@gmail.com)\Projetos HTML\Adicionar lista personalisadas\Projeto Final\fonts\fontawesome-webfont.woff2" />
+            <File name="C:\Users\Windows\Google Drive (psfxriossync@gmail.com)\Projetos HTML\Adicionar lista personalisadas\Projeto Final\fonts\FontAwesome.otf" />
+        </Folder>
+        <Folder name="img">
+            <File name="C:\Users\Windows\Google Drive (psfxriossync@gmail.com)\Projetos HTML\Adicionar lista personalisadas\Projeto Final\img\bg.jpg" />
+            <File name="C:\Users\Windows\Google Drive (psfxriossync@gmail.com)\Projetos HTML\Adicionar lista personalisadas\Projeto Final\img\bg.png" />
+            <File name="C:\Users\Windows\Google Drive (psfxriossync@gmail.com)\Projetos HTML\Adicionar lista personalisadas\Projeto Final\img\bg1.jpg" />
+            <File name="C:\Users\Windows\Google Drive (psfxriossync@gmail.com)\Projetos HTML\Adicionar lista personalisadas\Projeto Final\img\bg2.jpg" />
+            <File name="C:\Users\Windows\Google Drive (psfxriossync@gmail.com)\Projetos HTML\Adicionar lista personalisadas\Projeto Final\img\images.jpg" />
+        </Folder>
+        <Folder name="js">
+            <File name="C:\Users\Windows\Google Drive (psfxriossync@gmail.com)\Projetos HTML\Adicionar lista personalisadas\Projeto Final\js\app.js" />
+        </Folder>
+        <File name="C:\Users\Windows\Google Drive (psfxriossync@gmail.com)\Projetos HTML\Adicionar lista personalisadas\Projeto Final\index.html" />
+        <File name="C:\Users\Windows\Google Drive (psfxriossync@gmail.com)\Projetos HTML\Adicionar lista personalisadas\Projeto Final\README.md" />
     </Project>
 </NotepadPlus>
