@@ -1,21 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/ggv.png" group-title="Tokusatsus", 01 - O Ataque da Ciência Maligna
-https://www.googleapis.com/drive/v3/files/1sT4QkXdov2Z9ZNUg_g-hBgSVWPZlm1YQ?alt=media&key=AIzaSyBNHuetZKmmNS3NliXyly-LvrtCtFtv0aU
 
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/ggv.png" group-title="Tokusatsus",02 - Lutem, Guerreiros do Futuro!    
-https://www.googleapis.com/drive/v3/files/1rF6GDLgt0_l1oINJIdpiEUxwwJMrNuVV?alt=media&key=AIzaSyBNHuetZKmmNS3NliXyly-LvrtCtFtv0aU
+
 
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/ggv.png" group-title="Tokusatsus",03 - O Ataque do Destopia    
-https://www.googleapis.com/drive/v3/files/1yR0uXG_yHt-v-Str2ildstpj62FBeEIs?alt=media&key=AIzaSyBNHuetZKmmNS3NliXyly-LvrtCtFtv0aU
+
 
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/ggv.png" group-title="Tokusatsus",04 - A Planta Melão    
-https://www.googleapis.com/drive/v3/files/1ZZ5LzIH8bZoBguqIYOXGOsy8dsrArIpu?alt=media&key=AIzaSyBNHuetZKmmNS3NliXyly-LvrtCtFtv0aU
+
 
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/ggv.png" group-title="Tokusatsus",05 - O Demônio se Esconde na Lenda    
-https://www.googleapis.com/drive/v3/files/1MQ2px5JnrcgjdM81tpOymGNT681zt-H6?alt=media&key=AIzaSyBNHuetZKmmNS3NliXyly-LvrtCtFtv0aU
+
 
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/ggv.png" group-title="Tokusatsus",06 - O Amor de um Lutador Sujo    
-https://www.googleapis.com/drive/v3/files/1gs1185CvkmcgorGpmWYX9FsQo-UKdLXo?alt=media&key=AIzaSyBNHuetZKmmNS3NliXyly-LvrtCtFtv0aU
+
 
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/ggv.png" group-title="Tokusatsus",07 - Papai é um Fantasma    
 
@@ -54,41 +53,28 @@ https://www.googleapis.com/drive/v3/files/1gs1185CvkmcgorGpmWYX9FsQo-UKdLXo?alt=
 
 
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/ggv.png" group-title="Tokusatsus",19 - O Segredo da Mansão    
-
-
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgWXlHWGZ3aFFta0E/view
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/ggv.png" group-title="Tokusatsus",20 - O Cacto Venenoso    
-
-
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgSXBvWTEyVkIwV00/view
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/ggv.png" group-title="Tokusatsus",21 - A Petrificação dos Peixes    
-
-
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgWVNoRm9NZXM0N0U/view
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/ggv.png" group-title="Tokusatsus",22 - O Ataque das Bonecas Amaldiçoadas    
-
-
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgQ1RwbUhvM3Y4NVk/view
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/ggv.png" group-title="Tokusatsus",23 - Operação Bolha-de-Sabão    
-
-
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgU1FmdlZtck9vMVE/view
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/ggv.png" group-title="Tokusatsus",24 - A Guerra Contra o Inimigo Invisível    
-
-
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgSkRJQVNOaHlDTHc/view
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/ggv.png" group-title="Tokusatsus",25 - Dinossauro, o Mensageiro do Mal    
-
-
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/ggv.png" group-title="Tokusatsus",26 - A Grande Farsa do Black    
-
-
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/ggv.png" group-title="Tokusatsus",27 - A Selva de Humanos    
-
-
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/ggv.png" group-title="Tokusatsus",28 - O Renascimento do Espírito do monstro    
-
-
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/ggv.png" group-title="Tokusatsus",29 - Terror na Cidade dos Sonhos    
-
-
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/ggv.png" group-title="Tokusatsus",30 - A Espada de Ouro    
-
-
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 #EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/ggv.png" group-title="Tokusatsus",31 - O Grande Ataque de Blue    
-
-
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
