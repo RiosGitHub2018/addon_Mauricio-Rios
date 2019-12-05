@@ -1,9 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 01 - A Bela Fugitiva
+<<<<<<< HEAD
 https://www.googleapis.com/drive/v3/files/16rlzAp2xc45DC18sgb6-_b-cLtE68wTw?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 02 - O Castelo Subterrâneo
 https://www.googleapis.com/drive/v3/files/1za8wqoCna4N0hrnizku5CC37Hqn3Tq-N?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
+=======
+https://www.googleapis.com/drive/v3/files/17pGm_gVwDOAkD8uozVXo_2BcguUZACC4?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 02 - O Castelo SubterrÃ¢neo
+https://www.googleapis.com/drive/v3/files/1r7OX6_arDXJPcTCnMg8OJhCO8eG-CMTy?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
+>>>>>>> a5f899a2658e908e03a6706029bfa32ab1a5920c
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 03 - A Um Passo do Mundo Estranho!
 https://www.googleapis.com/drive/v3/files/1LzampkHt5SsC41xuBtPmiPFnnJ88TfNH?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
@@ -20,8 +27,13 @@ https://www.googleapis.com/drive/v3/files/1PS2byw5isfu5rDEVnBiSs6I0axfSPYe2?alt=
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 07 - O Amor de Kenta
 https://www.googleapis.com/drive/v3/files/10GhEhzTKoGb5aKYf2TP95kCF-D-geKLF?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 08 - A Flor da Salvação!
 https://www.googleapis.com/drive/v3/files/13X3PR1niU2O8GF-uW28x2Ee9zPFoRfqV?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
+=======
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 08 - A Flor da SalvaÃ§Ã£o!
+https://www.googleapis.com/drive/v3/files/1L6vJcvK_cVLbzn6KiMaH-We4BU6_tkdr?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
+>>>>>>> a5f899a2658e908e03a6706029bfa32ab1a5920c
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 09 - A Aura da Vida
 https://www.googleapis.com/drive/v3/files/1KuA9fxWPvvqPybOlefQoRwShrc8eFYlq?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
@@ -29,8 +41,13 @@ https://www.googleapis.com/drive/v3/files/1KuA9fxWPvvqPybOlefQoRwShrc8eFYlq?alt=
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 10 - Igan Contra Takeo
 https://www.googleapis.com/drive/v3/files/1gc95_hLWyclkbebdz-OWoSInQSHzo-qx?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 11 - O Fugitivo do Mundo Subterrâneo
 
+=======
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 11 - O Fugitivo do Mundo SubterrÃ¢neo
+https://www.googleapis.com/drive/v3/files/1Kp-Qw54EEbDmTYGVwGdEO0_jd1munVLj?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
+>>>>>>> a5f899a2658e908e03a6706029bfa32ab1a5920c
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 12 - Orgulho de ser um Super Ninja
 
@@ -38,8 +55,13 @@ https://www.googleapis.com/drive/v3/files/1gc95_hLWyclkbebdz-OWoSInQSHzo-qx?alt=
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 13 - A Cantora Misteriosa!
 
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 14 - O Céu Azul da Terra!
 
+=======
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 14 - O CÃ©u Azul da Terra!
+https://www.googleapis.com/drive/v3/files/1bZKxAtX9GhLefqU4O2afGx4gApCHmCXg?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
+>>>>>>> a5f899a2658e908e03a6706029bfa32ab1a5920c
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 15 - Adeus, Querida Flor
 
@@ -50,11 +72,19 @@ https://www.googleapis.com/drive/v3/files/1gc95_hLWyclkbebdz-OWoSInQSHzo-qx?alt=
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 17 - O Labirinto Infernal
 
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 18 - Boneca Amaldiçoada!
 
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 19 - O Demônio Igaradogla
 
+=======
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 18 - Boneca AmaldiÃ§oada!
+https://www.googleapis.com/drive/v3/files/1wDBZsr2wqhfCpaZDJ7NmJ16z6GMI6vm8?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 19 - O DemÃ´nio Igaradogla
+https://www.googleapis.com/drive/v3/files/1kONSiD-x0O3KuL_s5uHVAkLfL_Y9XxfO?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
+>>>>>>> a5f899a2658e908e03a6706029bfa32ab1a5920c
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 20 - A Cilada Dokurodogla
 
@@ -65,8 +95,13 @@ https://www.googleapis.com/drive/v3/files/1KTPFAxWKr3kQafrUVCq7_kJ4knckRlR9?alt=
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 22 - A Aura na Tempestade!
 https://www.googleapis.com/drive/v3/files/1I27CHZlWijkJe1sKOtZUonk91A9wBexj?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 23 - Espírito Diabólico
 https://www.googleapis.com/drive/v3/files/1-Eg35dlKLZTCYGZNfpoU4Lq8u-HB-llu?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
+=======
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 23 - EspÃ­rito DiabÃ³lico
+https://www.googleapis.com/drive/v3/files/1TIjq4C3p1SByXdrBo4bNqkAA2EStN9fu?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
+>>>>>>> a5f899a2658e908e03a6706029bfa32ab1a5920c
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 24 - O Menino Monstro
 https://www.googleapis.com/drive/v3/files/1Ercin0AKj-MotqGmP892JEoeYbRHT4em?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
@@ -77,34 +112,47 @@ https://www.googleapis.com/drive/v3/files/1QBhAkU28qJgIj9zuocdqiokywOEeuDtG?alt=
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 26 - O Desaparecimento!
 https://www.googleapis.com/drive/v3/files/1wE5JHYlgq5dUgWUEzEeRlzrs5ksQSePo?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 27 - O Cavaleiro Ladrão Kiroz
 https://www.googleapis.com/drive/v3/files/1Rrq3i6B4XUqaa3yant3eOAW0_TSw3Wss?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 28 - Miho é a Princesa Ian?!
 https://www.googleapis.com/drive/v3/files/1Eu-MQbYJGjjcCvNhW5gW5P2gpVXVL4qx?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
+=======
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 27 - O Cavaleiro LadrÃ£o Kiroz
+https://www.googleapis.com/drive/v3/files/1vo208BVwzebTAr7bWe5oExUN08GXM4Nn?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8 
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 28 - Miho Ã© a Princesa Ian?!
+https://www.googleapis.com/drive/v3/files/1vH7S-xM_VAbZKeWPfQXctLf_QlfpNYKR?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
+>>>>>>> a5f899a2658e908e03a6706029bfa32ab1a5920c
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 29 - A Arma Mortal
 https://www.googleapis.com/drive/v3/files/1TGj_LViUX5VJ4ykm7ICLvvYO0i6Kd11p?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
+<<<<<<< HEAD
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 30 - A Mãe de Barabass!
 https://www.googleapis.com/drive/v3/files/1a_4Z4I-A8VdcgR24dXKhrbl-3qLU1YAe?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
+=======
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 30 - A MÃ£e de Barabass!
+https://www.googleapis.com/drive/v3/files/1_9i4bwn1qA1aP09uh9w9MQGaipf3YBqG?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
+>>>>>>> a5f899a2658e908e03a6706029bfa32ab1a5920c
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 31 - Protetor Divino Dragão Igan
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 31 - Protetor Divino DragÃ£o Igan
  
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 32 - A Perseguição de Oyobu
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 32 - A PerseguiÃ§Ã£o de Oyobu
  
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 33 - A Proteção de Takeo!
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 33 - A ProteÃ§Ã£o de Takeo!
  
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 34 - A Canção de Amor
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 34 - A CanÃ§Ã£o de Amor
  
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 35 - O Túmulo Proibido
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 35 - O TÃºmulo Proibido
  
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 36 - As Gêmeas Nimendogla
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 36 - As GÃªmeas Nimendogla
  
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 37 - Os Sonhos dos Guerreiros
@@ -113,7 +161,7 @@ https://www.googleapis.com/drive/v3/files/1a_4Z4I-A8VdcgR24dXKhrbl-3qLU1YAe?alt=
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 38 - A Volta no Tempo
  
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 39 - A Ação de Mask
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 39 - A AÃ§Ã£o de Mask
  
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 40 - A Melodia
@@ -122,32 +170,32 @@ https://www.googleapis.com/drive/v3/files/1a_4Z4I-A8VdcgR24dXKhrbl-3qLU1YAe?alt=
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 41 - As Assaltantes
  
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 42 - O Menino Retraído
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 42 - O Menino RetraÃ­do
  
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 43 - Magia Misteriosa
  
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 44 - O Espadachim Subterrâneo
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 44 - O Espadachim SubterrÃ¢neo
  
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 45 - O Segredo da Princesa Igan!
  
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 46 - O Segredo da Lagoa Amaldiçoada
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 46 - O Segredo da Lagoa AmaldiÃ§oada
  
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 47 - A Dança da Morte!
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 47 - A DanÃ§a da Morte!
  
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 48 - A Morte de Barabass
  
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 49 - Ressureição da Princesa Ian
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 49 - RessureiÃ§Ã£o da Princesa Ian
  
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 50 - A Forma Real de Zehba
  
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 51 - O Último Ataque!
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-1K-esmGqUv4/XZ_YNwZgHMI/AAAAAAAACC0/EE-xlQkZ1A4xUveXU-VIdnJSjfZJqT5-ACLcBGAsYHQ/s1600/maskman.jpg" group-title="Tokusatsus", 51 - O Ãšltimo Ataque!
  
