@@ -76,7 +76,8 @@ rtmp://srv3.zoeweb.tv/Jangadeiro7 playpath=stream  swfUrl=https://static.radios.
 http://stream.7br.com.br:10102/stream?1517276167859
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2TgKoZ5" group-title="RADIOS",  SHOWTIME (S.JOSE DO CAMPO-SP)
-http://208.115.213.242:8390/;
+http://208.115.213.242:8390/;
+
 
 
 
