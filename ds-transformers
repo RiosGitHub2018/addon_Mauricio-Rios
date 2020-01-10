@@ -1,61 +1,23 @@
- #EXTM3U
-#EXTINF:-1 tvg-logo="https://bit.ly/2Q6KnJS" group-title="Desenhos", 1-A Busca 
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8Q0dPSFFSVnZlY00/edit    
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!                  Radios por Estados                       >
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2Q6KnJS" group-title="Desenhos", 2-Reviva        
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8dUU3NllPenZlSUk/edit
+<item>
+<title>[B]1ª TEMPORADA[/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://xmbcrios.esy.es/logo/favoritas.png</thumbnail>
+<externallink>http://xmbcrios.esy.es/listas/radios/favoritas.m3u</externallink>
+</item>
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2Q6KnJS" group-title="Desenhos", 3-A Guerra        
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8WmtZeklWeF9uV3c/edit
+<item>
+<title>[B]2ª TEMPORADA[/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://xmbcrios.esy.es/logo/acre.png</thumbnail>
+<externallink>http://xmbcrios.esy.es/listas/radios/acre.m3u</externallink>
+</item>
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2Q6KnJS" group-title="Desenhos", 4-Contagem para a Destruição        
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8dXh0RXRyczBxN1U/edit
- 
-#EXTINF:-1 tvg-logo="https://bit.ly/2Q6KnJS" group-title="Desenhos", 5-Fogo no Ceu        
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8bEpDelZGZi02SkE/edit
-  
-#EXTINF:-1 tvg-logo="https://bit.ly/2Q6KnJS" group-title="Desenhos", 6-A Guerra dos Metaleiros        
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8WTA0UE1XZzdpYjQ/edit
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Q6KnJS" group-title="Desenhos", 7-Fogo na Montanha        
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8TzY2Rks5MElLXzQ/edit
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Q6KnJS" group-title="Desenhos", 8-A Praga de Insecticons        
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8cUI5T3hzaXMya3M/edit
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Q6KnJS" group-title="Desenhos", 9-Autobotes        
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8c1NMN1hHWEc4djg/edit
- 
-#EXTINF:-1 tvg-logo="https://bit.ly/2Q6KnJS" group-title="Desenhos", 10-O imobilizador        
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8SzFpZXBLM3F6NUE/edit
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Q6KnJS" group-title="Desenhos", 11-Ilhas dos Dinobotes Parte 1        
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8QldYbDFEZVhvNG8/edit
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Q6KnJS" group-title="Desenhos", 12-Ilhas dos Dinobotes Parte 2        
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8VDBmZTFTYktUOGc/edit
- 
-#EXTINF:-1 tvg-logo="https://bit.ly/2Q6KnJS" group-title="Desenhos", 13-O Traidor        
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8VHpKZ3FvQjE4bWM/edit
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Q6KnJS" group-title="Desenhos", 14-A ninja        
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8bnJZLVJLdVNsXzQ/edit
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Q6KnJS" group-title="Desenhos", 15-Mudando as Machas        
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8c2ZIT2lPWFlGdE0/edit
- 
-#EXTINF:-1 tvg-logo="https://bit.ly/2Q6KnJS" group-title="Desenhos", 16-O Super problema        
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8VVIzY0pFV2h3VzA/edit
- 
-#EXTINF:-1 tvg-logo="https://bit.ly/2Q6KnJS" group-title="Desenhos", 17-Vamos rodar        
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8b3djSzVlZ1JIOEk/edit
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Q6KnJS" group-title="Desenhos", 18-Eps. Legendado        
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8NDNmb0xPVE9jdnM/edit
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Q6KnJS" group-title="Desenhos", 19-Transporte para a destruição        
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8Zi1wV0Q4OHNpOFk/edit
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Q6KnJS" group-title="Desenhos", 20-Dividie e conquistar        
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8TGVvQzZHQ2JZdEE/edit
- 
+<item>
+<title>[B]3ª TEMPORADA[/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://xmbcrios.esy.es/logo/acre.png</thumbnail>
+<externallink>http://xmbcrios.esy.es/listas/radios/acre.m3u</externallink>
+</item>
