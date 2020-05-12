@@ -50,3 +50,7 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file
 #EXTINF:-1 tvg-logo="https://bit.ly/2KKxUWH" group-title="Desenhos",  21  - Thundarr  Episódio 
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8clVLN1JaTVptdHM/edit
 
+#EXTINF:-1 tvg-logo="https://bit.ly/2KKxUWH" group-title="Desenhos",  22  - Teste facebook
+https://video-amt2-1.xx.fbcdn.net/hvideo-cln2-odn/_nc_cat-102/v/ryBoPjEN-bpmbOPQdDuWq/live-dash/dash-abr-ibr-audio/867609603702488.mpd?_nc_rl=AfANCc0WbWsdkcb9&ms=m_CT&oh=4d26f0698683581efff9d8bde874aecc&oe=5E87F9D3
+
+
