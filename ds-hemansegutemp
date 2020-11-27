@@ -1,39 +1,39 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 1-O Gato e a Aranha
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8NGxUU2FIUFhRcUk/edit
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 2-O Monstro Energia
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8b0lZRzBxTVpjdDQ/edit
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 3-O Dia das Máquinas
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8X0l3ZENwMUpfLUU/edit
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 4-O Falso Jogador
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8VGZnNHk2YVpRazQ/edit
+
  
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 5-A Floresta de Fisto
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8alJxd0MwNHAxYVE/edit
+
  
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 6-O Melhor dos Presentes
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8eU13bEtKWU5yNGM/edit
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 7-O Mistério dos Livros
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8MWR6b1hoSUhHLUk/edit
+
  
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 8-A Origem da Feiticeira
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8QVN3elV1OWlmU1E/edit
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 9-Ilha do Medo
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8em11eWdWYzg3YUk/edit
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 11-O Cometa da Idade do Gelo
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8S3l1aXpqYTlEMUk/edit
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 12-Encrenca em Trolla
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8T283Vk5mdXBhX00/edit
+
  
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 13-A Traição de Stratos
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8VURFMlNDeUFKOWM/edit
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DRz6Gc" group-title="Desenhos", 14-Os Dragões Desaparecidos
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2wGe6XpTKu8dm5RT0FnMkVBRjQ/edit
