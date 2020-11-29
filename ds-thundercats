@@ -75,17 +75,17 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iWmh6a2JLOGptVms/edit
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2FRUZYy" group-title="Desenhos", Thundercats-S01E-26 (OFF)
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2FRUZYy" group-title="Desenhos", Thundercats-S01E-27
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-ielJWS2lsWk1KeGM/edit
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2FRUZYy" group-title="Desenhos", Thundercats-S01E-28
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iT0ZGR0k0NWpKc0E/edit
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2FRUZYy" group-title="Desenhos", Thundercats-S01E-29
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iMTBaNGVXUTI4Y2M/edit
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2FRUZYy" group-title="Desenhos", Thundercats-S01E-30
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iNHFCT0pLX2xPT2s/edit
+
 
