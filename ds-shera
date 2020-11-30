@@ -1,30 +1,30 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://bit.ly/2PbCUUO" group-title="Desenhos", She-Ra-S01E - 01  
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iWTA5TnJ5VGp0Mjg/edit
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2PbCUUO" group-title="Desenhos", She-Ra-S01E - 02   
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iWFU5TFJac2kzZ1k/edit
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2PbCUUO" group-title="Desenhos", She-Ra-S01E - 03   
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iWm16ZC14VW95bHc/edit
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2PbCUUO" group-title="Desenhos", She-Ra-S01E - 04   
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iNG03RTBQQUpEM2M/edit
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2PbCUUO" group-title="Desenhos", She-Ra-S01E - 05   
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iMzNXRGJiaEl4YkU/edit
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2PbCUUO" group-title="Desenhos", She-Ra-S01E - 06   
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iWU9sVTMtdzJ5Mnc/edit
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2PbCUUO" group-title="Desenhos", She-Ra-S01E - 07   
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-icmFCaHg3SUVHUHM/edit
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2PbCUUO" group-title="Desenhos", She-Ra-S01E - 08   
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iNzFFQW1QOVpHd2c/edit
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2PbCUUO" group-title="Desenhos", She-Ra-RIOSTV-09   
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iLUduQ2RjQnltSFU/edit
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2PbCUUO" group-title="Desenhos", She-Ra-S01E - 10   
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4KrEPU86L-iM0tuWnZqSjl1ZW8/edit
