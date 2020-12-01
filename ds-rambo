@@ -5,14 +5,14 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 #EXTINF:-1 tvg-logo="https://bit.ly/2TUK9UJ" group-title="Desenhos", RAMBO-EP-02
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EYM5vpkAEPNcqHwDANdNAulJxolhhcZW/view
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2TUK9UJ" group-title="Desenhos", RAMBO-EP-03 "Off"
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+#EXTINF:-1 tvg-logo="https://bit.ly/2TUK9UJ" group-title="Desenhos", RAMBO-EP-03
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2TUK9UJ" group-title="Desenhos", RAMBO-EP-04 "Off"
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=
 
-#EXTINF:-1 tvg-logo="https://bit.ly/2TUK9UJ" group-title="Desenhos", RAMBO-EP-05 "Off"
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+#EXTINF:-1 tvg-logo="https://bit.ly/2TUK9UJ" group-title="Desenhos", RAMBO-EP-04
+
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2TUK9UJ" group-title="Desenhos", RAMBO-EP-05
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2TUK9UJ" group-title="Desenhos", RAMBO-EP-06
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vTNn9sBtnMwXDZaRd3xmi_aLzoxjV-j1/view
