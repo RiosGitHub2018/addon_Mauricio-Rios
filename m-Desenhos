@@ -58,6 +58,13 @@
 </channel>
 
 <channels><channel>
+<name>Capitão Planeta</name>
+<thumbnail>https://bit.ly/3okB0TC</thumbnail>
+<fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/ds-caplaneta</externallink>
+</channel>
+
+<channels><channel>
 <name>Os Smurfs</name>
 <thumbnail>https://bit.ly/2DToV3Q</thumbnail>
 <fanart>https://i.imgur.com/5UiGeds.jpg</fanart>
