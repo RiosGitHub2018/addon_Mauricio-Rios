@@ -1,86 +1,85 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-001
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgSTdwbk5aMFp2SGc/view
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgSTdwbk5aMFp2SGc?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-002
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgYkRnOFIwM2hWX2s?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-003
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgUF9IeFd6UnlsSW8?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-004
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgQTIwb0d0M3FBeFE?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-005
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgcmF4S1otSUdqRFk?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-006
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgR3FQZXNSN00zcVk?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-007
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBga2RXS25qdlVYYWs?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-008
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgZERNZE1SU1ctSTA?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-009
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgMFUzWUo4dG5fUHc?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-010
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgWDNFU295aUN0MWs?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-011
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgem92MUZGckhfSEU?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-012
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgczVyVzgyNHlvY0k?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-013
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgRXZGRHd4Mnl5WGM?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-014
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgYmJLN0ZzOWxDRU0?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-015
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgMHRNWmNIU0J1TDA?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-016
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgQnBxb0Q4SzIxQzg?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-017
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgam1xbjhKeEJZRjQ?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-018
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgamphNWFQZ0tqSFk?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-019
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgRzVHRU0zc1U3aUU?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-020
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgRkUzZlRaWERfT1E?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-021
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgUllfZmxkVEZpY28?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-022
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBga1BiYm5zbHAxZ1U?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-023
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgamM2SUVra2ZVb2M?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-024
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgamNvNzlORndlUEk?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-025
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgYl83dnhhMWNjYXc?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-026
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgYl83dnhhMWNjYXc?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-027
-
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgbTZvT0EybzAyQVU?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-028
+https://www.googleapis.com/drive/v3/files/0B6T0wmQZ3SBgY3k0RHdHYWFlM28?alt=media&key=AIzaSyAPP2Hk9eF1yUkI-DBFj2FY0E5y7COt-A8
 
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2DToV3Q" group-title="Desenhos", Os Smurfs-riostv-029
