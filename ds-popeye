@@ -1,38 +1,39 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://bit.ly/2QrMAiL" group-title="Desenhos", Popeye - SEQCA 01
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgZ1c5SjdFYXhTYjg/view
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2QrMAiL" group-title="Desenhos", Popeye - SEQCA 02
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgSTB1QlhsbzR2aVE/view
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2QrMAiL" group-title="Desenhos", Popeye - SEQCA 03
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgc2UyaUQ2YkowWXM/view
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2QrMAiL" group-title="Desenhos", Popeye - SEQCA 04
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgMjJMSnc3clNyYkE/view
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2QrMAiL" group-title="Desenhos", Popeye - SEQCA 05
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgMUxHNkp2QzVGaGM/view
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2QrMAiL" group-title="Desenhos", Popeye - SEQCA 06
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgelQwTE9YdUJTRGM/view
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2QrMAiL" group-title="Desenhos", Popeye - SEQCA 07
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgcHRrVGVZZjFrWWs/view
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2QrMAiL" group-title="Desenhos", Popeye - SEQCA 08
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgQXZ0S0RxTEVnU2c/view
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2QrMAiL" group-title="Desenhos", Popeye - SEQCA 09
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgdE80SWpxRGRrQTA/view
+
+
 #EXTINF:-1 tvg-logo="https://bit.ly/2QrMAiL" group-title="Desenhos", Popeye - SEQCA 10
 
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgWFQ2MVR3ay1TYmc/view
+
 #EXTINF:-1 tvg-logo="https://bit.ly/2QrMAiL" group-title="Desenhos", Popeye - SEQCA 11
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgcmVJOUc3UWhfMVE/view
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2QrMAiL" group-title="Desenhos", Popeye - SEQCA 12
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgRTJ6ZXFtOGR2Zmc/view
+
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2QrMAiL" group-title="Desenhos", Popeye - SEQCA 13
-plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgbUc3Y21yRnFBZWs/view
+
