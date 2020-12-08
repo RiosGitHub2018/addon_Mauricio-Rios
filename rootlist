@@ -47,13 +47,6 @@
 	<thumbnail>https://i.imgur.com/Gggwof8.jpg</thumbnail>
 	<items>
 	<!-- if channels_info, 1ª lista -->		
-    <item>
-	<title>[B][COLOR  mediumseagreen]OPÇÃO A[/COLOR][/B]</title>
-	<link>http://ignorame</link>
-	<thumbnail>http://xmbcrios.esy.es/logo/tvaovivoplus.png</thumbnail>
-	<fanart>http://www.armacao.com.br/blog/wp-content/uploads/2011/04/features_global.jpg</fanart>
-	<externallink>http://bit.ly/CanaisIPTVbreserva</externallink>
-	</item>
 	<item>
 	<title>[B][COLOR  indianred]OPÇÃO 1[/COLOR][/B]</title>
 	<link>http://ignorame</link>
@@ -61,28 +54,7 @@
 	<fanart>http://www.armacao.com.br/blog/wp-content/uploads/2011/04/features_global.jpg</fanart>
 	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/riostv</externallink>
 	</item>
-	<item>
-	<title>[B][COLOR  cornflowerblue]OPÇÃO 2[/COLOR][/B]</title>
-	<link>http://ignorame</link>
-	<thumbnail>http://xmbcrios.esy.es/logo/tvaovivop2.png</thumbnail>
-	<fanart>http://www.armacao.com.br/blog/wp-content/uploads/2011/04/features_global.jpg</fanart>
-	<externallink>http://q.gs/8978201/lista-pjt</externallink>
-	</item>
-	<item>
-	<title>[B][COLOR  mediumseagreen]OPÇÃO 3[/COLOR][/B]</title>
-	<link>http://ignorame</link>
-	<thumbnail>http://xmbcrios.esy.es/logo/tvaovivop3.png</thumbnail>
-	<fanart>http://www.armacao.com.br/blog/wp-content/uploads/2011/04/features_global.jpg</fanart>
-	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/riostv</externallink>
-	</item>
-	<item>
-	<title>[B][COLOR  cornflowerblue]OPÇÃO 4[/COLOR][/B]</title>
-	<link>http://ignorame</link>
-	<thumbnail>http://xmbcrios.esy.es/logo/tvaovivmn.png</thumbnail>
-	<fanart>http://www.armacao.com.br/blog/wp-content/uploads/2011/04/features_global.jpg</fanart>
-	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/listaIPTV.m3u</externallink>
-	</item>
-	</items>	
+		</items>	
 	</channel>
 	</channels>	
 
