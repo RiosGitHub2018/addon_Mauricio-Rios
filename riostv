@@ -45,7 +45,7 @@
 
 <item>
 <title>Loading TV</title>
-<link>https://cdn4.showcase.com.br/live/main_240p/index.m3u8</link>
+<link>https://aws-br.cdn.booyah.live/hls/1000006/34850987_1080.m3u8</link> 
 <thumbnail>https://bit.ly/2IAUdBr</thumbnail>
 <fanart>https://bit.ly/2TiljwC</fanart>
 </item>
