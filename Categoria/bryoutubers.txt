@@ -1,0 +1,9 @@
+<layoutype>thumbnail</layoutype>
+<item>
+<title>[B]Assistir Bryoutubers[/B]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ytchannels/?</jsonrpc>
+<fanart>https://raw.githubusercontent.com/xmbcrios/xmbcrios.repository/master/plugin.video.bryoutubers/fanart.jpg</fanart>
+<thumbnail>http://zip.net/bjtyqy</thumbnail>
+</item>
+
