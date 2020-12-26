@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/sunvucan.png" group-title="Tokusatsus", 01- Sun Vulcan-RIOSTV     
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgMGViNEM3alpheU0/view
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/sunvucan.png" group-title="Tokusatsus", 02- Sun Vulcan-RIOSTV     
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/sunvucan.png" group-title="Tokusatsus", 03- Sun Vulcan-RIOSTV     
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/sunvucan.png" group-title="Tokusatsus", 04- Sun Vulcan-RIOSTV     
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
+#EXTINF:-1 tvg-logo="http://xmbcrios.esy.es/icons/sunvucan.png" group-title="Tokusatsus", 05- Sun Vulcan-RIOSTV     
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=
