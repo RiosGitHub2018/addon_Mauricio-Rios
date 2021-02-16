@@ -78,6 +78,16 @@
 	<info>Policial de Aço Jiban é uma série tokusatsu da franquia Metal Hero, produzida pela Toei Company entre 1989 e 1990. Foi quase que inteiramente inspirada no personagem norte-americano Robocop. Trazida ao Brasil pela extinta distribuidora Top Tape, foi exibida a partir de 1990 pela Rede Manchete. Ao todo tem 52 episódios, onde apenas 50 foram exibidos pela emissora carioca na época. Atualmente é exibida de forma não autorizada pela Ulbra TV de Porto Alegre e Rede Brasil de Televisão. que atualmente é exibido todas as terças na Rede Brasil de Televisão, Também está saindo em DVD pela Distribuidora Focus Filmes.</info>
 	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/Tokusatsus/Jiban.m3u</externallink>
 	</item>
+    <!-- if channels_info, 10 série tokusatus -->
+    <item>
+	<title>Esquadrão Especial Winspector [COLOR orange](Dublado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>Metal Heros</genre>
+	<thumbnail>https://bit.ly/2Zn2Rbu</thumbnail>
+	<fanart>https://3.bp.blogspot.com/-WE1uRwBRZh4/XZ_TtAMFQ-I/AAAAAAAACAY/0XfiqIOXRtAxywzvMTGC4HubltOFIhdewCLcBGAsYHQ/s1600/fanarttokus.jpg</fanart>
+	<info>Esquadrão Especial Winspector é uma série de televisão japonesa do gênero tokusatsu, pertencente à franquia Metal Hero. Produzida pela Toei Company foi exibida originalmente entre 4 de fevereiro de 1990 e 13 de janeiro de 1991 pela TV Asahi, totalizando 49 episódios[1]. No Brasil, foi transmitida pela Rede Manchete a partir de julho de 1994, onde permaneceu por um longo período na grade de programação, até ser retirada do ar em dezembro de 1997[2]. A série narra as aventuras e missões do grupo de resgate chamado "Esquadrão Especial Winspector", que combate o crime e situações perigosas que a polícia convencional não pode resolver[2]. A equipe é formada por um policial japonês chamado Liuma Ogawa e dois assistentes robôs (Biker e Highter). A série da franquia dos Metal Heroes foi a primeira da trilogia dos Rescue Heroes. Atualmente a série é exibida na TV Diário de Fortaleza/Ceará dentro do programa Turminha Diário.</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/Tokusatsus/Solbrain.m3u</externallink>
+	</item>
 	<!-- if channels_info, 9ª série tokusatus -->
 	<item>
 	<title>Equipe de Resgate Solbrain [COLOR orange](Dublado)[/COLOR]</title>
@@ -97,15 +107,5 @@
 	<fanart>https://3.bp.blogspot.com/-WE1uRwBRZh4/XZ_TtAMFQ-I/AAAAAAAACAY/0XfiqIOXRtAxywzvMTGC4HubltOFIhdewCLcBGAsYHQ/s1600/fanarttokus.jpg</fanart>
 	<info>Tokusou Robo Janperson é uma série de televisão do gênero tokusatsu pertencente à franquia dos Metal Heroes. Produzida pela Toei Company, foi exibida originalmente entre 31 de janeiro de 1993 e 23 de janeiro de 1994 pela TV Asahi</info>
 	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/Tokusatsus/Janperson.m3u</externallink>
-	</item>
-	<!-- if channels_info, 10 série tokusatus -->
-   <item>
-	<title>Esquadrão Especial Winspector [COLOR orange](Dublado)[/COLOR]</title>
-	<link>http://ignorame</link>
-	<genre>Metal Heros</genre>
-	<thumbnail>https://bit.ly/2Zn2Rbu</thumbnail>
-	<fanart>https://3.bp.blogspot.com/-WE1uRwBRZh4/XZ_TtAMFQ-I/AAAAAAAACAY/0XfiqIOXRtAxywzvMTGC4HubltOFIhdewCLcBGAsYHQ/s1600/fanarttokus.jpg</fanart>
-	<info>Esquadrão Especial Winspector é uma série de televisão japonesa do gênero tokusatsu, pertencente à franquia Metal Hero. Produzida pela Toei Company foi exibida originalmente entre 4 de fevereiro de 1990 e 13 de janeiro de 1991 pela TV Asahi, totalizando 49 episódios[1]. No Brasil, foi transmitida pela Rede Manchete a partir de julho de 1994, onde permaneceu por um longo período na grade de programação, até ser retirada do ar em dezembro de 1997[2]. A série narra as aventuras e missões do grupo de resgate chamado "Esquadrão Especial Winspector", que combate o crime e situações perigosas que a polícia convencional não pode resolver[2]. A equipe é formada por um policial japonês chamado Liuma Ogawa e dois assistentes robôs (Biker e Highter). A série da franquia dos Metal Heroes foi a primeira da trilogia dos Rescue Heroes. Atualmente a série é exibida na TV Diário de Fortaleza/Ceará dentro do programa Turminha Diário.</info>
-	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/Tokusatsus/Solbrain.m3u</externallink>
 	</item>
 	<!-- if channels_info, 10 série tokusatus -->
