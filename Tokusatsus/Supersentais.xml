@@ -82,7 +82,18 @@
 	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/Tokusatsus/Maskmam.m3u</externallink>
 	</item>
 
-	<!-- if channels_info, 10ª série Super Sentais -->	       	
+	<!-- if channels_info, 10ª série Super Sentais -->	    
+	<item>
+	<title>Liveman [COLOR orange](Legendado)[/COLOR]</title>
+	<link>http://ignorame</link>
+	<genre>• Ano 1988 / Denji Sentai Megaranger</genre>
+	<thumbnail>https://live.staticflickr.com/65535/51800977792_28b69704e0_b.jpg</thumbnail>
+	<fanart>https://3.bp.blogspot.com/-WE1uRwBRZh4/XZ_TtAMFQ-I/AAAAAAAACAY/0XfiqIOXRtAxywzvMTGC4HubltOFIhdewCLcBGAsYHQ/s1600/fanarttokus.jpg</fanart>
+	<info>Choju Sentai Raibuman , Super Besta Esquadrão Liveman) é a entrada duodécimo do Toei Company 's Super Sentai metaseries . O último título Super Sentai do período Shōwa , [1] foi ao ar na TV Asahi de 27 de fevereiro de 1988 a 18 de fevereiro de 1989. Seu título internacional em inglês listado pela Toei é simplesmente Liveman . [2] A série foi transmitida na França como Bioman 3 , sendo comercializada como uma sequência direta de Choudenshi Bioman e Bioman 2 ( Hikari Sentai Maskman)</info>
+	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/Tokusatsus/Liveman.m3u</externallink>
+	</item>  
+	
+	<!-- if channels_info, 10ª série Super Sentais -->	    	
 	<item>
 	<title>Jetman [COLOR orange](Legendado)[/COLOR]</title>
 	<link>http://ignorame</link>
@@ -94,12 +105,6 @@
 	</item>
 	<!-- if channels_info, 11ª série Super Sentais -->	       	
 
-	<item>
-	<title>Megaranger [COLOR orange](Legendado)[/COLOR]</title>
-	<link>http://ignorame</link>
-	<genre>• Ano 1996 / Denji Sentai Megaranger</genre>
-	<thumbnail>https://live.staticflickr.com/65535/51801982578_62507b3218_o.jpg</thumbnail>
-	<fanart>https://3.bp.blogspot.com/-WE1uRwBRZh4/XZ_TtAMFQ-I/AAAAAAAACAY/0XfiqIOXRtAxywzvMTGC4HubltOFIhdewCLcBGAsYHQ/s1600/fanarttokus.jpg</fanart>
-	<info>Denji Sentai Megarenjā , Electromagnetic Task Force Megaranger) é Toei 's vinte e produção dos Super Sentai metaseries . A filmagem também foi usada na série americana Power Rangers in Space . Megaranger estreou em 14 de fevereiro de 1997 e concluído em 15 de fevereiro de 1998.</info>
-	<externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/Tokusatsus/Megaranger.m3u</externallink>
-	</item>
+
+	
+	https://live.staticflickr.com/65535/51800977792_28b69704e0_b.jpg
