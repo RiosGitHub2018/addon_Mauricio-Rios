@@ -11,16 +11,6 @@
 </channel>
 
 <channels><channel>
-  <name>[COLOR orange]SyberCops[/COLOR]</name>
-  <thumbnail>https://4.bp.blogspot.com/-mhDXZzq2vRI/XZ_V3oQrfJI/AAAAAAAACBw/nUNtZYEJ3L8Plp25hVzyCqFECf0djEnhQCLcBGAsYHQ/s1600/cybercops.jpg</thumbnail>
-  <fanart>https://3.bp.blogspot.com/-WE1uRwBRZh4/XZ_TtAMFQ-I/AAAAAAAACAY/0XfiqIOXRtAxywzvMTGC4HubltOFIhdewCLcBGAsYHQ/s1600/fanarttokus.jpg</fanart>
-  <info>
-  	"Polícia Computadorizada CyberCop" é uma série japonesa de tokusatsu, de categoria Henshin Hero, que foi produzida pelo estúdio Tōhō, sendo exibida originalmente no Japão pela NTV entre 1988 e 1989. Trazida ao Brasil pela Sato Company (cujo dono era Nelson Sato) estreando na extinta Rede Manchete em 1990 no programa Clube da Criança ficando no ar na emissora até a metade da mesma década conquistando ótimos índices de audiência. 
-  </info>
-  <externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/Tokusatsus/SyberCops.m3u</externallink>
-</channel>
-
-<channels><channel>
   <name>[COLOR orange]Machineman[/COLOR]</name>
   <thumbnail>https://4.bp.blogspot.com/-ZYjmx0DS0XA/XZ_V4TFs4BI/AAAAAAAACB4/im_nbpGps2wWlD1fl-jQDngZx0R34wR7wCLcBGAsYHQ/s1600/machineman.jpg</thumbnail>
   <fanart>https://3.bp.blogspot.com/-WE1uRwBRZh4/XZ_TtAMFQ-I/AAAAAAAACAY/0XfiqIOXRtAxywzvMTGC4HubltOFIhdewCLcBGAsYHQ/s1600/fanarttokus.jpg</fanart>
@@ -29,6 +19,17 @@
   </info>
   <externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/Tokusatsus/Machineman.m3u</externallink>
 </channel>
+
+<channels><channel>
+  <name>[COLOR orange]Robô Gigante[/COLOR]</name>
+  <thumbnail>https://live.staticflickr.com/65535/51806109953_55b4266eb9_o.jpg</thumbnail>
+  <fanart>https://3.bp.blogspot.com/-WE1uRwBRZh4/XZ_TtAMFQ-I/AAAAAAAACAY/0XfiqIOXRtAxywzvMTGC4HubltOFIhdewCLcBGAsYHQ/s1600/fanarttokus.jpg</fanart>
+  <info>
+  	Robô Gigante ou Giant Robo  é uma franquia japonesa de mangá, tokusatsu e anime criada por Mitsuteru Yokoyama, em que o enorme robô com o mesmo nome como o título aparece. Produzida entre 11 de outubro de 1967 e 1 de abril de 1968 pela Toei Company, e exibida pela NET TV com o total de 26 episódios e baseado em um mangá criado por Mitsuteru Yokoyama. A série passou nos anos 70 na Rede Globo e Rede Tupi de Televisão e nos anos 80 na TV Record. Sua última exibição na TV brasileira foi em 1986 junto com o "Vingadores do Espaço" na Sessão de Séries Enlatadas intitulada "Heróis do Espaço".
+  </info>
+  <externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/Tokusatsus/RBGigante.m3u</externallink>
+</channel>
+
 
 
 
