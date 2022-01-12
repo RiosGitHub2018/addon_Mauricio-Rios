@@ -41,6 +41,16 @@
 </channel>
 
 <channels><channel>
+  <name>[COLOR orange]Sazer-X (Legendado)[/COLOR]</name>
+  <thumbnail>https://live.staticflickr.com/65535/51816904648_0eac94afc7_o.jpg</thumbnail>
+  <fanart>https://3.bp.blogspot.com/-WE1uRwBRZh4/XZ_TtAMFQ-I/AAAAAAAACAY/0XfiqIOXRtAxywzvMTGC4HubltOFIhdewCLcBGAsYHQ/s1600/fanarttokus.jpg</fanart>
+  <info>
+  	Ultra Armada Estelar Sazer-X é uma série de TV de super-heróis tokusatsu produzida pela Toho Company Ltd. e Konami. Esta série é a terceira da série Seishin (Star God) da Toho. A série teve 38 episódios e foi a última da franquia Chouseishin. Ela se desvia de seus predecessores de várias maneiras, sendo mais cômico por natureza e muito mais voltado para a ficção científica em contraste com a fantasia.
+  </info>
+  <externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/Tokusatsus/Sazerx.m3u</externallink>
+</channel>
+
+<channels><channel>
   <name>[COLOR orange]SyberCops[/COLOR]</name>
   <thumbnail>https://4.bp.blogspot.com/-mhDXZzq2vRI/XZ_V3oQrfJI/AAAAAAAACBw/nUNtZYEJ3L8Plp25hVzyCqFECf0djEnhQCLcBGAsYHQ/s1600/cybercops.jpg</thumbnail>
   <fanart>https://3.bp.blogspot.com/-WE1uRwBRZh4/XZ_TtAMFQ-I/AAAAAAAACAY/0XfiqIOXRtAxywzvMTGC4HubltOFIhdewCLcBGAsYHQ/s1600/fanarttokus.jpg</fanart>
@@ -59,8 +69,3 @@
   </info>
   <externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/Tokusatsus/spidermJapa.m3u</externallink>
 </channel>
-
-
-
-
-
