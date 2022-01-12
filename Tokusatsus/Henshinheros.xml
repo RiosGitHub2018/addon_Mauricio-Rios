@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 
 <channels><channel>
+  <name>[COLOR orange]Justirisers.m3u - Laraja (Legendado)[/COLOR]</name>
+  <thumbnail>https://live.staticflickr.com/65535/51817084194_39fbd55718_o.png</thumbnail>
+  <fanart>https://3.bp.blogspot.com/-WE1uRwBRZh4/XZ_TtAMFQ-I/AAAAAAAACAY/0XfiqIOXRtAxywzvMTGC4HubltOFIhdewCLcBGAsYHQ/s1600/fanarttokus.jpg</fanart>
+  <info>
+  	Genseishin Jasutiraizā) é uma série de TV tokusatsu produzida pela Toho e exibida na TV Tóquio. Esta série é a segunda da série Seishin (Star God) de Toho. O programa exibiu 51 episódios entre 2 de outubro de 2004 e 24 de setembro de 2005.
+  </info>
+  <externallink>https://raw.githubusercontent.com/RiosGitHub2018/addon_Mauricio-Rios/master/Tokusatsus/Justirisers.m3u</externallink>
+</channel>
+
+<channels><channel>
   <name>[COLOR orange]Lion Man - Laraja[/COLOR]</name>
   <thumbnail>https://2.bp.blogspot.com/-BGJifePxvmg/XZ_V34NmPBI/AAAAAAAACB0/WIuTMGpeWeknm3I4eVl--8kfyxbgj8KVwCLcBGAsYHQ/s1600/lioman.jpg</thumbnail>
   <fanart>https://3.bp.blogspot.com/-WE1uRwBRZh4/XZ_TtAMFQ-I/AAAAAAAACAY/0XfiqIOXRtAxywzvMTGC4HubltOFIhdewCLcBGAsYHQ/s1600/fanarttokus.jpg</fanart>
@@ -41,7 +51,7 @@
 </channel>
 
 <channels><channel>
-  <name>[COLOR orange]Spider-Man[/COLOR]</name>
+  <name>[COLOR orange]Spider-Man (Legendado)[/COLOR]</name>
   <thumbnail>https://live.staticflickr.com/65535/51806390824_dbf9b0d7b7_o.jpg</thumbnail>
   <fanart>https://3.bp.blogspot.com/-WE1uRwBRZh4/XZ_TtAMFQ-I/AAAAAAAACAY/0XfiqIOXRtAxywzvMTGC4HubltOFIhdewCLcBGAsYHQ/s1600/fanarttokus.jpg</fanart>
   <info>
